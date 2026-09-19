@@ -3,7 +3,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from app.core.config import settings
 from app.db.database import engine, Base
-from app.api.routes import auth
+from app.api.routes import auth, tenders, submissions
 
 # Import models so SQLAlchemy knows they exist and can build the tables
 from app.db import models
@@ -45,3 +45,6 @@ def health_check():
 
 # (In Phase 3 and 4, we will register our auth, tender, and officer routers down here)
 app.include_router(auth.router, prefix="/api/auth", tags=["Authentication"])
+app.include_router(auth.router, prefix="/api/auth", tags=["Authentication"])
+app.include_router(tenders.router, prefix="/api/tenders", tags=["Tenders"])
+app.include_router(submissions.router, prefix="/api/submissions", tags=["Submissions"])

@@ -203,6 +203,18 @@ class DocumentUploadResponse(BaseModel):
     processing_status: str
     uploaded_at: datetime
 
+class ApplicationCreateRequest(BaseModel):
+    tender_id: str
+
+class ApplicationResponse(BaseModel):
+    application_id: str
+    status: ApplicationStatus
+    submitted_at: Optional[datetime] = None
+    documents: List[DocumentUploadResponse] = []
+
+    class Config:
+        from_attributes = True
+
 class DocumentAnalysisSchema(DocumentUploadResponse):
     extracted_fields: List[ExtractedFieldResponse] = []
 
