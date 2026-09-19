@@ -1,3 +1,4 @@
+# app/db/models.py
 from sqlalchemy import (
     Column, Integer, String, Boolean, DateTime,
     ForeignKey, Float, Text, Enum
@@ -144,6 +145,7 @@ class Tender(Base):
     title = Column(String(255), nullable=False)
     description = Column(Text, nullable=True)
     category = Column(String(100), nullable=True)
+    location = Column(String(255), nullable=True) # Added for Schema
     publish_date = Column(DateTime, nullable=True)
     bid_deadline = Column(DateTime, nullable=True)
     application_capacity = Column(Integer, default=100, nullable=False)
@@ -165,10 +167,10 @@ class TenderRequirement(Base):
     requirement_name = Column(String(255), nullable=False)
     description = Column(Text, nullable=True)
     mandatory = Column(Boolean, default=True, nullable=False)
-    evidence_type = Column(String(50), nullable=False)  # FILE, LINK, STRUCTURED_VALUE
+    evidence_type = Column(String(50), nullable=False)
     accepted_formats = Column(String(100), default="pdf,jpg,png")
-    validation_rule_type = Column(String(50), nullable=True)  # NUMERIC_COMPARISON, EXACT_MATCH, etc.
-    operator = Column(String(10), nullable=True)  # >=, <=, ==
+    validation_rule_type = Column(String(50), nullable=True)
+    operator = Column(String(10), nullable=True)
     required_value = Column(String(255), nullable=True)
     unit = Column(String(50), nullable=True)
     weight = Column(Integer, default=10, nullable=False)
@@ -213,6 +215,7 @@ class BidSubmission(Base):
     documents = relationship("BidderDocument", back_populates="submission", cascade="all, delete-orphan")
     verification_results = relationship("VerificationResult", back_populates="submission", cascade="all, delete-orphan")
     cross_document_findings = relationship("CrossDocumentFinding", back_populates="submission", cascade="all, delete-orphan")
+    government_verifications = relationship("GovernmentSourceRecord", back_populates="submission", cascade="all, delete-orphan") # Added relationship
     score_risk = relationship("ScoreRiskAssessment", back_populates="submission", uselist=False, cascade="all, delete-orphan")
     ai_recommendations = relationship("AIRecommendation", back_populates="submission", cascade="all, delete-orphan")
     officer_decision = relationship("OfficerDecision", back_populates="submission", uselist=False, cascade="all, delete-orphan")
@@ -255,7 +258,7 @@ class ExtractedField(Base):
     normalized_value = Column(Text, nullable=True)
     confidence = Column(Float, nullable=False)
     page_number = Column(Integer, default=1, nullable=False)
-    bounding_box = Column(Text, nullable=True)  # JSON coordinates
+    bounding_box = Column(Text, nullable=True)
 
     document = relationship("BidderDocument", back_populates="extracted_fields")
 
@@ -265,13 +268,18 @@ class GovernmentSourceRecord(Base):
 
     id = Column(Integer, primary_key=True, index=True)
     source_record_id = Column(String(32), unique=True, index=True, nullable=False)
+    submission_id = Column(Integer, ForeignKey("bid_submissions.id", ondelete="CASCADE"), nullable=False) # Linked to Submission
     source_name = Column(String(100), nullable=False)
     source_type = Column(Enum(SourceType), default=SourceType.MOCK, nullable=False)
     identifier_type = Column(String(50), nullable=False)
     identifier_value = Column(String(100), nullable=False)
     status = Column(String(50), nullable=False)
+    matched = Column(Boolean, default=False, nullable=False) # Added for Schema
+    response_data_json = Column(Text, nullable=True) # Added to store full JSON response
     raw_payload_path = Column(String(500), nullable=True)
     checked_at = Column(DateTime, default=datetime.utcnow, nullable=False)
+
+    submission = relationship("BidSubmission", back_populates="government_verifications")
 
 
 class VerificationResult(Base):
@@ -288,6 +296,7 @@ class VerificationResult(Base):
     confidence = Column(Float, nullable=False)
     reason = Column(Text, nullable=False)
     requires_human_review = Column(Boolean, default=False, nullable=False)
+    field_comparisons_json = Column(Text, nullable=True) # Added to store OCR vs DB diffs
 
     submission = relationship("BidSubmission", back_populates="verification_results")
     requirement = relationship("TenderRequirement", back_populates="verification_results")
@@ -299,39 +308,37 @@ class CrossDocumentFinding(Base):
     id = Column(Integer, primary_key=True, index=True)
     finding_id = Column(String(32), unique=True, index=True, nullable=False)
     submission_id = Column(Integer, ForeignKey("bid_submissions.id", ondelete="CASCADE"), nullable=False)
-    finding_type = Column(String(100), nullable=False)  # LEGAL_NAME_CONSISTENCY, PAN_GSTIN_MISMATCH
-    severity = Column(String(20), nullable=False)       # LOW, MEDIUM, HIGH
+    finding_type = Column(String(100), nullable=False)
+    severity = Column(String(20), nullable=False)
     status = Column(Enum(ComplianceResult), nullable=False)
-    compared_data = Column(Text, nullable=False)        # JSON array of documents compared
+    compared_data = Column(Text, nullable=False) 
     reason = Column(Text, nullable=False)
     confidence = Column(Float, nullable=False)
 
     submission = relationship("BidSubmission", back_populates="cross_document_findings")
 
 # ==========================================
-# 5. EVIDENCE GRAPH (INNOVATION 3)
+# 5. EVIDENCE GRAPH
 # ==========================================
 
 class EvidenceNode(Base):
     __tablename__ = "evidence_nodes"
-
     id = Column(Integer, primary_key=True, index=True)
     node_id = Column(String(64), unique=True, index=True, nullable=False)
     submission_id = Column(String(32), index=True, nullable=False)
-    node_type = Column(String(50), nullable=False)  # TENDER_REQUIREMENT, DOCUMENT, EXTRACTED_FIELD, RULE, RESULT
+    node_type = Column(String(50), nullable=False)
     label = Column(String(255), nullable=False)
     metadata_json = Column(Text, nullable=True)
 
 
 class EvidenceEdge(Base):
     __tablename__ = "evidence_edges"
-
     id = Column(Integer, primary_key=True, index=True)
     edge_id = Column(String(64), unique=True, index=True, nullable=False)
     submission_id = Column(String(32), index=True, nullable=False)
     source_node_id = Column(String(64), nullable=False)
     target_node_id = Column(String(64), nullable=False)
-    relationship_type = Column(String(50), nullable=False)  # SATISFIED_BY, EXTRACTED_FROM, EVALUATED_BY
+    relationship_type = Column(String(50), nullable=False)
 
 # ==========================================
 # 6. SCORE, RISK, DECISION & AUDIT
@@ -339,22 +346,19 @@ class EvidenceEdge(Base):
 
 class ScoreRiskAssessment(Base):
     __tablename__ = "score_risk_assessments"
-
     id = Column(Integer, primary_key=True, index=True)
     submission_id = Column(Integer, ForeignKey("bid_submissions.id", ondelete="CASCADE"), nullable=False)
     compliance_score = Column(Float, nullable=False)
-    risk_level = Column(String(20), nullable=False)  # LOW, MEDIUM, HIGH
+    risk_level = Column(String(20), nullable=False)
     risk_score = Column(Float, nullable=False)
     score_breakdown_json = Column(Text, nullable=False)
     risk_signals_json = Column(Text, nullable=False)
     calculated_at = Column(DateTime, default=datetime.utcnow, nullable=False)
-
     submission = relationship("BidSubmission", back_populates="score_risk")
 
 
 class AIRecommendation(Base):
     __tablename__ = "ai_recommendations"
-
     id = Column(Integer, primary_key=True, index=True)
     recommendation_id = Column(String(32), unique=True, index=True, nullable=False)
     submission_id = Column(Integer, ForeignKey("bid_submissions.id", ondelete="CASCADE"), nullable=False)
@@ -362,13 +366,11 @@ class AIRecommendation(Base):
     message = Column(Text, nullable=False)
     severity = Column(String(20), nullable=False)
     created_at = Column(DateTime, default=datetime.utcnow, nullable=False)
-
     submission = relationship("BidSubmission", back_populates="ai_recommendations")
 
 
 class OfficerDecision(Base):
     __tablename__ = "officer_decisions"
-
     id = Column(Integer, primary_key=True, index=True)
     decision_id = Column(String(32), unique=True, index=True, nullable=False)
     submission_id = Column(Integer, ForeignKey("bid_submissions.id", ondelete="CASCADE"), nullable=False)
@@ -376,14 +378,12 @@ class OfficerDecision(Base):
     decision = Column(Enum(OfficerDecisionType), nullable=False)
     comments = Column(Text, nullable=False)
     decided_at = Column(DateTime, default=datetime.utcnow, nullable=False)
-
     submission = relationship("BidSubmission", back_populates="officer_decision")
     officer = relationship("ProcurementOfficerProfile", back_populates="decisions")
 
 
 class AuditLog(Base):
     __tablename__ = "audit_logs"
-
     id = Column(Integer, primary_key=True, index=True)
     audit_id = Column(String(32), unique=True, index=True, nullable=False)
     actor_user_id = Column(String(32), nullable=False)
@@ -397,7 +397,6 @@ class AuditLog(Base):
 
 class Notification(Base):
     __tablename__ = "notifications"
-
     id = Column(Integer, primary_key=True, index=True)
     notification_id = Column(String(32), unique=True, index=True, nullable=False)
     user_id = Column(Integer, ForeignKey("users.id", ondelete="CASCADE"), nullable=False)
@@ -405,5 +404,4 @@ class Notification(Base):
     message = Column(Text, nullable=False)
     is_read = Column(Boolean, default=False, nullable=False)
     created_at = Column(DateTime, default=datetime.utcnow, nullable=False)
-
     user = relationship("User", back_populates="notifications")
