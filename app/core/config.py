@@ -23,6 +23,8 @@ class Settings(BaseSettings):
     # CORS
     CORS_ORIGINS: str
 
+    USE_MOCK_DATA: bool = True
+
     # Pydantic v2 Config
     model_config = SettingsConfigDict(
         env_file=".env",

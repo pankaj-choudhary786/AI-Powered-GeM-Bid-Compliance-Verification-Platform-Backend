@@ -1,5 +1,5 @@
 # app/db/schemas.py
-from pydantic import BaseModel, EmailStr, Field
+from pydantic import BaseModel, EmailStr, Field, ConfigDict
 from typing import List, Optional, Any, Dict
 from datetime import datetime
 from enum import Enum
@@ -42,6 +42,16 @@ class OfficerDecisionType(str, Enum):
     DISQUALIFIED = "DISQUALIFIED"
     NEEDS_FURTHER_REVIEW = "NEEDS_FURTHER_REVIEW"
 
+class StandardDocumentType(str, Enum):
+    AADHAAR_CARD = "AADHAAR_CARD"
+    GST_CERTIFICATE = "GST_CERTIFICATE"
+    PAN_CARD = "PAN_CARD"
+    UDYAM_REGISTRATION = "UDYAM_REGISTRATION"
+    AUDITED_FINANCIALS = "AUDITED_FINANCIALS"
+    ISO_CERTIFICATE = "ISO_CERTIFICATE"
+    ITR_RETURN = "ITR_RETURN"
+    CUSTOM = "CUSTOM"
+
 # ==========================================
 # 1. AUTHENTICATION & USERS
 # ==========================================
@@ -68,6 +78,7 @@ class UserResponse(BaseModel):
     email: EmailStr
     role: UserRole
     account_status: str
+    meta_data: Optional[Dict[str, Any]] = None
     class Config:
         from_attributes = True
 
@@ -79,12 +90,23 @@ class TokenResponse(BaseModel):
 
 class BidderProfileResponse(BaseModel):
     bidder_id: str
+    display_id: Optional[str] = None
     company_name: str
     email: Optional[str] = None
     gstin: Optional[str] = None
     pan: Optional[str] = None
     udyam_number: Optional[str] = None
     registered_address: Optional[str] = None
+    
+    has_aadhar_card: bool = False
+    has_gst_certificate: bool = False
+    has_pan_card: bool = False
+    has_udyam_certificate: bool = False
+    has_iso_certificate: bool = False
+    has_financial_statement: bool = False
+    has_itr_return: bool = False
+    
+    meta_data: Optional[Dict[str, Any]] = None
     class Config:
         from_attributes = True
 
@@ -93,6 +115,7 @@ class BidderProfileResponse(BaseModel):
 # ==========================================
 
 class RequirementCreateRequest(BaseModel):
+    standard_document_type: StandardDocumentType = StandardDocumentType.CUSTOM
     requirement_name: str
     description: Optional[str] = None
     mandatory: bool = True
@@ -104,6 +127,7 @@ class RequirementCreateRequest(BaseModel):
     unit: Optional[str] = None
     weight: int = 10
     display_order: int = 0
+    meta_data: Optional[Dict[str, Any]] = None
 
 class RequirementResponse(RequirementCreateRequest):
     requirement_id: str
@@ -115,16 +139,20 @@ class TenderCreateRequest(BaseModel):
     description: Optional[str] = None
     category: Optional[str] = None
     location: Optional[str] = None
+    estimated_value: Optional[float] = None
     bid_deadline: Optional[datetime] = None
     application_capacity: int = 100
     requirements: List[RequirementCreateRequest] = []
+    meta_data: Optional[Dict[str, Any]] = None
 
 class TenderResponse(BaseModel):
     tender_id: str
+    display_id: Optional[str] = None
     title: str
     description: Optional[str] = None
     category: Optional[str] = None
     location: Optional[str] = None
+    estimated_value: Optional[float] = None
     status: TenderStatus
     publish_date: Optional[datetime] = None
     bid_deadline: Optional[datetime] = None
@@ -132,6 +160,7 @@ class TenderResponse(BaseModel):
     total_requirements: int = 0
     mandatory_requirements: int = 0
     requirements: List[RequirementResponse] = []
+    meta_data: Optional[Dict[str, Any]] = None
     class Config:
         from_attributes = True
 
@@ -195,23 +224,27 @@ class VerificationResultResponse(BaseModel):
 
 class DocumentUploadResponse(BaseModel):
     document_id: str
+    display_id: Optional[str] = None
     requirement_id: str
     original_file_name: str
     mime_type: str
     file_size_bytes: int
     sha256: str
     processing_status: str
+    meta_data: Optional[Dict[str, Any]] = None
     uploaded_at: datetime
 
 class ApplicationCreateRequest(BaseModel):
     tender_id: str
+    meta_data: Optional[Dict[str, Any]] = None
 
 class ApplicationResponse(BaseModel):
     application_id: str
+    display_id: Optional[str] = None
     status: ApplicationStatus
     submitted_at: Optional[datetime] = None
     documents: List[DocumentUploadResponse] = []
-
+    meta_data: Optional[Dict[str, Any]] = None
     class Config:
         from_attributes = True
 
@@ -238,19 +271,6 @@ class CrossDocumentFindingResponse(BaseModel):
     compared_documents: List[ComparedDocumentSchema] = []
     reason: str
     confidence: float
-    class Config:
-        from_attributes = True
-
-class GovernmentVerificationResponse(BaseModel):
-    source_record_id: str
-    source_name: str
-    source_type: str
-    identifier_type: str
-    identifier_value: str
-    status: str
-    matched: bool
-    response_data: Dict[str, Any] = {}
-    checked_at: datetime
     class Config:
         from_attributes = True
 
@@ -304,12 +324,45 @@ class AuditLogResponse(BaseModel):
     class Config:
         from_attributes = True
 
+class MockGovernmentRegistrySchema(BaseModel):
+    model_config = ConfigDict(from_attributes=True, extra="allow")
+
+    id: Optional[int] = None
+    entity_name: str
+    pan: str
+    gstin: Optional[str] = None
+    udyam_number: Optional[str] = None
+    cin: Optional[str] = None
+    gst_status: str = "Active"
+    pan_status: str = "E"
+    udyam_status: Optional[str] = "Verified"
+    blacklisted: bool = False
+    annual_turnover_cr: Optional[float] = None
+    enterprise_type: Optional[str] = None
+    startup_recognized: bool = False
+    meta_data: Optional[Dict[str, Any]] = None
+
+class GovernmentVerificationResponse(BaseModel):
+    model_config = ConfigDict(from_attributes=True, extra="allow")
+
+    source_record_id: str
+    source_name: str
+    source_type: str
+    identifier_type: str
+    identifier_value: str
+    status: str
+    matched: bool
+    response_data: Dict[str, Any] = {}
+    meta_data: Optional[Dict[str, Any]] = None
+    checked_at: datetime
+
 # ==========================================
 # 6. THE DASHBOARD MEGA-SCHEMA
 # ==========================================
 
 class ApplicationDashboardResponse(BaseModel):
     application_id: str
+    display_id: Optional[str] = None
     application_status: ApplicationStatus
     submitted_at: Optional[datetime] = None
     tender: TenderResponse
