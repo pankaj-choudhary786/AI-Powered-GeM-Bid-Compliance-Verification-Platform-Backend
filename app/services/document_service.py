@@ -17,7 +17,7 @@ MAX_FILE_SIZE_BYTES = 10 * 1024 * 1024  # 10 MB
 os.makedirs(UPLOAD_DIR, exist_ok=True)
 
 def upload_document(db: Session, current_user: User, file: UploadFile, application_id: str, requirement_id: str, metadata_string: str = None):
-    # 1. PERIMETER VALIDATION (Fail fast on malicious/large files before hitting DB)
+    # 1. PERIMETER VALIDATION
     if file.content_type not in ALLOWED_MIME_TYPES:
         raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail=f"Rejected: {file.content_type}. Only PDF, JPG, and PNG allowed.")
 
@@ -81,7 +81,6 @@ def upload_document(db: Session, current_user: User, file: UploadFile, applicati
     db.add(new_doc)
     db.flush()
     
-    # Generate sequential display ID
     new_doc.display_id = f"DOC-{new_doc.id:04d}"
     db.commit()
     db.refresh(new_doc)
@@ -89,6 +88,7 @@ def upload_document(db: Session, current_user: User, file: UploadFile, applicati
     metadata_dict = json.loads(new_doc.metadata_json) if new_doc.metadata_json else None
 
     return {
+        "id": new_doc.id,  # Database primary key needed by background workers
         "document_id": new_doc.document_id,
         "display_id": new_doc.display_id,
         "requirement_id": req.requirement_id,
@@ -97,6 +97,7 @@ def upload_document(db: Session, current_user: User, file: UploadFile, applicati
         "file_size_bytes": new_doc.file_size_bytes,
         "sha256": new_doc.sha256,
         "processing_status": new_doc.processing_status,
+        "meta_data": metadata_dict,
         "metadata": metadata_dict,
         "uploaded_at": new_doc.uploaded_at
     }

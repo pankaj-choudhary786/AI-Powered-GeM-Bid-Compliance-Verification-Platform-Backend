@@ -1,24 +1,32 @@
 # app/api/routes/verifications.py
-from fastapi import APIRouter, Depends, status
+from fastapi import APIRouter, Depends, HTTPException, status
+from fastapi.responses import JSONResponse
 from sqlalchemy.orm import Session
 from app.db.database import get_db
-from app.db.models import User
-from app.db.schemas import UserRole
-from app.api.deps import require_role
-from app.services.government_verification_service import run_government_verification
+from app.services.verification_service import execute_cross_document_matching
 
 router = APIRouter()
 
-@router.post("/api/verifications/documents/{application_id}")
+@router.post("/documents/{application_id}")
 def verify_documents_against_government_data(application_id: str, db: Session = Depends(get_db)):
-    # 1. Run OCR on all documents linked to the application
-    ocr_results = run_ocr_pipeline(db, application_id)
+    """
+    Executes the automated compliance check. If documents are still in the OCR queue,
+    returns a 202 PROCESSING state so the frontend can display a loading spinner.
+    """
+    matching_results = execute_cross_document_matching(db, application_id)
     
-    # 2. Cross-match OCR results against the government source records
-    match_results = execute_cross_document_matching(db, application_id)
-    
-    return {
-        "status": "COMPLETED",
-        "documents_processed": len(ocr_results),
-        "matches_found": match_results
-    }
+    if isinstance(matching_results, dict):
+        if matching_results.get("status") == "PROCESSING":
+            # Return HTTP 202 to tell the frontend: "Accepted, but still working"
+            return JSONResponse(
+                status_code=status.HTTP_202_ACCEPTED, 
+                content=matching_results
+            )
+            
+        elif matching_results.get("status") == "FAILED":
+            raise HTTPException(
+                status_code=status.HTTP_400_BAD_REQUEST, 
+                detail=matching_results.get("reason", "Verification failed.")
+            )
+            
+    return matching_results

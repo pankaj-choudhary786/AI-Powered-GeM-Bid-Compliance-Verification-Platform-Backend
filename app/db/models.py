@@ -2,7 +2,7 @@
 import json
 from sqlalchemy import (
     Column, Integer, String, Boolean, DateTime,
-    ForeignKey, Float, Text, Enum
+    ForeignKey, Float, Text, Enum, func
 )
 from sqlalchemy.orm import relationship
 from datetime import datetime
@@ -452,35 +452,39 @@ class Notification(Base):
     user = relationship("User", back_populates="notifications")
 
 
-class MockGovernmentRegistry(Base, MetaDataPropertyMixin):
-    __tablename__ = "mock_government_registry"
+# Add this inside app/db/models.py (Replacing the old MockGovernmentRegistry)
+
+class MockGovernmentRegistry(Base):
+    """
+    Simulates the central data repository accessible via API Setu / DigiLocker.
+    Combines data from Income Tax, GSTN, MCA21, UDYAM, and DPIIT.
+    """
+    __tablename__ = "mock_government_registries"
+
     id = Column(Integer, primary_key=True, index=True)
+    entity_name = Column(String, nullable=False)
     
-    # Core Entity Info
-    entity_name = Column(String(255), nullable=False)
-    pan = Column(String(10), unique=True, index=True, nullable=False)
-    gstin = Column(String(15), unique=True, index=True, nullable=True)
-    udyam_number = Column(String(30), unique=True, index=True, nullable=True)
-    cin = Column(String(21), unique=True, index=True, nullable=True)
+    # 1. Income Tax Department (ITD)
+    pan = Column(String, unique=True, index=True, nullable=False)
+    pan_status = Column(String, default="ACTIVE")
     
-    # Status Flags
-    gst_status = Column(String(20), default="Active")     # Active, Suspended, Cancelled
-    pan_status = Column(String(5), default="E")           # E = Valid/Existing
-    udyam_status = Column(String(20), default="Verified") # Verified, Expired
-    blacklisted = Column(Boolean, default=False)
+    # 2. GST Network (GSTN API)
+    gstin = Column(String, unique=True, index=True, nullable=True)
+    gst_registered_address = Column(String, nullable=True)
+    gst_status = Column(String, default="ACTIVE")
     
-    # Financial & Exemption Benchmarks
-    annual_turnover_cr = Column(Float, nullable=True)
-    enterprise_type = Column(String(20), nullable=True)   # Micro, Small, Medium
-    startup_recognized = Column(Boolean, default=False)
+    # 3. Ministry of MSME (UDYAM API)
+    udyam_number = Column(String, unique=True, index=True, nullable=True)
+    msme_type = Column(String, nullable=True) # MICRO, SMALL, MEDIUM
     
-    # Official Raw JSON Payloads
-    raw_gst_payload = Column(Text, nullable=True)
-    raw_pan_payload = Column(Text, nullable=True)
-    raw_udyam_payload = Column(Text, nullable=True)
-    raw_gem_payload = Column(Text, nullable=True)
+    # 4. Ministry of Corporate Affairs (MCA21 API)
+    cin = Column(String, unique=True, index=True, nullable=True) # Corporate Identification Number
+    date_of_incorporation = Column(String, nullable=True)
     
-    # Forward-Compatible Expansion Slot
+    # 5. Startup India / DPIIT API
+    dipp_number = Column(String, unique=True, index=True, nullable=True)
+    startup_recognition_status = Column(String, nullable=True)
+
+    created_at = Column(DateTime(timezone=True), server_default=func.now())
+
     metadata_json = Column(Text, nullable=True)
-    
-    created_at = Column(DateTime, default=datetime.utcnow, nullable=False)
