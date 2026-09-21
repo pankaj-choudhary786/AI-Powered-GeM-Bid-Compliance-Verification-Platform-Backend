@@ -1,3 +1,20 @@
 {
-  // PASTE YOUR RAW API RESPONSE JSON HERE
+  "ABC-1234": {
+    "identifier": "ABC-1234",
+    "entityType": "LLP",
+    "companyName": "NEXGEN AI ROBOTICS LLP",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "10/06/2021",
+    "rocCode": "RoC-Delhi",
+    "paidUpCapital": 500000
+  },
+  "U72900MH2018PTC123456": {
+    "identifier": "U72900MH2018PTC123456",
+    "entityType": "Company",
+    "companyName": "TECHNOVA SOLUTIONS PRIVATE LIMITED",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "10/02/2018",
+    "rocCode": "RoC-Mumbai",
+    "paidUpCapital": 1000000
+  }
 }

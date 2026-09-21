@@ -1,3 +1,18 @@
 {
-  // PASTE YOUR RAW API RESPONSE JSON HERE
+  "987654321012": {
+    "documentType": "AADHAAR",
+    "documentId": "987654321012",
+    "name": "Ramesh Sharma",
+    "dob": "14/08/1982",
+    "gender": "M",
+    "address": "12, MI Road, Jaipur, Rajasthan 302001",
+    "verified": true
+  },
+  "DL-RJ-2010-99999": {
+    "documentType": "DRIVING_LICENSE",
+    "documentId": "DL-RJ-2010-99999",
+    "name": "Ramesh Sharma",
+    "status": "ACTIVE",
+    "rto": "Jaipur RTO"
+  }
 }

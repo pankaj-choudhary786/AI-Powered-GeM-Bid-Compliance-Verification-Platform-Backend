@@ -1,0 +1,30 @@
+{
+  "AAAFN5678K": {
+    "pan_number": "AAAFN5678K",
+    "full_name": "NEXGEN AI ROBOTICS LLP",
+    "status": "ACTIVE",
+    "category": "Limited Liability Partnership",
+    "date_of_issue": "15/06/2021"
+  },
+  "AAACA1234A": {
+    "pan_number": "AAACA1234A",
+    "full_name": "TECHNOVA SOLUTIONS PRIVATE LIMITED",
+    "status": "ACTIVE",
+    "category": "Company",
+    "date_of_issue": "10/02/2018"
+  },
+  "ABCPS9876Q": {
+    "pan_number": "ABCPS9876Q",
+    "full_name": "SHARMA ENTERPRISES",
+    "status": "ACTIVE",
+    "category": "Individual/Proprietor",
+    "date_of_issue": "05/11/2015"
+  },
+  "BBBFP5555M": {
+    "pan_number": "BBBFP5555M",
+    "full_name": "QUANTUM LOGISTICS HUB",
+    "status": "ACTIVE",
+    "category": "Partnership Firm",
+    "date_of_issue": "22/08/2020"
+  }
+}

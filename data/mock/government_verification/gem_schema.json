@@ -1,3 +1,20 @@
 {
-  // PASTE YOUR RAW API RESPONSE JSON HERE
+  "GEM-SELLER-NXG-01": {
+    "sellerId": "GEM-SELLER-NXG-01",
+    "sellerName": "NEXGEN AI ROBOTICS LLP",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered",
+    "overallRating": 4.8,
+    "incidentCount": 0,
+    "primaryCategory": "IT Software Services"
+  },
+  "GEM-SELLER-TEC-02": {
+    "sellerId": "GEM-SELLER-TEC-02",
+    "sellerName": "TECHNOVA SOLUTIONS PRIVATE LIMITED",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.5,
+    "incidentCount": 1,
+    "primaryCategory": "Hardware & Networking"
+  }
 }

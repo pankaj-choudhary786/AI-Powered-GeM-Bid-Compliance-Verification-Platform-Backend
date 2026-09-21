@@ -1,3 +1,32 @@
 {
-  // PASTE YOUR RAW API RESPONSE JSON HERE
+  "UDYAM-DL-01-0023456": {
+    "udyamRegistrationNumber": "UDYAM-DL-01-0023456",
+    "enterpriseName": "NEXGEN AI ROBOTICS LLP",
+    "organizationType": "Limited Liability Partnership",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "MICRO",
+    "dateOfRegistration": "25/06/2021",
+    "state": "DELHI",
+    "district": "SOUTH EAST DELHI"
+  },
+  "UDYAM-MH-18-0011223": {
+    "udyamRegistrationNumber": "UDYAM-MH-18-0011223",
+    "enterpriseName": "TECHNOVA SOLUTIONS PRIVATE LIMITED",
+    "organizationType": "Private Limited Company",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "20/04/2018",
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI"
+  },
+  "UDYAM-RJ-14-0044556": {
+    "udyamRegistrationNumber": "UDYAM-RJ-14-0044556",
+    "enterpriseName": "SHARMA ENTERPRISES",
+    "organizationType": "Proprietorship",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "MICRO",
+    "dateOfRegistration": "15/01/2018",
+    "state": "RAJASTHAN",
+    "district": "JAIPUR"
+  }
 }

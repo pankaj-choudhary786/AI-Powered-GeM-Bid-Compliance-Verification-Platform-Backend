@@ -25,7 +25,6 @@ def login(request: LoginRequest, db: Session = Depends(get_db)):
     
     access_token = create_access_token(data={"sub": user.email, "role": user.role})
     
-    # Generate redirect based on role
     redirect_map = {
         "BIDDER": "/bidder/dashboard",
         "TENDER_CREATOR": "/creator/dashboard",
@@ -45,5 +44,4 @@ def get_me(current_user: User = Depends(get_current_user)):
 
 @router.post("/logout")
 def logout():
-    # In stateless JWT, logout is handled client-side by deleting the token.
     return {"message": "Successfully logged out. Please delete the token on the client side."}

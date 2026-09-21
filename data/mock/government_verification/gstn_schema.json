@@ -1,3 +1,38 @@
 {
-  // PASTE YOUR RAW API RESPONSE JSON HERE
+  "07AAAFN5678K1ZQ": {
+    "gstin": "07AAAFN5678K1ZQ",
+    "lgnm": "NEXGEN AI ROBOTICS LLP",
+    "tradeNam": "NEXGEN AI",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "20/06/2021",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "42", "st": "Okhla Phase 3", "loc": "New Delhi", "dst": "South East Delhi", "stcd": "Delhi", "pncd": "110020"}
+    }
+  },
+  "27AAACA1234A1Z5": {
+    "gstin": "27AAACA1234A1Z5",
+    "lgnm": "TECHNOVA SOLUTIONS PRIVATE LIMITED",
+    "tradeNam": "TECHNOVA",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "15/03/2018",
+    "ctb": "Private Limited Company",
+    "pradr": {
+      "addr": {"bno": "101", "st": "Andheri East", "loc": "Mumbai", "dst": "Mumbai Suburban", "stcd": "Maharashtra", "pncd": "400069"}
+    }
+  },
+  "08ABCPS9876Q1Z2": {
+    "gstin": "08ABCPS9876Q1Z2",
+    "lgnm": "RAMESH SHARMA",
+    "tradeNam": "SHARMA ENTERPRISES",
+    "sts": "Active",
+    "dty": "Composition",
+    "rgdt": "10/12/2017",
+    "ctb": "Proprietorship",
+    "pradr": {
+      "addr": {"bno": "12", "st": "MI Road", "loc": "Jaipur", "dst": "Jaipur", "stcd": "Rajasthan", "pncd": "302001"}
+    }
+  }
 }

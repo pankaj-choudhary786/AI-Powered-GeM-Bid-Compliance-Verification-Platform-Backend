@@ -1,38 +1,47 @@
 # app/integrations/gst.py
 import json
+import logging
 from sqlalchemy.orm import Session
 from app.core.config import settings
-from app.db.models import MockGovernmentRegistry
-from app.integrations.base import persist_raw_source_payload
+
+logger = logging.getLogger(__name__)
 
 def verify_gstin(db: Session, gstin: str) -> dict:
+    """
+    Adapter for GST Network (GSTN) verification.
+    Reads ground-truth data directly from mock GSTN registry JSON.
+    """
     if not gstin:
         return {"matched": False, "status": "MISSING", "error": "No GSTIN provided"}
 
-    if settings.USE_MOCK_DATA:
-        record = db.query(MockGovernmentRegistry).filter(MockGovernmentRegistry.gstin == gstin).first()
-        if not record or not record.raw_gst_payload:
-            raw_payload = {"valid": False, "error": "GSTIN not found in registry"}
-            file_path = persist_raw_source_payload("GSTN", gstin, raw_payload)
-            return {
-                "matched": False,
-                "status": "NOT_FOUND",
-                "raw_payload_path": file_path,
-                "data": raw_payload
-            }
+    clean_gstin = str(gstin).strip().upper()
 
-        raw_payload = json.loads(record.raw_gst_payload)
-        file_path = persist_raw_source_payload("GSTN", gstin, raw_payload)
+    if settings.USE_MOCK_DATA:
+        file_path = settings.get_mock_file("gstn_schema.json")
+        try:
+            if file_path.exists():
+                with open(file_path, "r", encoding="utf-8") as f:
+                    gst_registry = json.load(f)
+                    
+                record = gst_registry.get(clean_gstin)
+                if record:
+                    return {
+                        "matched": True,
+                        "gstin": record.get("gstin", clean_gstin),
+                        "status": record.get("sts", "Active").upper(),
+                        "legal_name": record.get("lgnm"),
+                        "trade_name": record.get("tradeNam"),
+                        "taxpayer_type": record.get("dty"),
+                        "data": record
+                    }
+        except Exception as e:
+            logger.error(f"Error reading GSTN mock JSON at {file_path}: {e}")
 
         return {
-            "matched": True,
-            "status": record.gst_status,
-            "legal_name": raw_payload.get("lgnm"),
-            "trade_name": raw_payload.get("tradeNam"),
-            "taxpayer_type": raw_payload.get("dty"),
-            "raw_payload_path": file_path,
-            "data": raw_payload
+            "matched": False,
+            "gstin": clean_gstin,
+            "status": "NOT_FOUND",
+            "error": "GSTIN not found in Government GSTN Registry"
         }
     else:
-        # Placeholder for live HTTPX call when live credentials are provided
         raise NotImplementedError("Live GST API keys not configured.")

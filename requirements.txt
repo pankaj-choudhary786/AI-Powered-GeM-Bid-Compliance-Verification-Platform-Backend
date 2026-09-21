@@ -1,18 +1,33 @@
+# --- Core Framework & Server ---
 fastapi==0.110.0
 uvicorn[standard]==0.28.0
-sqlalchemy==2.0.28
-alembic==1.13.1
 pydantic==2.6.4
 pydantic-settings==2.2.1
-email-validator==2.1.1
 python-multipart==0.0.9
+
+# --- Database & ORM ---
+sqlalchemy==2.0.28
+alembic==1.13.1
+
+# --- Security, Auth & Rate Limiting ---
 argon2-cffi==23.1.0
 PyJWT[crypto]==2.8.0
+email-validator==2.1.1
 slowapi==0.1.9
-httpx==0.27.0
+
+# --- Environment & Network ---
 python-dotenv==1.0.1
+httpx==0.27.0
+
+# --- Document Processing & OpenCV ---
 pillow==10.2.0
-opencv-python-headless==4.9.0.80
 pypdf==4.1.0
+opencv-python-headless==4.9.0.80
+
+# --- AI & OCR Pipeline (ADDED) ---
+paddlepaddle==2.6.0
+paddleocr==2.7.3
+
+# --- Testing ---
 pytest==8.1.1
 pytest-asyncio==0.23.5

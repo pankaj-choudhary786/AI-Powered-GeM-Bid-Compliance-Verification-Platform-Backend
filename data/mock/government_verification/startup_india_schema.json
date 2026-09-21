@@ -1,3 +1,18 @@
 {
-  // PASTE YOUR RAW API RESPONSE JSON HERE
+  "DIPP12345": {
+    "dippNumber": "DIPP12345",
+    "entityName": "NEXGEN AI ROBOTICS LLP",
+    "recognitionDate": "01/08/2021",
+    "status": "ACTIVE",
+    "industry": "IT Services",
+    "sector": "Artificial Intelligence"
+  },
+  "DIPP67890": {
+    "dippNumber": "DIPP67890",
+    "entityName": "TECHNOVA SOLUTIONS PRIVATE LIMITED",
+    "recognitionDate": "15/05/2018",
+    "status": "ACTIVE",
+    "industry": "Enterprise Software",
+    "sector": "SaaS"
+  }
 }
