@@ -68,7 +68,7 @@ def create_bid_submission(db: Session, current_user: User, request: ApplicationC
     if not tender:
         raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Tender not found.")
 
-    if tender.status != "PUBLISHED":
+    if tender.status.value != "PUBLISHED":
         raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail="Tender is not currently accepting bids.")
 
     # Check for duplicate applications
@@ -95,3 +95,39 @@ def create_bid_submission(db: Session, current_user: User, request: ApplicationC
     db.commit()
     db.refresh(new_submission)
     return new_submission
+
+from sqlalchemy.orm import joinedload
+def get_my_applications(db: Session, current_user: User):
+    bidder_profile = db.query(BidderProfile).filter(BidderProfile.user_id == current_user.id).first()
+    if not bidder_profile:
+        raise RoleMismatchException(expected_role="BIDDER", actual_role=current_user.role)
+    
+    return db.query(BidSubmission).options(joinedload(BidSubmission.tender), joinedload(BidSubmission.officer_decision)).filter(BidSubmission.bidder_id == bidder_profile.id).all()
+
+def get_application_by_id(db: Session, current_user: User, application_id: str):
+    bidder_profile = db.query(BidderProfile).filter(BidderProfile.user_id == current_user.id).first()
+    if not bidder_profile:
+        raise RoleMismatchException(expected_role="BIDDER", actual_role=current_user.role)
+        
+    submission = db.query(BidSubmission).options(joinedload(BidSubmission.tender), joinedload(BidSubmission.officer_decision)).filter(
+        BidSubmission.application_id == application_id,
+        BidSubmission.bidder_id == bidder_profile.id
+    ).first()
+    
+    if not submission:
+        raise HTTPException(status_code=status.HTTP_404_NOT_FOUND, detail="Application not found.")
+        
+    return submission
+
+def submit_application(db: Session, current_user: User, application_id: str):
+    submission = get_application_by_id(db, current_user, application_id)
+    
+    if submission.status.value != "DRAFT":
+        raise HTTPException(status_code=status.HTTP_400_BAD_REQUEST, detail="Application has already been submitted.")
+        
+    submission.status = "SUBMITTED"
+    submission.submitted_at = datetime.now(timezone.utc)
+    
+    db.commit()
+    db.refresh(submission)
+    return submission

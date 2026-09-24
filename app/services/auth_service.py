@@ -53,7 +53,11 @@ def create_user(db: Session, signup_data):
         profile = BidderProfile(
             bidder_id=_generate_id("BID"),
             user_id=new_user.id,
-            company_name=signup_data.company_name or "New Company"
+            company_name=signup_data.company_name or "New Company",
+            gstin=signup_data.gstin,
+            pan=signup_data.pan,
+            udyam_number=signup_data.udyam_number,
+            registered_address=signup_data.registered_address
         )
     elif signup_data.role == UserRole.TENDER_CREATOR:
         profile = TenderCreatorProfile(
@@ -81,10 +85,6 @@ def authenticate_user(db: Session, login_data):
     if not user or not verify_password(login_data.password, user.hashed_password):
         record_failed_login(db, attempt)
         raise InvalidCredentialsException()
-
-    if user.role != login_data.selected_role:
-        record_failed_login(db, attempt)
-        raise RoleMismatchException(expected_role=login_data.selected_role, actual_role=user.role)
 
     clear_login_attempts(db, attempt)
     return user

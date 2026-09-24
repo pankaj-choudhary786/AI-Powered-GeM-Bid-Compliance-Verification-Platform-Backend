@@ -292,6 +292,10 @@ class BidderDocument(Base, MetaDataPropertyMixin):
     requirement = relationship("TenderRequirement", back_populates="documents")
     extracted_fields = relationship("ExtractedField", back_populates="document", cascade="all, delete-orphan")
 
+    @property
+    def req_string_id(self) -> str:
+        return self.requirement.requirement_id if self.requirement else str(self.requirement_id)
+
 # ==========================================
 # 4. AI EXTRACTION & VERIFICATION DATA
 # ==========================================
@@ -347,6 +351,10 @@ class VerificationResult(Base):
 
     submission = relationship("BidSubmission", back_populates="verification_results")
     requirement = relationship("TenderRequirement", back_populates="verification_results")
+
+    @property
+    def req_string_id(self) -> str:
+        return self.requirement.requirement_id if self.requirement else str(self.requirement_id)
 
 
 class CrossDocumentFinding(Base):

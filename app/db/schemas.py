@@ -1,6 +1,6 @@
 # app/db/schemas.py
 from pydantic import BaseModel, EmailStr, Field, ConfigDict
-from typing import List, Optional, Any, Dict
+from typing import List, Optional, Any, Dict, Union
 from datetime import datetime
 from enum import Enum
 
@@ -71,7 +71,6 @@ class SignupRequest(BaseModel):
 class LoginRequest(BaseModel):
     email: EmailStr
     password: str
-    selected_role: UserRole
 
 class UserResponse(BaseModel):
     user_id: str
@@ -109,6 +108,38 @@ class BidderProfileResponse(BaseModel):
     meta_data: Optional[Dict[str, Any]] = None
     class Config:
         from_attributes = True
+
+class TenderCreatorProfileResponse(BaseModel):
+    creator_id: str
+    department: str
+    ministry: Optional[str] = None
+    meta_data: Optional[Dict[str, Any]] = None
+    class Config:
+        from_attributes = True
+
+class ProcurementOfficerProfileResponse(BaseModel):
+    officer_id: str
+    designation: str
+    department: str
+    meta_data: Optional[Dict[str, Any]] = None
+    class Config:
+        from_attributes = True
+
+class FullProfileResponse(BaseModel):
+    user: UserResponse
+    profile: Union[BidderProfileResponse, TenderCreatorProfileResponse, ProcurementOfficerProfileResponse]
+    class Config:
+        from_attributes = True
+
+class ProfileUpdateRequest(BaseModel):
+    company_name: Optional[str] = None
+    gstin: Optional[str] = None
+    pan: Optional[str] = None
+    udyam_number: Optional[str] = None
+    registered_address: Optional[str] = None
+    department: Optional[str] = None
+    ministry: Optional[str] = None
+    designation: Optional[str] = None
 
 # ==========================================
 # 2. TENDERS & REQUIREMENTS
@@ -206,7 +237,8 @@ class FieldComparisonSchema(BaseModel):
 
 class VerificationResultResponse(BaseModel):
     verification_id: str
-    requirement_id: str
+    requirement_id: Any
+    req_string_id: Optional[str] = None
     result: ComplianceResult
     rule_expression: Optional[str] = None
     detected_value: Optional[str] = None
@@ -225,7 +257,8 @@ class VerificationResultResponse(BaseModel):
 class DocumentUploadResponse(BaseModel):
     document_id: str
     display_id: Optional[str] = None
-    requirement_id: str
+    requirement_id: Any
+    req_string_id: Optional[str] = None
     original_file_name: str
     mime_type: str
     file_size_bytes: int
@@ -234,16 +267,27 @@ class DocumentUploadResponse(BaseModel):
     meta_data: Optional[Dict[str, Any]] = None
     uploaded_at: datetime
 
+class OfficerDecisionResponse(BaseModel):
+    decision_id: str
+    decision: OfficerDecisionType
+    comments: str
+    officer_id: str
+    decided_at: datetime
+    class Config:
+        from_attributes = True
+
 class ApplicationCreateRequest(BaseModel):
     tender_id: str
     meta_data: Optional[Dict[str, Any]] = None
 
 class ApplicationResponse(BaseModel):
     application_id: str
+    tender: Optional[TenderResponse] = None
     display_id: Optional[str] = None
     status: ApplicationStatus
     submitted_at: Optional[datetime] = None
     documents: List[DocumentUploadResponse] = []
+    officer_decision: Optional[OfficerDecisionResponse] = None
     meta_data: Optional[Dict[str, Any]] = None
     class Config:
         from_attributes = True
@@ -300,15 +344,6 @@ class AIRecommendationResponse(BaseModel):
     message: str
     severity: str
     created_at: datetime
-    class Config:
-        from_attributes = True
-
-class OfficerDecisionResponse(BaseModel):
-    decision_id: str
-    decision: OfficerDecisionType
-    comments: str
-    officer_id: str
-    decided_at: datetime
     class Config:
         from_attributes = True
 
