@@ -1,0 +1,10 @@
+{
+  "debarred_entities": [
+    {
+      "pan": "BADDY1234X",
+      "company_name": "FRAUDULENT SUPPLIERS PVT LTD",
+      "reason": "Debarred for tender manipulation and document forgery on CPPP.",
+      "debarred_until": "2030-12-31"
+    }
+  ]
+}

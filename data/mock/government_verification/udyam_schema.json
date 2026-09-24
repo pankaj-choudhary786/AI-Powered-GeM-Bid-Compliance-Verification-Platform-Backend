@@ -28,5 +28,15 @@
     "dateOfRegistration": "15/01/2018",
     "state": "RAJASTHAN",
     "district": "JAIPUR"
+  },
+  "UDYAM-DL-99-9999999": {
+    "udyamRegistrationNumber": "UDYAM-DL-99-9999999",
+    "enterpriseName": "FRAUDULENT SUPPLIERS PVT LTD",
+    "organizationType": "Private Limited Company",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "01/01/2023",
+    "state": "DELHI",
+    "district": "NEW DELHI"
   }
 }

@@ -16,5 +16,14 @@
     "dateOfIncorporation": "10/02/2018",
     "rocCode": "RoC-Mumbai",
     "paidUpCapital": 1000000
+  },
+  "U99999DL2023PTC999999": {
+    "identifier": "U99999DL2023PTC999999",
+    "entityType": "Company",
+    "companyName": "FRAUDULENT SUPPLIERS PVT LTD",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "01/01/2023",
+    "rocCode": "RoC-Delhi",
+    "paidUpCapital": 100000
   }
 }

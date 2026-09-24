@@ -36,6 +36,7 @@ def create_tender(db: Session, current_user: User, tender_data: TenderCreateRequ
         new_req = TenderRequirement(
             requirement_id=_generate_id("REQ"),
             tender_id=new_tender.id,
+            standard_document_type=req.standard_document_type, # 🚨 FIX 1: Explicitly save the document type
             requirement_name=req.requirement_name,
             description=req.description,
             mandatory=req.mandatory,
@@ -53,7 +54,6 @@ def create_tender(db: Session, current_user: User, tender_data: TenderCreateRequ
     db.commit()
     db.refresh(new_tender)
     
-    # Compute schema counters dynamically
     new_tender.total_requirements = len(new_tender.requirements)
     new_tender.mandatory_requirements = sum(1 for r in new_tender.requirements if r.mandatory)
     

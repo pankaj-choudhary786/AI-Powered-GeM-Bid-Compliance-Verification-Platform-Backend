@@ -26,5 +26,12 @@
     "status": "ACTIVE",
     "category": "Partnership Firm",
     "date_of_issue": "22/08/2020"
+  },
+  "BADDY1234X": {
+    "pan_number": "BADDY1234X",
+    "full_name": "FRAUDULENT SUPPLIERS PVT LTD",
+    "status": "ACTIVE",
+    "category": "Company",
+    "date_of_issue": "01/01/2023"
   }
 }

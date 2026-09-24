@@ -16,5 +16,14 @@
     "overallRating": 4.5,
     "incidentCount": 1,
     "primaryCategory": "Hardware & Networking"
+  },
+  "GEM-SELLER-FRAUD-99": {
+    "sellerId": "GEM-SELLER-FRAUD-99",
+    "sellerName": "FRAUDULENT SUPPLIERS PVT LTD",
+    "vendorAssessmentStatus": "Pending",
+    "oemStatus": "Not Registered",
+    "overallRating": 1.2,
+    "incidentCount": 4,
+    "primaryCategory": "General Trading"
   }
 }

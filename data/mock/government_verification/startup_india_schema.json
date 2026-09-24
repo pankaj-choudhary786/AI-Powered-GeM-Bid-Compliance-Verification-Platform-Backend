@@ -14,5 +14,13 @@
     "status": "ACTIVE",
     "industry": "Enterprise Software",
     "sector": "SaaS"
+  },
+  "DIPP99999": {
+    "dippNumber": "DIPP99999",
+    "entityName": "FRAUDULENT SUPPLIERS PVT LTD",
+    "recognitionDate": "10/02/2023",
+    "status": "ACTIVE",
+    "industry": "General Trading",
+    "sector": "Logistics"
   }
 }

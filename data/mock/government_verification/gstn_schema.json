@@ -34,5 +34,17 @@
     "pradr": {
       "addr": {"bno": "12", "st": "MI Road", "loc": "Jaipur", "dst": "Jaipur", "stcd": "Rajasthan", "pncd": "302001"}
     }
+  },
+  "07BADDY1234X1Z5": {
+    "gstin": "07BADDY1234X1Z5",
+    "lgnm": "FRAUDULENT SUPPLIERS PVT LTD",
+    "tradeNam": "FRAUDULENT SUPPLIERS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "15/01/2023",
+    "ctb": "Private Limited Company",
+    "pradr": {
+      "addr": {"bno": "99", "st": "Shadow Lane", "loc": "New Delhi", "dst": "New Delhi", "stcd": "Delhi", "pncd": "110001"}
+    }
   }
 }
