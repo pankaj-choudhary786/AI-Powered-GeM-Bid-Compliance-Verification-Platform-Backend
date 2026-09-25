@@ -17,6 +17,24 @@
     "incidentCount": 1,
     "primaryCategory": "Hardware & Networking"
   },
+  "GEM-SELLER-SHA-03": {
+    "sellerId": "GEM-SELLER-SHA-03",
+    "sellerName": "SHARMA ENTERPRISES",
+    "vendorAssessmentStatus": "Exempted",
+    "oemStatus": "Registered",
+    "overallRating": 4.2,
+    "incidentCount": 0,
+    "primaryCategory": "Services"
+  },
+  "GEM-SELLER-QUA-04": {
+    "sellerId": "GEM-SELLER-QUA-04",
+    "sellerName": "QUANTUM LOGISTICS HUB",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered",
+    "overallRating": 4.7,
+    "incidentCount": 0,
+    "primaryCategory": "Logistics"
+  },
   "GEM-SELLER-FRAUD-99": {
     "sellerId": "GEM-SELLER-FRAUD-99",
     "sellerName": "FRAUDULENT SUPPLIERS PVT LTD",
@@ -25,5 +43,1805 @@
     "overallRating": 1.2,
     "incidentCount": 4,
     "primaryCategory": "General Trading"
+  },
+  "GEM-SELLER-10001": {
+    "sellerId": "GEM-SELLER-10001",
+    "sellerName": "ALPHA TECHNOLOGIES PVT LTD",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.6,
+    "incidentCount": 0,
+    "primaryCategory": "IT Software Services"
+  },
+  "GEM-SELLER-10002": {
+    "sellerId": "GEM-SELLER-10002",
+    "sellerName": "BETA MANUFACTURING LLP",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.4,
+    "incidentCount": 1,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10003": {
+    "sellerId": "GEM-SELLER-10003",
+    "sellerName": "GAMMA LOGISTICS",
+    "vendorAssessmentStatus": "Pending",
+    "oemStatus": "Registered",
+    "overallRating": 3.9,
+    "incidentCount": 0,
+    "primaryCategory": "Logistics"
+  },
+  "GEM-SELLER-10004": {
+    "sellerId": "GEM-SELLER-10004",
+    "sellerName": "DELTA EXPORTS",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Not Registered",
+    "overallRating": 4.1,
+    "incidentCount": 0,
+    "primaryCategory": "Trading"
+  },
+  "GEM-SELLER-10005": {
+    "sellerId": "GEM-SELLER-10005",
+    "sellerName": "EPSILON TRADERS",
+    "vendorAssessmentStatus": "Exempted",
+    "oemStatus": "Registered",
+    "overallRating": 4.0,
+    "incidentCount": 0,
+    "primaryCategory": "Trading"
+  },
+  "GEM-SELLER-10006": {
+    "sellerId": "GEM-SELLER-10006",
+    "sellerName": "ZETA SOFTWARE SOLUTIONS",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.9,
+    "incidentCount": 0,
+    "primaryCategory": "IT Software Services"
+  },
+  "GEM-SELLER-10007": {
+    "sellerId": "GEM-SELLER-10007",
+    "sellerName": "ETA AGRO INDUSTRIES",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.3,
+    "incidentCount": 1,
+    "primaryCategory": "Agriculture"
+  },
+  "GEM-SELLER-10008": {
+    "sellerId": "GEM-SELLER-10008",
+    "sellerName": "THETA AUTOMOTIVES",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.7,
+    "incidentCount": 0,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10009": {
+    "sellerId": "GEM-SELLER-10009",
+    "sellerName": "IOTA SPORTS GOODS",
+    "vendorAssessmentStatus": "Pending",
+    "oemStatus": "Not Registered",
+    "overallRating": 3.8,
+    "incidentCount": 2,
+    "primaryCategory": "Trading"
+  },
+  "GEM-SELLER-10010": {
+    "sellerId": "GEM-SELLER-10010",
+    "sellerName": "KAPPA TEXTILES",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered",
+    "overallRating": 4.2,
+    "incidentCount": 0,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10011": {
+    "sellerId": "GEM-SELLER-10011",
+    "sellerName": "LAMBDA CONSULTING",
+    "vendorAssessmentStatus": "Exempted",
+    "oemStatus": "Not Registered",
+    "overallRating": 4.5,
+    "incidentCount": 0,
+    "primaryCategory": "Services"
+  },
+  "GEM-SELLER-10012": {
+    "sellerId": "GEM-SELLER-10012",
+    "sellerName": "MU FINANCIAL SERVICES",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered",
+    "overallRating": 4.8,
+    "incidentCount": 0,
+    "primaryCategory": "Financial Services"
+  },
+  "GEM-SELLER-10013": {
+    "sellerId": "GEM-SELLER-10013",
+    "sellerName": "NU HANDICRAFTS",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered",
+    "overallRating": 4.1,
+    "incidentCount": 1,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10014": {
+    "sellerId": "GEM-SELLER-10014",
+    "sellerName": "XI BIO LABS",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.7,
+    "incidentCount": 0,
+    "primaryCategory": "Healthcare"
+  },
+  "GEM-SELLER-10015": {
+    "sellerId": "GEM-SELLER-10015",
+    "sellerName": "OMICRON DIAMONDS",
+    "vendorAssessmentStatus": "Pending",
+    "oemStatus": "Not Registered",
+    "overallRating": 4.0,
+    "incidentCount": 0,
+    "primaryCategory": "Trading"
+  },
+  "GEM-SELLER-10016": {
+    "sellerId": "GEM-SELLER-10016",
+    "sellerName": "PI ENGINEERING",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.6,
+    "incidentCount": 0,
+    "primaryCategory": "Engineering Services"
+  },
+  "GEM-SELLER-10017": {
+    "sellerId": "GEM-SELLER-10017",
+    "sellerName": "RHO INFOTECH",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered",
+    "overallRating": 4.4,
+    "incidentCount": 1,
+    "primaryCategory": "IT Software Services"
+  },
+  "GEM-SELLER-10018": {
+    "sellerId": "GEM-SELLER-10018",
+    "sellerName": "SIGMA STEEL",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.8,
+    "incidentCount": 0,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10019": {
+    "sellerId": "GEM-SELLER-10019",
+    "sellerName": "TAU PLASTICS",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.3,
+    "incidentCount": 2,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10020": {
+    "sellerId": "GEM-SELLER-10020",
+    "sellerName": "UPSILON PHARMA",
+    "vendorAssessmentStatus": "Exempted",
+    "oemStatus": "Registered",
+    "overallRating": 4.5,
+    "incidentCount": 0,
+    "primaryCategory": "Healthcare"
+  },
+  "GEM-SELLER-10021": {
+    "sellerId": "GEM-SELLER-10021",
+    "sellerName": "PHI NETWORKS",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.7,
+    "incidentCount": 0,
+    "primaryCategory": "IT Software Services"
+  },
+  "GEM-SELLER-10022": {
+    "sellerId": "GEM-SELLER-10022",
+    "sellerName": "CHI APPARELS",
+    "vendorAssessmentStatus": "Pending",
+    "oemStatus": "Not Registered",
+    "overallRating": 3.9,
+    "incidentCount": 0,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10023": {
+    "sellerId": "GEM-SELLER-10023",
+    "sellerName": "PSI HERBALS",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered",
+    "overallRating": 4.2,
+    "incidentCount": 1,
+    "primaryCategory": "Healthcare"
+  },
+  "GEM-SELLER-10024": {
+    "sellerId": "GEM-SELLER-10024",
+    "sellerName": "OMEGA MEDIA",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Not Registered",
+    "overallRating": 4.1,
+    "incidentCount": 0,
+    "primaryCategory": "Services"
+  },
+  "GEM-SELLER-10025": {
+    "sellerId": "GEM-SELLER-10025",
+    "sellerName": "AURA INFRASTRUCTURE",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.6,
+    "incidentCount": 0,
+    "primaryCategory": "Infrastructure"
+  },
+  "GEM-SELLER-10026": {
+    "sellerId": "GEM-SELLER-10026",
+    "sellerName": "BLAZE ENERGY",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.9,
+    "incidentCount": 0,
+    "primaryCategory": "Energy"
+  },
+  "GEM-SELLER-10027": {
+    "sellerId": "GEM-SELLER-10027",
+    "sellerName": "CREST INNOVATIONS",
+    "vendorAssessmentStatus": "Exempted",
+    "oemStatus": "Registered",
+    "overallRating": 4.4,
+    "incidentCount": 0,
+    "primaryCategory": "IT Software Services"
+  },
+  "GEM-SELLER-10028": {
+    "sellerId": "GEM-SELLER-10028",
+    "sellerName": "DART LOGISTICS",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered",
+    "overallRating": 4.3,
+    "incidentCount": 1,
+    "primaryCategory": "Logistics"
+  },
+  "GEM-SELLER-10029": {
+    "sellerId": "GEM-SELLER-10029",
+    "sellerName": "ECHO SYSTEMS",
+    "vendorAssessmentStatus": "Pending",
+    "oemStatus": "Not Registered",
+    "overallRating": 3.7,
+    "incidentCount": 0,
+    "primaryCategory": "IT Software Services"
+  },
+  "GEM-SELLER-10030": {
+    "sellerId": "GEM-SELLER-10030",
+    "sellerName": "FLARE TECHNOLOGIES",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.5,
+    "incidentCount": 0,
+    "primaryCategory": "Hardware & Networking"
+  },
+  "GEM-SELLER-10031": {
+    "sellerId": "GEM-SELLER-10031",
+    "sellerName": "GLOBE PACKAGING",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered",
+    "overallRating": 4.2,
+    "incidentCount": 0,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10032": {
+    "sellerId": "GEM-SELLER-10032",
+    "sellerName": "HALO HEALTHCARE",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.8,
+    "incidentCount": 0,
+    "primaryCategory": "Healthcare"
+  },
+  "GEM-SELLER-10033": {
+    "sellerId": "GEM-SELLER-10033",
+    "sellerName": "ICON TRADERS",
+    "vendorAssessmentStatus": "Pending",
+    "oemStatus": "Not Registered",
+    "overallRating": 3.6,
+    "incidentCount": 2,
+    "primaryCategory": "Trading"
+  },
+  "GEM-SELLER-10034": {
+    "sellerId": "GEM-SELLER-10034",
+    "sellerName": "JADE ENTERPRISES",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered",
+    "overallRating": 4.1,
+    "incidentCount": 1,
+    "primaryCategory": "Services"
+  },
+  "GEM-SELLER-10035": {
+    "sellerId": "GEM-SELLER-10035",
+    "sellerName": "KITE COMMUNICATIONS",
+    "vendorAssessmentStatus": "Exempted",
+    "oemStatus": "Registered",
+    "overallRating": 4.4,
+    "incidentCount": 0,
+    "primaryCategory": "Telecommunications"
+  },
+  "GEM-SELLER-10036": {
+    "sellerId": "GEM-SELLER-10036",
+    "sellerName": "LUMEN ELECTRICALS",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.7,
+    "incidentCount": 0,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10037": {
+    "sellerId": "GEM-SELLER-10037",
+    "sellerName": "METRO BUILDERS",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered",
+    "overallRating": 4.3,
+    "incidentCount": 0,
+    "primaryCategory": "Infrastructure"
+  },
+  "GEM-SELLER-10038": {
+    "sellerId": "GEM-SELLER-10038",
+    "sellerName": "NOVA CEMENTS",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.6,
+    "incidentCount": 0,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10039": {
+    "sellerId": "GEM-SELLER-10039",
+    "sellerName": "OASIS TOURISM",
+    "vendorAssessmentStatus": "Pending",
+    "oemStatus": "Not Registered",
+    "overallRating": 4.0,
+    "incidentCount": 1,
+    "primaryCategory": "Services"
+  },
+  "GEM-SELLER-10040": {
+    "sellerId": "GEM-SELLER-10040",
+    "sellerName": "PULSE DIAGNOSTICS",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered",
+    "overallRating": 4.5,
+    "incidentCount": 0,
+    "primaryCategory": "Healthcare"
+  },
+  "GEM-SELLER-10041": {
+    "sellerId": "GEM-SELLER-10041",
+    "sellerName": "QUARTZ CERAMICS",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.2,
+    "incidentCount": 0,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10042": {
+    "sellerId": "GEM-SELLER-10042",
+    "sellerName": "RIPPLE WATER PURIFIERS",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.8,
+    "incidentCount": 0,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10043": {
+    "sellerId": "GEM-SELLER-10043",
+    "sellerName": "SPARK EDUCATION",
+    "vendorAssessmentStatus": "Exempted",
+    "oemStatus": "Not Registered",
+    "overallRating": 4.4,
+    "incidentCount": 0,
+    "primaryCategory": "Services"
+  },
+  "GEM-SELLER-10044": {
+    "sellerId": "GEM-SELLER-10044",
+    "sellerName": "TIDE SHIPPING",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered",
+    "overallRating": 4.3,
+    "incidentCount": 1,
+    "primaryCategory": "Logistics"
+  },
+  "GEM-SELLER-10045": {
+    "sellerId": "GEM-SELLER-10045",
+    "sellerName": "URBAN LIVING FURNITURE",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.6,
+    "incidentCount": 0,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10046": {
+    "sellerId": "GEM-SELLER-10046",
+    "sellerName": "VANGUARD SECURITY",
+    "vendorAssessmentStatus": "Pending",
+    "oemStatus": "Not Registered",
+    "overallRating": 3.9,
+    "incidentCount": 0,
+    "primaryCategory": "Services"
+  },
+  "GEM-SELLER-10047": {
+    "sellerId": "GEM-SELLER-10047",
+    "sellerName": "WAVE BROADBAND",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered",
+    "overallRating": 4.5,
+    "incidentCount": 0,
+    "primaryCategory": "Telecommunications"
+  },
+  "GEM-SELLER-10048": {
+    "sellerId": "GEM-SELLER-10048",
+    "sellerName": "XYLEM PIPES",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.4,
+    "incidentCount": 1,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10049": {
+    "sellerId": "GEM-SELLER-10049",
+    "sellerName": "YOGA NATURALS",
+    "vendorAssessmentStatus": "Exempted",
+    "oemStatus": "Not Registered",
+    "overallRating": 4.2,
+    "incidentCount": 0,
+    "primaryCategory": "Trading"
+  },
+  "GEM-SELLER-10050": {
+    "sellerId": "GEM-SELLER-10050",
+    "sellerName": "ZENITH APPARELS",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered",
+    "overallRating": 4.1,
+    "incidentCount": 0,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10051": {
+    "sellerId": "GEM-SELLER-10051",
+    "sellerName": "AEON ELECTRONICS",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.7,
+    "incidentCount": 0,
+    "primaryCategory": "Hardware & Networking"
+  },
+  "GEM-SELLER-10052": {
+    "sellerId": "GEM-SELLER-10052",
+    "sellerName": "BARIUM CHEMICALS",
+    "vendorAssessmentStatus": "Pending",
+    "oemStatus": "Not Registered",
+    "overallRating": 3.8,
+    "incidentCount": 1,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10053": {
+    "sellerId": "GEM-SELLER-10053",
+    "sellerName": "CHRONO WATCHES",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered",
+    "overallRating": 4.6,
+    "incidentCount": 0,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10054": {
+    "sellerId": "GEM-SELLER-10054",
+    "sellerName": "DUNE TEXTILES",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered",
+    "overallRating": 4.3,
+    "incidentCount": 0,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10055": {
+    "sellerId": "GEM-SELLER-10055",
+    "sellerName": "ENIGMA SOFTWARE",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.9,
+    "incidentCount": 0,
+    "primaryCategory": "IT Software Services"
+  },
+  "GEM-SELLER-10056": {
+    "sellerId": "GEM-SELLER-10056",
+    "sellerName": "FORGE METALS",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.4,
+    "incidentCount": 2,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10057": {
+    "sellerId": "GEM-SELLER-10057",
+    "sellerName": "GRAVITY SPORTS",
+    "vendorAssessmentStatus": "Exempted",
+    "oemStatus": "Not Registered",
+    "overallRating": 4.0,
+    "incidentCount": 0,
+    "primaryCategory": "Trading"
+  },
+  "GEM-SELLER-10058": {
+    "sellerId": "GEM-SELLER-10058",
+    "sellerName": "HAVEN REALTY",
+    "vendorAssessmentStatus": "Pending",
+    "oemStatus": "Not Registered",
+    "overallRating": 3.7,
+    "incidentCount": 0,
+    "primaryCategory": "Services"
+  },
+  "GEM-SELLER-10059": {
+    "sellerId": "GEM-SELLER-10059",
+    "sellerName": "IGNITE ENGINES",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.8,
+    "incidentCount": 0,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10060": {
+    "sellerId": "GEM-SELLER-10060",
+    "sellerName": "JOULE BATTERIES",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.6,
+    "incidentCount": 1,
+    "primaryCategory": "Energy"
+  },
+  "GEM-SELLER-10061": {
+    "sellerId": "GEM-SELLER-10061",
+    "sellerName": "KINETIC MOTORS",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered",
+    "overallRating": 4.5,
+    "incidentCount": 0,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10062": {
+    "sellerId": "GEM-SELLER-10062",
+    "sellerName": "LYNX CYCLES",
+    "vendorAssessmentStatus": "Exempted",
+    "oemStatus": "Registered",
+    "overallRating": 4.2,
+    "incidentCount": 0,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10063": {
+    "sellerId": "GEM-SELLER-10063",
+    "sellerName": "MIRAGE STUDIOS",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Not Registered",
+    "overallRating": 4.3,
+    "incidentCount": 0,
+    "primaryCategory": "Services"
+  },
+  "GEM-SELLER-10064": {
+    "sellerId": "GEM-SELLER-10064",
+    "sellerName": "NEBULA AEROSPACE",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.9,
+    "incidentCount": 0,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10065": {
+    "sellerId": "GEM-SELLER-10065",
+    "sellerName": "OPAL JEWELERS",
+    "vendorAssessmentStatus": "Pending",
+    "oemStatus": "Not Registered",
+    "overallRating": 3.9,
+    "incidentCount": 1,
+    "primaryCategory": "Trading"
+  },
+  "GEM-SELLER-10066": {
+    "sellerId": "GEM-SELLER-10066",
+    "sellerName": "PRISM OPTICALS",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered",
+    "overallRating": 4.4,
+    "incidentCount": 0,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10067": {
+    "sellerId": "GEM-SELLER-10067",
+    "sellerName": "QUANTUM COMPUTING",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.7,
+    "incidentCount": 0,
+    "primaryCategory": "IT Software Services"
+  },
+  "GEM-SELLER-10068": {
+    "sellerId": "GEM-SELLER-10068",
+    "sellerName": "RADIAN SOLAR",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.8,
+    "incidentCount": 0,
+    "primaryCategory": "Energy"
+  },
+  "GEM-SELLER-10069": {
+    "sellerId": "GEM-SELLER-10069",
+    "sellerName": "STELLAR AVIATION",
+    "vendorAssessmentStatus": "Exempted",
+    "oemStatus": "Registered",
+    "overallRating": 4.6,
+    "incidentCount": 0,
+    "primaryCategory": "Services"
+  },
+  "GEM-SELLER-10070": {
+    "sellerId": "GEM-SELLER-10070",
+    "sellerName": "TITAN CONSTRUCTION",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Not Registered",
+    "overallRating": 4.2,
+    "incidentCount": 2,
+    "primaryCategory": "Infrastructure"
+  },
+  "GEM-SELLER-10071": {
+    "sellerId": "GEM-SELLER-10071",
+    "sellerName": "ULTRA FOODS",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.5,
+    "incidentCount": 0,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10072": {
+    "sellerId": "GEM-SELLER-10072",
+    "sellerName": "VERTEX POLYMERS",
+    "vendorAssessmentStatus": "Pending",
+    "oemStatus": "Registered",
+    "overallRating": 3.8,
+    "incidentCount": 1,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10073": {
+    "sellerId": "GEM-SELLER-10073",
+    "sellerName": "WIZARD TOYS",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Not Registered",
+    "overallRating": 4.1,
+    "incidentCount": 0,
+    "primaryCategory": "Trading"
+  },
+  "GEM-SELLER-10074": {
+    "sellerId": "GEM-SELLER-10074",
+    "sellerName": "XENON LIGHTING",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.6,
+    "incidentCount": 0,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10075": {
+    "sellerId": "GEM-SELLER-10075",
+    "sellerName": "YARD MARINE",
+    "vendorAssessmentStatus": "Exempted",
+    "oemStatus": "Registered",
+    "overallRating": 4.4,
+    "incidentCount": 0,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10076": {
+    "sellerId": "GEM-SELLER-10076",
+    "sellerName": "ZEPHYR AIRWAYS",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered",
+    "overallRating": 4.7,
+    "incidentCount": 0,
+    "primaryCategory": "Logistics"
+  },
+  "GEM-SELLER-10077": {
+    "sellerId": "GEM-SELLER-10077",
+    "sellerName": "APEX CERAMICS",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.3,
+    "incidentCount": 1,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10078": {
+    "sellerId": "GEM-SELLER-10078",
+    "sellerName": "BOLD FITNESS",
+    "vendorAssessmentStatus": "Pending",
+    "oemStatus": "Not Registered",
+    "overallRating": 3.9,
+    "incidentCount": 0,
+    "primaryCategory": "Services"
+  },
+  "GEM-SELLER-10079": {
+    "sellerId": "GEM-SELLER-10079",
+    "sellerName": "CORE INSTRUMENTS",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.8,
+    "incidentCount": 0,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10080": {
+    "sellerId": "GEM-SELLER-10080",
+    "sellerName": "DIVE AQUATICS",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered",
+    "overallRating": 4.2,
+    "incidentCount": 0,
+    "primaryCategory": "Services"
+  },
+  "GEM-SELLER-10081": {
+    "sellerId": "GEM-SELLER-10081",
+    "sellerName": "EDGE CUTLERY",
+    "vendorAssessmentStatus": "Exempted",
+    "oemStatus": "Not Registered",
+    "overallRating": 4.1,
+    "incidentCount": 0,
+    "primaryCategory": "Trading"
+  },
+  "GEM-SELLER-10082": {
+    "sellerId": "GEM-SELLER-10082",
+    "sellerName": "FLINT MATCHES",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered",
+    "overallRating": 4.0,
+    "incidentCount": 1,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10083": {
+    "sellerId": "GEM-SELLER-10083",
+    "sellerName": "GLOW COSMETICS",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.5,
+    "incidentCount": 0,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10084": {
+    "sellerId": "GEM-SELLER-10084",
+    "sellerName": "HIVE HONEY",
+    "vendorAssessmentStatus": "Pending",
+    "oemStatus": "Registered",
+    "overallRating": 4.2,
+    "incidentCount": 0,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10085": {
+    "sellerId": "GEM-SELLER-10085",
+    "sellerName": "IRON FOUNDRY",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.6,
+    "incidentCount": 2,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10086": {
+    "sellerId": "GEM-SELLER-10086",
+    "sellerName": "JUMP APPAREL",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered",
+    "overallRating": 4.3,
+    "incidentCount": 0,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10087": {
+    "sellerId": "GEM-SELLER-10087",
+    "sellerName": "KILN BRICKS",
+    "vendorAssessmentStatus": "Exempted",
+    "oemStatus": "Registered",
+    "overallRating": 4.1,
+    "incidentCount": 0,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10088": {
+    "sellerId": "GEM-SELLER-10088",
+    "sellerName": "LOOP RECORDINGS",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Not Registered",
+    "overallRating": 4.4,
+    "incidentCount": 0,
+    "primaryCategory": "Services"
+  },
+  "GEM-SELLER-10089": {
+    "sellerId": "GEM-SELLER-10089",
+    "sellerName": "MINT FINANCE",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered",
+    "overallRating": 4.8,
+    "incidentCount": 0,
+    "primaryCategory": "Financial Services"
+  },
+  "GEM-SELLER-10090": {
+    "sellerId": "GEM-SELLER-10090",
+    "sellerName": "NEXUS ROBOTICS",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.9,
+    "incidentCount": 0,
+    "primaryCategory": "Hardware & Networking"
+  },
+  "GEM-SELLER-10091": {
+    "sellerId": "GEM-SELLER-10091",
+    "sellerName": "ORION TELESCOPES",
+    "vendorAssessmentStatus": "Pending",
+    "oemStatus": "Not Registered",
+    "overallRating": 3.7,
+    "incidentCount": 1,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10092": {
+    "sellerId": "GEM-SELLER-10092",
+    "sellerName": "PINE TIMBER",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered",
+    "overallRating": 4.2,
+    "incidentCount": 0,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10093": {
+    "sellerId": "GEM-SELLER-10093",
+    "sellerName": "QUEST ADVENTURES",
+    "vendorAssessmentStatus": "Exempted",
+    "oemStatus": "Registered",
+    "overallRating": 4.5,
+    "incidentCount": 0,
+    "primaryCategory": "Services"
+  },
+  "GEM-SELLER-10094": {
+    "sellerId": "GEM-SELLER-10094",
+    "sellerName": "ROOF TILES CO",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.4,
+    "incidentCount": 0,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10095": {
+    "sellerId": "GEM-SELLER-10095",
+    "sellerName": "SILK WEAVERS",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered",
+    "overallRating": 4.6,
+    "incidentCount": 0,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10096": {
+    "sellerId": "GEM-SELLER-10096",
+    "sellerName": "TRACTOR PARTS INC",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.7,
+    "incidentCount": 0,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10097": {
+    "sellerId": "GEM-SELLER-10097",
+    "sellerName": "UNITY LOGISTICS",
+    "vendorAssessmentStatus": "Pending",
+    "oemStatus": "Registered",
+    "overallRating": 4.0,
+    "incidentCount": 1,
+    "primaryCategory": "Logistics"
+  },
+  "GEM-SELLER-10098": {
+    "sellerId": "GEM-SELLER-10098",
+    "sellerName": "VAULT SAFES",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.8,
+    "incidentCount": 0,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10099": {
+    "sellerId": "GEM-SELLER-10099",
+    "sellerName": "WIRE CABLES",
+    "vendorAssessmentStatus": "Exempted",
+    "oemStatus": "Registered",
+    "overallRating": 4.5,
+    "incidentCount": 0,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10100": {
+    "sellerId": "GEM-SELLER-10100",
+    "sellerName": "XRAY IMAGING",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.9,
+    "incidentCount": 0,
+    "primaryCategory": "Healthcare"
+  },
+  "GEM-SELLER-10101": {
+    "sellerId": "GEM-SELLER-10101",
+    "sellerName": "YACHT BUILDERS",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered",
+    "overallRating": 4.4,
+    "incidentCount": 0,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10102": {
+    "sellerId": "GEM-SELLER-10102",
+    "sellerName": "ZINC REFINERIES",
+    "vendorAssessmentStatus": "Pending",
+    "oemStatus": "Registered",
+    "overallRating": 4.1,
+    "incidentCount": 2,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10103": {
+    "sellerId": "GEM-SELLER-10103",
+    "sellerName": "ARROW LOGISTICS",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered",
+    "overallRating": 4.6,
+    "incidentCount": 0,
+    "primaryCategory": "Logistics"
+  },
+  "GEM-SELLER-10104": {
+    "sellerId": "GEM-SELLER-10104",
+    "sellerName": "BEACON PUBLISHING",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Not Registered",
+    "overallRating": 4.3,
+    "incidentCount": 0,
+    "primaryCategory": "Services"
+  },
+  "GEM-SELLER-10105": {
+    "sellerId": "GEM-SELLER-10105",
+    "sellerName": "CROWN JEWELS",
+    "vendorAssessmentStatus": "Exempted",
+    "oemStatus": "Registered",
+    "overallRating": 4.2,
+    "incidentCount": 0,
+    "primaryCategory": "Trading"
+  },
+  "GEM-SELLER-10106": {
+    "sellerId": "GEM-SELLER-10106",
+    "sellerName": "DAWN CHEMICALS",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.5,
+    "incidentCount": 1,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10107": {
+    "sellerId": "GEM-SELLER-10107",
+    "sellerName": "ELITE FURNISHINGS",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered",
+    "overallRating": 4.7,
+    "incidentCount": 0,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10108": {
+    "sellerId": "GEM-SELLER-10108",
+    "sellerName": "FALCON DRONES",
+    "vendorAssessmentStatus": "Pending",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.0,
+    "incidentCount": 0,
+    "primaryCategory": "Hardware & Networking"
+  },
+  "GEM-SELLER-10109": {
+    "sellerId": "GEM-SELLER-10109",
+    "sellerName": "GEMINI SOFTWARE",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered",
+    "overallRating": 4.8,
+    "incidentCount": 0,
+    "primaryCategory": "IT Software Services"
+  },
+  "GEM-SELLER-10110": {
+    "sellerId": "GEM-SELLER-10110",
+    "sellerName": "HERITAGE ARTS",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Not Registered",
+    "overallRating": 4.4,
+    "incidentCount": 0,
+    "primaryCategory": "Trading"
+  },
+  "GEM-SELLER-10111": {
+    "sellerId": "GEM-SELLER-10111",
+    "sellerName": "INFINITY NETWORKS",
+    "vendorAssessmentStatus": "Exempted",
+    "oemStatus": "Registered",
+    "overallRating": 4.6,
+    "incidentCount": 0,
+    "primaryCategory": "Telecommunications"
+  },
+  "GEM-SELLER-10112": {
+    "sellerId": "GEM-SELLER-10112",
+    "sellerName": "JAZZ MUSIC ACADEMY",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered",
+    "overallRating": 4.5,
+    "incidentCount": 0,
+    "primaryCategory": "Services"
+  },
+  "GEM-SELLER-10113": {
+    "sellerId": "GEM-SELLER-10113",
+    "sellerName": "KNIGHT SECURITY",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered",
+    "overallRating": 4.3,
+    "incidentCount": 1,
+    "primaryCategory": "Services"
+  },
+  "GEM-SELLER-10114": {
+    "sellerId": "GEM-SELLER-10114",
+    "sellerName": "LIONHEART FITNESS",
+    "vendorAssessmentStatus": "Pending",
+    "oemStatus": "Not Registered",
+    "overallRating": 3.9,
+    "incidentCount": 0,
+    "primaryCategory": "Services"
+  },
+  "GEM-SELLER-10115": {
+    "sellerId": "GEM-SELLER-10115",
+    "sellerName": "MYSTIC TOURS",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered",
+    "overallRating": 4.7,
+    "incidentCount": 0,
+    "primaryCategory": "Services"
+  },
+  "GEM-SELLER-10116": {
+    "sellerId": "GEM-SELLER-10116",
+    "sellerName": "NANO CHIPS",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.9,
+    "incidentCount": 0,
+    "primaryCategory": "Hardware & Networking"
+  },
+  "GEM-SELLER-10117": {
+    "sellerId": "GEM-SELLER-10117",
+    "sellerName": "OAK FURNITURE",
+    "vendorAssessmentStatus": "Exempted",
+    "oemStatus": "Registered",
+    "overallRating": 4.2,
+    "incidentCount": 0,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10118": {
+    "sellerId": "GEM-SELLER-10118",
+    "sellerName": "PIONEER BUILDERS",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered",
+    "overallRating": 4.5,
+    "incidentCount": 1,
+    "primaryCategory": "Infrastructure"
+  },
+  "GEM-SELLER-10119": {
+    "sellerId": "GEM-SELLER-10119",
+    "sellerName": "QUANTUM LOGISTICS",
+    "vendorAssessmentStatus": "Pending",
+    "oemStatus": "Not Registered",
+    "overallRating": 4.1,
+    "incidentCount": 0,
+    "primaryCategory": "Logistics"
+  },
+  "GEM-SELLER-10120": {
+    "sellerId": "GEM-SELLER-10120",
+    "sellerName": "RUBY GEMS",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered",
+    "overallRating": 4.6,
+    "incidentCount": 0,
+    "primaryCategory": "Trading"
+  },
+  "GEM-SELLER-10121": {
+    "sellerId": "GEM-SELLER-10121",
+    "sellerName": "SOLARIS ENERGY",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.8,
+    "incidentCount": 0,
+    "primaryCategory": "Energy"
+  },
+  "GEM-SELLER-10122": {
+    "sellerId": "GEM-SELLER-10122",
+    "sellerName": "TRIUMPH MOTORS",
+    "vendorAssessmentStatus": "Exempted",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.7,
+    "incidentCount": 0,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10123": {
+    "sellerId": "GEM-SELLER-10123",
+    "sellerName": "UMBRA DESIGNS",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered",
+    "overallRating": 4.3,
+    "incidentCount": 1,
+    "primaryCategory": "Services"
+  },
+  "GEM-SELLER-10124": {
+    "sellerId": "GEM-SELLER-10124",
+    "sellerName": "VELOCITY COURIERS",
+    "vendorAssessmentStatus": "Pending",
+    "oemStatus": "Registered",
+    "overallRating": 3.8,
+    "incidentCount": 0,
+    "primaryCategory": "Logistics"
+  },
+  "GEM-SELLER-10125": {
+    "sellerId": "GEM-SELLER-10125",
+    "sellerName": "WILLOW CRAFTS",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Not Registered",
+    "overallRating": 4.4,
+    "incidentCount": 0,
+    "primaryCategory": "Trading"
+  },
+  "GEM-SELLER-10126": {
+    "sellerId": "GEM-SELLER-10126",
+    "sellerName": "XYLO WOODWORKS",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered",
+    "overallRating": 4.2,
+    "incidentCount": 0,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10127": {
+    "sellerId": "GEM-SELLER-10127",
+    "sellerName": "YEN TRADERS",
+    "vendorAssessmentStatus": "Exempted",
+    "oemStatus": "Registered",
+    "overallRating": 4.1,
+    "incidentCount": 0,
+    "primaryCategory": "Trading"
+  },
+  "GEM-SELLER-10128": {
+    "sellerId": "GEM-SELLER-10128",
+    "sellerName": "ZENITH SOFTWARE",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.8,
+    "incidentCount": 0,
+    "primaryCategory": "IT Software Services"
+  },
+  "GEM-SELLER-10129": {
+    "sellerId": "GEM-SELLER-10129",
+    "sellerName": "ABSOLUTE FITNESS",
+    "vendorAssessmentStatus": "Pending",
+    "oemStatus": "Not Registered",
+    "overallRating": 4.0,
+    "incidentCount": 1,
+    "primaryCategory": "Services"
+  },
+  "GEM-SELLER-10130": {
+    "sellerId": "GEM-SELLER-10130",
+    "sellerName": "BANYAN TREE HOSPITALITY",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered",
+    "overallRating": 4.5,
+    "incidentCount": 0,
+    "primaryCategory": "Services"
+  },
+  "GEM-SELLER-10131": {
+    "sellerId": "GEM-SELLER-10131",
+    "sellerName": "COSMIC TECHNOLOGIES",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.9,
+    "incidentCount": 0,
+    "primaryCategory": "Hardware & Networking"
+  },
+  "GEM-SELLER-10132": {
+    "sellerId": "GEM-SELLER-10132",
+    "sellerName": "DYNAMIC ENGINEERING",
+    "vendorAssessmentStatus": "Exempted",
+    "oemStatus": "Registered",
+    "overallRating": 4.3,
+    "incidentCount": 0,
+    "primaryCategory": "Engineering Services"
+  },
+  "GEM-SELLER-10133": {
+    "sellerId": "GEM-SELLER-10133",
+    "sellerName": "ELEMENTAL DESIGNS",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Not Registered",
+    "overallRating": 4.4,
+    "incidentCount": 0,
+    "primaryCategory": "Services"
+  },
+  "GEM-SELLER-10134": {
+    "sellerId": "GEM-SELLER-10134",
+    "sellerName": "FUSION PLASTICS",
+    "vendorAssessmentStatus": "Pending",
+    "oemStatus": "Registered OEM",
+    "overallRating": 3.9,
+    "incidentCount": 2,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10135": {
+    "sellerId": "GEM-SELLER-10135",
+    "sellerName": "GENESIS HEALTHCARE",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered",
+    "overallRating": 4.7,
+    "incidentCount": 0,
+    "primaryCategory": "Healthcare"
+  },
+  "GEM-SELLER-10136": {
+    "sellerId": "GEM-SELLER-10136",
+    "sellerName": "HORIZON EXPORTS",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered",
+    "overallRating": 4.1,
+    "incidentCount": 0,
+    "primaryCategory": "Trading"
+  },
+  "GEM-SELLER-10137": {
+    "sellerId": "GEM-SELLER-10137",
+    "sellerName": "ILLUSION MEDIA",
+    "vendorAssessmentStatus": "Exempted",
+    "oemStatus": "Not Registered",
+    "overallRating": 4.2,
+    "incidentCount": 0,
+    "primaryCategory": "Services"
+  },
+  "GEM-SELLER-10138": {
+    "sellerId": "GEM-SELLER-10138",
+    "sellerName": "JUPITER STEEL",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.8,
+    "incidentCount": 0,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10139": {
+    "sellerId": "GEM-SELLER-10139",
+    "sellerName": "KRYPTON CHEMICALS",
+    "vendorAssessmentStatus": "Pending",
+    "oemStatus": "Registered",
+    "overallRating": 4.0,
+    "incidentCount": 1,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10140": {
+    "sellerId": "GEM-SELLER-10140",
+    "sellerName": "LUNAR LOGISTICS",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered",
+    "overallRating": 4.5,
+    "incidentCount": 0,
+    "primaryCategory": "Logistics"
+  },
+  "GEM-SELLER-10141": {
+    "sellerId": "GEM-SELLER-10141",
+    "sellerName": "MATRIX SOLUTIONS",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered",
+    "overallRating": 4.6,
+    "incidentCount": 0,
+    "primaryCategory": "IT Software Services"
+  },
+  "GEM-SELLER-10142": {
+    "sellerId": "GEM-SELLER-10142",
+    "sellerName": "NOVA ENTERPRISES",
+    "vendorAssessmentStatus": "Exempted",
+    "oemStatus": "Not Registered",
+    "overallRating": 4.2,
+    "incidentCount": 0,
+    "primaryCategory": "Trading"
+  },
+  "GEM-SELLER-10143": {
+    "sellerId": "GEM-SELLER-10143",
+    "sellerName": "ORACLE FINANCIALS",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered",
+    "overallRating": 4.8,
+    "incidentCount": 0,
+    "primaryCategory": "Financial Services"
+  },
+  "GEM-SELLER-10144": {
+    "sellerId": "GEM-SELLER-10144",
+    "sellerName": "PULSAR ELECTRONICS",
+    "vendorAssessmentStatus": "Pending",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.1,
+    "incidentCount": 0,
+    "primaryCategory": "Hardware & Networking"
+  },
+  "GEM-SELLER-10145": {
+    "sellerId": "GEM-SELLER-10145",
+    "sellerName": "QASAR CONSULTING",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered",
+    "overallRating": 4.5,
+    "incidentCount": 0,
+    "primaryCategory": "Services"
+  },
+  "GEM-SELLER-10146": {
+    "sellerId": "GEM-SELLER-10146",
+    "sellerName": "RADIUS NETWORKS",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.7,
+    "incidentCount": 0,
+    "primaryCategory": "Telecommunications"
+  },
+  "GEM-SELLER-10147": {
+    "sellerId": "GEM-SELLER-10147",
+    "sellerName": "SPECTRA PAINTS",
+    "vendorAssessmentStatus": "Exempted",
+    "oemStatus": "Registered",
+    "overallRating": 4.3,
+    "incidentCount": 0,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10148": {
+    "sellerId": "GEM-SELLER-10148",
+    "sellerName": "TITANIUM METALS",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.8,
+    "incidentCount": 1,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10149": {
+    "sellerId": "GEM-SELLER-10149",
+    "sellerName": "URBAN ARCHITECTS",
+    "vendorAssessmentStatus": "Pending",
+    "oemStatus": "Not Registered",
+    "overallRating": 3.8,
+    "incidentCount": 0,
+    "primaryCategory": "Services"
+  },
+  "GEM-SELLER-10150": {
+    "sellerId": "GEM-SELLER-10150",
+    "sellerName": "VERTEX HARDWARE",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.4,
+    "incidentCount": 0,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10151": {
+    "sellerId": "GEM-SELLER-10151",
+    "sellerName": "WINDMILL ENERGIES",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.9,
+    "incidentCount": 0,
+    "primaryCategory": "Energy"
+  },
+  "GEM-SELLER-10152": {
+    "sellerId": "GEM-SELLER-10152",
+    "sellerName": "XYLON FURNITURE",
+    "vendorAssessmentStatus": "Exempted",
+    "oemStatus": "Registered",
+    "overallRating": 4.2,
+    "incidentCount": 0,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10153": {
+    "sellerId": "GEM-SELLER-10153",
+    "sellerName": "YELLOW CAB CO",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered",
+    "overallRating": 4.5,
+    "incidentCount": 1,
+    "primaryCategory": "Services"
+  },
+  "GEM-SELLER-10154": {
+    "sellerId": "GEM-SELLER-10154",
+    "sellerName": "ZETA PHARMACEUTICALS",
+    "vendorAssessmentStatus": "Pending",
+    "oemStatus": "Registered",
+    "overallRating": 4.0,
+    "incidentCount": 0,
+    "primaryCategory": "Healthcare"
+  },
+  "GEM-SELLER-10155": {
+    "sellerId": "GEM-SELLER-10155",
+    "sellerName": "AERO DYNAMICS",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.7,
+    "incidentCount": 0,
+    "primaryCategory": "Hardware & Networking"
+  },
+  "GEM-SELLER-10156": {
+    "sellerId": "GEM-SELLER-10156",
+    "sellerName": "BLISS SPAS",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Not Registered",
+    "overallRating": 4.4,
+    "incidentCount": 0,
+    "primaryCategory": "Services"
+  },
+  "GEM-SELLER-10157": {
+    "sellerId": "GEM-SELLER-10157",
+    "sellerName": "COBALT MINING",
+    "vendorAssessmentStatus": "Exempted",
+    "oemStatus": "Registered",
+    "overallRating": 4.3,
+    "incidentCount": 0,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10158": {
+    "sellerId": "GEM-SELLER-10158",
+    "sellerName": "DEX LOGISTICS",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered",
+    "overallRating": 4.6,
+    "incidentCount": 1,
+    "primaryCategory": "Logistics"
+  },
+  "GEM-SELLER-10159": {
+    "sellerId": "GEM-SELLER-10159",
+    "sellerName": "EAGLE EYE SECURITY",
+    "vendorAssessmentStatus": "Pending",
+    "oemStatus": "Registered",
+    "overallRating": 3.9,
+    "incidentCount": 0,
+    "primaryCategory": "Services"
+  },
+  "GEM-SELLER-10160": {
+    "sellerId": "GEM-SELLER-10160",
+    "sellerName": "FROST REFRIGERATION",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.5,
+    "incidentCount": 0,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10161": {
+    "sellerId": "GEM-SELLER-10161",
+    "sellerName": "GALAXY TOURS",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Not Registered",
+    "overallRating": 4.2,
+    "incidentCount": 0,
+    "primaryCategory": "Services"
+  },
+  "GEM-SELLER-10162": {
+    "sellerId": "GEM-SELLER-10162",
+    "sellerName": "HARMONY MUSIC",
+    "vendorAssessmentStatus": "Exempted",
+    "oemStatus": "Registered",
+    "overallRating": 4.4,
+    "incidentCount": 0,
+    "primaryCategory": "Services"
+  },
+  "GEM-SELLER-10163": {
+    "sellerId": "GEM-SELLER-10163",
+    "sellerName": "INDIGO TEXTILES",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.6,
+    "incidentCount": 1,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10164": {
+    "sellerId": "GEM-SELLER-10164",
+    "sellerName": "JADE LOGISTICS",
+    "vendorAssessmentStatus": "Pending",
+    "oemStatus": "Registered",
+    "overallRating": 4.0,
+    "incidentCount": 0,
+    "primaryCategory": "Logistics"
+  },
+  "GEM-SELLER-10165": {
+    "sellerId": "GEM-SELLER-10165",
+    "sellerName": "KINETIC ENERGY",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.8,
+    "incidentCount": 0,
+    "primaryCategory": "Energy"
+  },
+  "GEM-SELLER-10166": {
+    "sellerId": "GEM-SELLER-10166",
+    "sellerName": "LUMINOUS LIGHTING",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.5,
+    "incidentCount": 0,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10167": {
+    "sellerId": "GEM-SELLER-10167",
+    "sellerName": "MAGMA METALS",
+    "vendorAssessmentStatus": "Exempted",
+    "oemStatus": "Registered",
+    "overallRating": 4.3,
+    "incidentCount": 0,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10168": {
+    "sellerId": "GEM-SELLER-10168",
+    "sellerName": "NECTAR FOODS",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered",
+    "overallRating": 4.6,
+    "incidentCount": 1,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10169": {
+    "sellerId": "GEM-SELLER-10169",
+    "sellerName": "OBSIDIAN GLASS",
+    "vendorAssessmentStatus": "Pending",
+    "oemStatus": "Not Registered",
+    "overallRating": 3.7,
+    "incidentCount": 0,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10170": {
+    "sellerId": "GEM-SELLER-10170",
+    "sellerName": "PEGASUS TRAVELS",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered",
+    "overallRating": 4.2,
+    "incidentCount": 0,
+    "primaryCategory": "Services"
+  },
+  "GEM-SELLER-10171": {
+    "sellerId": "GEM-SELLER-10171",
+    "sellerName": "QUARTZ WATCHES",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.7,
+    "incidentCount": 0,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10172": {
+    "sellerId": "GEM-SELLER-10172",
+    "sellerName": "RADAR SYSTEMS",
+    "vendorAssessmentStatus": "Exempted",
+    "oemStatus": "Registered",
+    "overallRating": 4.4,
+    "incidentCount": 0,
+    "primaryCategory": "Hardware & Networking"
+  },
+  "GEM-SELLER-10173": {
+    "sellerId": "GEM-SELLER-10173",
+    "sellerName": "SYNAPSE BIOTECH",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered",
+    "overallRating": 4.6,
+    "incidentCount": 1,
+    "primaryCategory": "Healthcare"
+  },
+  "GEM-SELLER-10174": {
+    "sellerId": "GEM-SELLER-10174",
+    "sellerName": "TORNADO FANS",
+    "vendorAssessmentStatus": "Pending",
+    "oemStatus": "Registered OEM",
+    "overallRating": 3.9,
+    "incidentCount": 0,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10175": {
+    "sellerId": "GEM-SELLER-10175",
+    "sellerName": "ULTIMATE LOGISTICS",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered",
+    "overallRating": 4.8,
+    "incidentCount": 0,
+    "primaryCategory": "Logistics"
+  },
+  "GEM-SELLER-10176": {
+    "sellerId": "GEM-SELLER-10176",
+    "sellerName": "VORTEX PUMPS",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.5,
+    "incidentCount": 0,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10177": {
+    "sellerId": "GEM-SELLER-10177",
+    "sellerName": "WOLF PACKAGING",
+    "vendorAssessmentStatus": "Exempted",
+    "oemStatus": "Not Registered",
+    "overallRating": 4.1,
+    "incidentCount": 0,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10178": {
+    "sellerId": "GEM-SELLER-10178",
+    "sellerName": "XENITH HOSPITALITY",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered",
+    "overallRating": 4.3,
+    "incidentCount": 1,
+    "primaryCategory": "Services"
+  },
+  "GEM-SELLER-10179": {
+    "sellerId": "GEM-SELLER-10179",
+    "sellerName": "YACHT CLUB",
+    "vendorAssessmentStatus": "Pending",
+    "oemStatus": "Not Registered",
+    "overallRating": 4.0,
+    "incidentCount": 0,
+    "primaryCategory": "Services"
+  },
+  "GEM-SELLER-10180": {
+    "sellerId": "GEM-SELLER-10180",
+    "sellerName": "ZENITH EDUCATION",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered",
+    "overallRating": 4.7,
+    "incidentCount": 0,
+    "primaryCategory": "Services"
+  },
+  "GEM-SELLER-10181": {
+    "sellerId": "GEM-SELLER-10181",
+    "sellerName": "AEON TEXTILES",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered",
+    "overallRating": 4.2,
+    "incidentCount": 0,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10182": {
+    "sellerId": "GEM-SELLER-10182",
+    "sellerName": "BARIUM SOFTWARE",
+    "vendorAssessmentStatus": "Exempted",
+    "oemStatus": "Registered",
+    "overallRating": 4.5,
+    "incidentCount": 0,
+    "primaryCategory": "IT Software Services"
+  },
+  "GEM-SELLER-10183": {
+    "sellerId": "GEM-SELLER-10183",
+    "sellerName": "CHRONO LOGISTICS",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered",
+    "overallRating": 4.6,
+    "incidentCount": 1,
+    "primaryCategory": "Logistics"
+  },
+  "GEM-SELLER-10184": {
+    "sellerId": "GEM-SELLER-10184",
+    "sellerName": "DUNE AUTOMOTIVE",
+    "vendorAssessmentStatus": "Pending",
+    "oemStatus": "Registered OEM",
+    "overallRating": 3.8,
+    "incidentCount": 0,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10185": {
+    "sellerId": "GEM-SELLER-10185",
+    "sellerName": "ENIGMA ENTERPRISES",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Not Registered",
+    "overallRating": 4.1,
+    "incidentCount": 0,
+    "primaryCategory": "Trading"
+  },
+  "GEM-SELLER-10186": {
+    "sellerId": "GEM-SELLER-10186",
+    "sellerName": "FORGE SOLUTIONS",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered",
+    "overallRating": 4.4,
+    "incidentCount": 0,
+    "primaryCategory": "IT Software Services"
+  },
+  "GEM-SELLER-10187": {
+    "sellerId": "GEM-SELLER-10187",
+    "sellerName": "GRAVITY MINING",
+    "vendorAssessmentStatus": "Exempted",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.8,
+    "incidentCount": 0,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10188": {
+    "sellerId": "GEM-SELLER-10188",
+    "sellerName": "HAVEN MEDIA",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered",
+    "overallRating": 4.3,
+    "incidentCount": 1,
+    "primaryCategory": "Services"
+  },
+  "GEM-SELLER-10189": {
+    "sellerId": "GEM-SELLER-10189",
+    "sellerName": "IGNITE TRADING",
+    "vendorAssessmentStatus": "Pending",
+    "oemStatus": "Not Registered",
+    "overallRating": 4.0,
+    "incidentCount": 0,
+    "primaryCategory": "Trading"
+  },
+  "GEM-SELLER-10190": {
+    "sellerId": "GEM-SELLER-10190",
+    "sellerName": "JOULE CONSULTING",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered",
+    "overallRating": 4.6,
+    "incidentCount": 0,
+    "primaryCategory": "Services"
+  },
+  "GEM-SELLER-10191": {
+    "sellerId": "GEM-SELLER-10191",
+    "sellerName": "KINETIC TECHNOLOGIES",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.9,
+    "incidentCount": 0,
+    "primaryCategory": "Hardware & Networking"
+  },
+  "GEM-SELLER-10192": {
+    "sellerId": "GEM-SELLER-10192",
+    "sellerName": "LYNX PRODUCTIONS",
+    "vendorAssessmentStatus": "Exempted",
+    "oemStatus": "Registered",
+    "overallRating": 4.2,
+    "incidentCount": 0,
+    "primaryCategory": "Services"
+  },
+  "GEM-SELLER-10193": {
+    "sellerId": "GEM-SELLER-10193",
+    "sellerName": "MIRAGE EVENTS",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Not Registered",
+    "overallRating": 4.5,
+    "incidentCount": 1,
+    "primaryCategory": "Services"
+  },
+  "GEM-SELLER-10194": {
+    "sellerId": "GEM-SELLER-10194",
+    "sellerName": "NEBULA COURIERS",
+    "vendorAssessmentStatus": "Pending",
+    "oemStatus": "Registered",
+    "overallRating": 3.9,
+    "incidentCount": 0,
+    "primaryCategory": "Logistics"
+  },
+  "GEM-SELLER-10195": {
+    "sellerId": "GEM-SELLER-10195",
+    "sellerName": "OPAL HEALTHCARE",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered",
+    "overallRating": 4.7,
+    "incidentCount": 0,
+    "primaryCategory": "Healthcare"
+  },
+  "GEM-SELLER-10196": {
+    "sellerId": "GEM-SELLER-10196",
+    "sellerName": "PRISM PACKAGING",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.4,
+    "incidentCount": 0,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10197": {
+    "sellerId": "GEM-SELLER-10197",
+    "sellerName": "QUANTUM FITNESS",
+    "vendorAssessmentStatus": "Exempted",
+    "oemStatus": "Not Registered",
+    "overallRating": 4.1,
+    "incidentCount": 0,
+    "primaryCategory": "Services"
+  },
+  "GEM-SELLER-10198": {
+    "sellerId": "GEM-SELLER-10198",
+    "sellerName": "RADIAN TOURS",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered",
+    "overallRating": 4.6,
+    "incidentCount": 1,
+    "primaryCategory": "Services"
+  },
+  "GEM-SELLER-10199": {
+    "sellerId": "GEM-SELLER-10199",
+    "sellerName": "STELLAR SPORTS",
+    "vendorAssessmentStatus": "Pending",
+    "oemStatus": "Registered OEM",
+    "overallRating": 4.0,
+    "incidentCount": 0,
+    "primaryCategory": "Manufacturing"
+  },
+  "GEM-SELLER-10200": {
+    "sellerId": "GEM-SELLER-10200",
+    "sellerName": "TITAN TRADING",
+    "vendorAssessmentStatus": "Assessed",
+    "oemStatus": "Registered",
+    "overallRating": 4.3,
+    "incidentCount": 0,
+    "primaryCategory": "Trading"
   }
 }

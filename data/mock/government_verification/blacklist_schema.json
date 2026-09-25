@@ -5,6 +5,180 @@
       "company_name": "FRAUDULENT SUPPLIERS PVT LTD",
       "reason": "Debarred for tender manipulation and document forgery on CPPP.",
       "debarred_until": "2030-12-31"
+    },
+    {
+      "pan": "FAKEP5555M",
+      "company_name": "SHADOW ENTERPRISES",
+      "reason": "Submission of a counterfeit Performance Bank Guarantee (PBG).",
+      "debarred_until": "2028-05-15"
+    },
+    {
+      "pan": "SCAMP9999K",
+      "company_name": "DECEPTIVE CONSTRUCTIONS",
+      "reason": "Cartelization and bid-rigging detected during technical evaluation.",
+      "debarred_until": "2031-10-20"
+    },
+    {
+      "pan": "FORGE1111A",
+      "company_name": "COUNTERFEIT LOGISTICS",
+      "reason": "Forged MSME Udyam registration certificate submitted for EMD exemption.",
+      "debarred_until": "2029-01-01"
+    },
+    {
+      "pan": "CHETA2222B",
+      "company_name": "BAD FAITH TRADERS",
+      "reason": "Misrepresentation of Make in India (MII) Class-1 local content.",
+      "debarred_until": "2027-08-31"
+    },
+    {
+      "pan": "BRIBX3333C",
+      "company_name": "CORRUPT IT SOLUTIONS",
+      "reason": "Attempting to unduly influence the tender evaluation committee.",
+      "debarred_until": "2035-12-31"
+    },
+    {
+      "pan": "GHOST4444D",
+      "company_name": "PHANTOM SUPPLIES LLP",
+      "reason": "Falsified annual turnover and audited financial statements.",
+      "debarred_until": "2028-11-30"
+    },
+    {
+      "pan": "FALSA5555E",
+      "company_name": "UNRELIABLE VENDORS INC",
+      "reason": "Repeated failure to execute GeM contracts after accepting awards.",
+      "debarred_until": "2026-12-31"
+    },
+    {
+      "pan": "TRICK6666F",
+      "company_name": "SLY MANUFACTURING",
+      "reason": "Supplying substandard materials failing third-party quality control checks.",
+      "debarred_until": "2029-04-15"
+    },
+    {
+      "pan": "DUPEC7777G",
+      "company_name": "DUPLICATE GOODS PVT LTD",
+      "reason": "Selling counterfeit IT hardware under registered OEM brand names.",
+      "debarred_until": "2032-06-30"
+    },
+    {
+      "pan": "CONNN8888H",
+      "company_name": "CONARTIST BUILDERS",
+      "reason": "Submitting falsified past experience certificates from non-existent clients.",
+      "debarred_until": "2030-03-31"
+    },
+    {
+      "pan": "SHAMX9999I",
+      "company_name": "SHAM BIDDING CO",
+      "reason": "Creating multiple proxy accounts to bypass GeM suspension.",
+      "debarred_until": "2099-12-31"
+    },
+    {
+      "pan": "LIESX1234J",
+      "company_name": "FABRICATED DATA SYSTEMS",
+      "reason": "Unauthorized subcontracting of classified government IT infrastructure.",
+      "debarred_until": "2033-02-28"
+    },
+    {
+      "pan": "THEFT2345K",
+      "company_name": "PILFERAGE LOGISTICS",
+      "reason": "Diversion of subsidized government materials to the open market.",
+      "debarred_until": "2035-01-01"
+    },
+    {
+      "pan": "BOGUS3456L",
+      "company_name": "BOGUS HEALTHCARE",
+      "reason": "Supplying expired medical consumables with altered manufacturing dates.",
+      "debarred_until": "2040-12-31"
+    },
+    {
+      "pan": "MALIC4567M",
+      "company_name": "MALICIOUS CODE IT",
+      "reason": "Planting backdoor vulnerabilities in delivered government software.",
+      "debarred_until": "2099-12-31"
+    },
+    {
+      "pan": "TOXIC5678N",
+      "company_name": "TOXIC CHEMICALS LTD",
+      "reason": "Severe violation of environmental safety norms during contract execution.",
+      "debarred_until": "2028-07-31"
+    },
+    {
+      "pan": "FAKER6789O",
+      "company_name": "COUNTERFEIT APPAREL",
+      "reason": "Using non-approved, highly flammable materials in military uniform supply.",
+      "debarred_until": "2038-12-31"
+    },
+    {
+      "pan": "SCAMX7890P",
+      "company_name": "SCAMSTER ENGINEERING",
+      "reason": "Defaulted on critical bridge construction delivery schedule.",
+      "debarred_until": "2027-09-30"
+    },
+    {
+      "pan": "NULLX8901Q",
+      "company_name": "VOID CONTRACTORS",
+      "reason": "Blacklisted by the World Bank for fraudulent practices; cross-debarred by MoF.",
+      "debarred_until": "2031-05-31"
+    },
+    {
+      "pan": "ZEROX9012R",
+      "company_name": "DEFAULTING AGENCIES",
+      "reason": "Failure to pay statutory minimum wages to outsourced manpower.",
+      "debarred_until": "2026-10-31"
+    },
+    {
+      "pan": "EVADE0123S",
+      "company_name": "TAX EVASION EXPORTS",
+      "reason": "Severe GST evasion and cancellation of registration by tax authorities.",
+      "debarred_until": "2029-12-31"
+    },
+    {
+      "pan": "SPOOF1234T",
+      "company_name": "SPOOFED IDENTITY TECH",
+      "reason": "Identity spoofing utilizing a legitimate corporation's PAN and GSTIN.",
+      "debarred_until": "2034-08-15"
+    },
+    {
+      "pan": "PHISH2345U",
+      "company_name": "FISHING NETWORKS",
+      "reason": "Providing fake ISO certification during technical bid submission.",
+      "debarred_until": "2028-02-28"
+    },
+    {
+      "pan": "BLACK3456V",
+      "company_name": "BLACKLISTED CATERERS",
+      "reason": "FSSAI license revoked due to severe food poisoning incident at govt facility.",
+      "debarred_until": "2030-06-30"
+    },
+    {
+      "pan": "DIRTY4567W",
+      "company_name": "DIRTY HANDS FACILITIES",
+      "reason": "Forging EPF/ESIC challans for outsourced security personnel.",
+      "debarred_until": "2029-11-30"
+    },
+    {
+      "pan": "CHEAT5678X",
+      "company_name": "CHEATING PARTNERS LLP",
+      "reason": "Concealing a direct conflict of interest with the procuring entity.",
+      "debarred_until": "2027-01-31"
+    },
+    {
+      "pan": "SMUGG6789Y",
+      "company_name": "CONTRABAND IMPORTS",
+      "reason": "Sourcing materials from land-border restricted countries without DPIIT clearance.",
+      "debarred_until": "2032-12-31"
+    },
+    {
+      "pan": "BRIBE7890Z",
+      "company_name": "KICKBACK CONSULTING",
+      "reason": "Indicted by the CBI under the Prevention of Corruption Act.",
+      "debarred_until": "2099-12-31"
+    },
+    {
+      "pan": "FRAUD8901A",
+      "company_name": "FRAUDULENT BIDDERS INC",
+      "reason": "Tampering with PDF digital signatures in the Bid Document.",
+      "debarred_until": "2030-10-31"
     }
   ]
 }

@@ -38,5 +38,2005 @@
     "dateOfRegistration": "01/01/2023",
     "state": "DELHI",
     "district": "NEW DELHI"
+  },
+  "UDYAM-KA-05-1000001": {
+    "udyamRegistrationNumber": "UDYAM-KA-05-1000001",
+    "enterpriseName": "ALPHA TECHNOLOGIES PVT LTD",
+    "organizationType": "Private Limited Company",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "MEDIUM",
+    "dateOfRegistration": "10/02/2019",
+    "state": "KARNATAKA",
+    "district": "BENGALURU"
+  },
+  "UDYAM-GJ-01-1000002": {
+    "udyamRegistrationNumber": "UDYAM-GJ-01-1000002",
+    "enterpriseName": "BETA MANUFACTURING LLP",
+    "organizationType": "Limited Liability Partnership",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "12/03/2020",
+    "state": "GUJARAT",
+    "district": "AHMEDABAD"
+  },
+  "UDYAM-TN-02-1000003": {
+    "udyamRegistrationNumber": "UDYAM-TN-02-1000003",
+    "enterpriseName": "GAMMA LOGISTICS",
+    "organizationType": "Proprietorship",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "MICRO",
+    "dateOfRegistration": "15/05/2021",
+    "state": "TAMIL NADU",
+    "district": "CHENNAI"
+  },
+  "UDYAM-UP-03-1000004": {
+    "udyamRegistrationNumber": "UDYAM-UP-03-1000004",
+    "enterpriseName": "DELTA EXPORTS",
+    "organizationType": "Partnership",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "18/06/2017",
+    "state": "UTTAR PRADESH",
+    "district": "KANPUR"
+  },
+  "UDYAM-MP-04-1000005": {
+    "udyamRegistrationNumber": "UDYAM-MP-04-1000005",
+    "enterpriseName": "EPSILON TRADERS",
+    "organizationType": "Proprietorship",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "MICRO",
+    "dateOfRegistration": "22/07/2018",
+    "state": "MADHYA PRADESH",
+    "district": "INDORE"
+  },
+  "UDYAM-WB-05-1000006": {
+    "udyamRegistrationNumber": "UDYAM-WB-05-1000006",
+    "enterpriseName": "ZETA SOFTWARE SOLUTIONS",
+    "organizationType": "Private Limited Company",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "30/08/2020",
+    "state": "WEST BENGAL",
+    "district": "KOLKATA"
+  },
+  "UDYAM-AP-06-1000007": {
+    "udyamRegistrationNumber": "UDYAM-AP-06-1000007",
+    "enterpriseName": "ETA AGRO INDUSTRIES",
+    "organizationType": "Limited Liability Partnership",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "MEDIUM",
+    "dateOfRegistration": "14/09/2016",
+    "state": "ANDHRA PRADESH",
+    "district": "VISAKHAPATNAM"
+  },
+  "UDYAM-HR-07-1000008": {
+    "udyamRegistrationNumber": "UDYAM-HR-07-1000008",
+    "enterpriseName": "THETA AUTOMOTIVES",
+    "organizationType": "Private Limited Company",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "25/10/2019",
+    "state": "HARYANA",
+    "district": "GURUGRAM"
+  },
+  "UDYAM-PB-08-1000009": {
+    "udyamRegistrationNumber": "UDYAM-PB-08-1000009",
+    "enterpriseName": "IOTA SPORTS GOODS",
+    "organizationType": "Partnership",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "MICRO",
+    "dateOfRegistration": "05/11/2021",
+    "state": "PUNJAB",
+    "district": "JALANDHAR"
+  },
+  "UDYAM-KL-09-1000010": {
+    "udyamRegistrationNumber": "UDYAM-KL-09-1000010",
+    "enterpriseName": "KAPPA TEXTILES",
+    "organizationType": "Proprietorship",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "12/12/2017",
+    "state": "KERALA",
+    "district": "KOCHI"
+  },
+  "UDYAM-DL-10-1000011": {
+    "udyamRegistrationNumber": "UDYAM-DL-10-1000011",
+    "enterpriseName": "LAMBDA CONSULTING",
+    "organizationType": "Limited Liability Partnership",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "MICRO",
+    "dateOfRegistration": "19/01/2022",
+    "state": "DELHI",
+    "district": "CENTRAL DELHI"
+  },
+  "UDYAM-MH-11-1000012": {
+    "udyamRegistrationNumber": "UDYAM-MH-11-1000012",
+    "enterpriseName": "MU FINANCIAL SERVICES",
+    "organizationType": "Private Limited Company",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "MEDIUM",
+    "dateOfRegistration": "28/02/2015",
+    "state": "MAHARASHTRA",
+    "district": "PUNE"
+  },
+  "UDYAM-RJ-12-1000013": {
+    "udyamRegistrationNumber": "UDYAM-RJ-12-1000013",
+    "enterpriseName": "NU HANDICRAFTS",
+    "organizationType": "Proprietorship",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "MICRO",
+    "dateOfRegistration": "07/03/2018",
+    "state": "RAJASTHAN",
+    "district": "JODHPUR"
+  },
+  "UDYAM-KA-13-1000014": {
+    "udyamRegistrationNumber": "UDYAM-KA-13-1000014",
+    "enterpriseName": "XI BIO LABS",
+    "organizationType": "Private Limited Company",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "16/04/2020",
+    "state": "KARNATAKA",
+    "district": "MYSURU"
+  },
+  "UDYAM-GJ-14-1000015": {
+    "udyamRegistrationNumber": "UDYAM-GJ-14-1000015",
+    "enterpriseName": "OMICRON DIAMONDS",
+    "organizationType": "Partnership",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "MEDIUM",
+    "dateOfRegistration": "22/05/2016",
+    "state": "GUJARAT",
+    "district": "SURAT"
+  },
+  "UDYAM-TN-15-1000016": {
+    "udyamRegistrationNumber": "UDYAM-TN-15-1000016",
+    "enterpriseName": "PI ENGINEERING",
+    "organizationType": "Limited Liability Partnership",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "11/06/2019",
+    "state": "TAMIL NADU",
+    "district": "COIMBATORE"
+  },
+  "UDYAM-UP-16-1000017": {
+    "udyamRegistrationNumber": "UDYAM-UP-16-1000017",
+    "enterpriseName": "RHO INFOTECH",
+    "organizationType": "Proprietorship",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "MICRO",
+    "dateOfRegistration": "09/07/2021",
+    "state": "UTTAR PRADESH",
+    "district": "NOIDA"
+  },
+  "UDYAM-MP-17-1000018": {
+    "udyamRegistrationNumber": "UDYAM-MP-17-1000018",
+    "enterpriseName": "SIGMA STEEL",
+    "organizationType": "Private Limited Company",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "MEDIUM",
+    "dateOfRegistration": "14/08/2014",
+    "state": "MADHYA PRADESH",
+    "district": "BHOPAL"
+  },
+  "UDYAM-WB-18-1000019": {
+    "udyamRegistrationNumber": "UDYAM-WB-18-1000019",
+    "enterpriseName": "TAU PLASTICS",
+    "organizationType": "Partnership",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "21/09/2018",
+    "state": "WEST BENGAL",
+    "district": "HOWRAH"
+  },
+  "UDYAM-AP-19-1000020": {
+    "udyamRegistrationNumber": "UDYAM-AP-19-1000020",
+    "enterpriseName": "UPSILON PHARMA",
+    "organizationType": "Private Limited Company",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "MEDIUM",
+    "dateOfRegistration": "30/10/2017",
+    "state": "ANDHRA PRADESH",
+    "district": "VIJAYAWADA"
+  },
+  "UDYAM-HR-20-1000021": {
+    "udyamRegistrationNumber": "UDYAM-HR-20-1000021",
+    "enterpriseName": "PHI NETWORKS",
+    "organizationType": "Limited Liability Partnership",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "04/11/2020",
+    "state": "HARYANA",
+    "district": "FARIDABAD"
+  },
+  "UDYAM-PB-21-1000022": {
+    "udyamRegistrationNumber": "UDYAM-PB-21-1000022",
+    "enterpriseName": "CHI APPARELS",
+    "organizationType": "Proprietorship",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "MICRO",
+    "dateOfRegistration": "18/12/2022",
+    "state": "PUNJAB",
+    "district": "LUDHIANA"
+  },
+  "UDYAM-KL-22-1000023": {
+    "udyamRegistrationNumber": "UDYAM-KL-22-1000023",
+    "enterpriseName": "PSI HERBALS",
+    "organizationType": "Private Limited Company",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "25/01/2019",
+    "state": "KERALA",
+    "district": "THIRUVANANTHAPURAM"
+  },
+  "UDYAM-DL-23-1000024": {
+    "udyamRegistrationNumber": "UDYAM-DL-23-1000024",
+    "enterpriseName": "OMEGA MEDIA",
+    "organizationType": "Partnership",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "MICRO",
+    "dateOfRegistration": "12/02/2018",
+    "state": "DELHI",
+    "district": "NORTH DELHI"
+  },
+  "UDYAM-MH-24-1000025": {
+    "udyamRegistrationNumber": "UDYAM-MH-24-1000025",
+    "enterpriseName": "AURA INFRASTRUCTURE",
+    "organizationType": "Private Limited Company",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "MEDIUM",
+    "dateOfRegistration": "08/03/2015",
+    "state": "MAHARASHTRA",
+    "district": "NAGPUR"
+  },
+  "UDYAM-RJ-25-1000026": {
+    "udyamRegistrationNumber": "UDYAM-RJ-25-1000026",
+    "enterpriseName": "BLAZE ENERGY",
+    "organizationType": "Limited Liability Partnership",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "17/04/2021",
+    "state": "RAJASTHAN",
+    "district": "KOTA"
+  },
+  "UDYAM-KA-26-1000027": {
+    "udyamRegistrationNumber": "UDYAM-KA-26-1000027",
+    "enterpriseName": "CREST INNOVATIONS",
+    "organizationType": "Proprietorship",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "MICRO",
+    "dateOfRegistration": "29/05/2020",
+    "state": "KARNATAKA",
+    "district": "HUBLI"
+  },
+  "UDYAM-GJ-27-1000028": {
+    "udyamRegistrationNumber": "UDYAM-GJ-27-1000028",
+    "enterpriseName": "DART LOGISTICS",
+    "organizationType": "Private Limited Company",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "03/06/2017",
+    "state": "GUJARAT",
+    "district": "VADODARA"
+  },
+  "UDYAM-TN-28-1000029": {
+    "udyamRegistrationNumber": "UDYAM-TN-28-1000029",
+    "enterpriseName": "ECHO SYSTEMS",
+    "organizationType": "Partnership",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "MEDIUM",
+    "dateOfRegistration": "19/07/2016",
+    "state": "TAMIL NADU",
+    "district": "MADURAI"
+  },
+  "UDYAM-UP-29-1000030": {
+    "udyamRegistrationNumber": "UDYAM-UP-29-1000030",
+    "enterpriseName": "FLARE TECHNOLOGIES",
+    "organizationType": "Limited Liability Partnership",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "MICRO",
+    "dateOfRegistration": "22/08/2022",
+    "state": "UTTAR PRADESH",
+    "district": "LUCKNOW"
+  },
+  "UDYAM-MP-30-1000031": {
+    "udyamRegistrationNumber": "UDYAM-MP-30-1000031",
+    "enterpriseName": "GLOBE PACKAGING",
+    "organizationType": "Proprietorship",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "11/09/2019",
+    "state": "MADHYA PRADESH",
+    "district": "JABALPUR"
+  },
+  "UDYAM-WB-31-1000032": {
+    "udyamRegistrationNumber": "UDYAM-WB-31-1000032",
+    "enterpriseName": "HALO HEALTHCARE",
+    "organizationType": "Private Limited Company",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "MEDIUM",
+    "dateOfRegistration": "05/10/2018",
+    "state": "WEST BENGAL",
+    "district": "SILIGURI"
+  },
+  "UDYAM-AP-32-1000033": {
+    "udyamRegistrationNumber": "UDYAM-AP-32-1000033",
+    "enterpriseName": "ICON TRADERS",
+    "organizationType": "Partnership",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "MICRO",
+    "dateOfRegistration": "14/11/2021",
+    "state": "ANDHRA PRADESH",
+    "district": "GUNTUR"
+  },
+  "UDYAM-HR-33-1000034": {
+    "udyamRegistrationNumber": "UDYAM-HR-33-1000034",
+    "enterpriseName": "JADE ENTERPRISES",
+    "organizationType": "Limited Liability Partnership",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "27/12/2020",
+    "state": "HARYANA",
+    "district": "ROHTAK"
+  },
+  "UDYAM-PB-34-1000035": {
+    "udyamRegistrationNumber": "UDYAM-PB-34-1000035",
+    "enterpriseName": "KITE COMMUNICATIONS",
+    "organizationType": "Proprietorship",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "MICRO",
+    "dateOfRegistration": "10/01/2019",
+    "state": "PUNJAB",
+    "district": "AMRITSAR"
+  },
+  "UDYAM-KL-35-1000036": {
+    "udyamRegistrationNumber": "UDYAM-KL-35-1000036",
+    "enterpriseName": "LUMEN ELECTRICALS",
+    "organizationType": "Private Limited Company",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "MEDIUM",
+    "dateOfRegistration": "21/02/2017",
+    "state": "KERALA",
+    "district": "KOZHIKODE"
+  },
+  "UDYAM-DL-36-1000037": {
+    "udyamRegistrationNumber": "UDYAM-DL-36-1000037",
+    "enterpriseName": "METRO BUILDERS",
+    "organizationType": "Partnership",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "15/03/2018",
+    "state": "DELHI",
+    "district": "WEST DELHI"
+  },
+  "UDYAM-MH-37-1000038": {
+    "udyamRegistrationNumber": "UDYAM-MH-37-1000038",
+    "enterpriseName": "NOVA CEMENTS",
+    "organizationType": "Private Limited Company",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "MEDIUM",
+    "dateOfRegistration": "28/04/2016",
+    "state": "MAHARASHTRA",
+    "district": "NASHIK"
+  },
+  "UDYAM-RJ-38-1000039": {
+    "udyamRegistrationNumber": "UDYAM-RJ-38-1000039",
+    "enterpriseName": "OASIS TOURISM",
+    "organizationType": "Proprietorship",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "MICRO",
+    "dateOfRegistration": "09/05/2022",
+    "state": "RAJASTHAN",
+    "district": "UDAIPUR"
+  },
+  "UDYAM-KA-39-1000040": {
+    "udyamRegistrationNumber": "UDYAM-KA-39-1000040",
+    "enterpriseName": "PULSE DIAGNOSTICS",
+    "organizationType": "Limited Liability Partnership",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "18/06/2019",
+    "state": "KARNATAKA",
+    "district": "MANGALURU"
+  },
+  "UDYAM-GJ-40-1000041": {
+    "udyamRegistrationNumber": "UDYAM-GJ-40-1000041",
+    "enterpriseName": "QUARTZ CERAMICS",
+    "organizationType": "Partnership",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "MEDIUM",
+    "dateOfRegistration": "02/07/2015",
+    "state": "GUJARAT",
+    "district": "RAJKOT"
+  },
+  "UDYAM-TN-41-1000042": {
+    "udyamRegistrationNumber": "UDYAM-TN-41-1000042",
+    "enterpriseName": "RIPPLE WATER PURIFIERS",
+    "organizationType": "Private Limited Company",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "14/08/2020",
+    "state": "TAMIL NADU",
+    "district": "TIRUCHIRAPPALLI"
+  },
+  "UDYAM-UP-42-1000043": {
+    "udyamRegistrationNumber": "UDYAM-UP-42-1000043",
+    "enterpriseName": "SPARK EDUCATION",
+    "organizationType": "Proprietorship",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "MICRO",
+    "dateOfRegistration": "26/09/2021",
+    "state": "UTTAR PRADESH",
+    "district": "AGRA"
+  },
+  "UDYAM-MP-43-1000044": {
+    "udyamRegistrationNumber": "UDYAM-MP-43-1000044",
+    "enterpriseName": "TIDE SHIPPING",
+    "organizationType": "Limited Liability Partnership",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "MEDIUM",
+    "dateOfRegistration": "05/10/2017",
+    "state": "MADHYA PRADESH",
+    "district": "GWALIOR"
+  },
+  "UDYAM-WB-44-1000045": {
+    "udyamRegistrationNumber": "UDYAM-WB-44-1000045",
+    "enterpriseName": "URBAN LIVING FURNITURE",
+    "organizationType": "Private Limited Company",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "17/11/2019",
+    "state": "WEST BENGAL",
+    "district": "ASANSOL"
+  },
+  "UDYAM-AP-45-1000046": {
+    "udyamRegistrationNumber": "UDYAM-AP-45-1000046",
+    "enterpriseName": "VANGUARD SECURITY",
+    "organizationType": "Partnership",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "MICRO",
+    "dateOfRegistration": "30/12/2018",
+    "state": "ANDHRA PRADESH",
+    "district": "KURNOOL"
+  },
+  "UDYAM-HR-46-1000047": {
+    "udyamRegistrationNumber": "UDYAM-HR-46-1000047",
+    "enterpriseName": "WAVE BROADBAND",
+    "organizationType": "Private Limited Company",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "MEDIUM",
+    "dateOfRegistration": "08/01/2016",
+    "state": "HARYANA",
+    "district": "PANIPAT"
+  },
+  "UDYAM-PB-47-1000048": {
+    "udyamRegistrationNumber": "UDYAM-PB-47-1000048",
+    "enterpriseName": "XYLEM PIPES",
+    "organizationType": "Limited Liability Partnership",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "21/02/2021",
+    "state": "PUNJAB",
+    "district": "PATIALA"
+  },
+  "UDYAM-KL-48-1000049": {
+    "udyamRegistrationNumber": "UDYAM-KL-48-1000049",
+    "enterpriseName": "YOGA NATURALS",
+    "organizationType": "Proprietorship",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "MICRO",
+    "dateOfRegistration": "12/03/2020",
+    "state": "KERALA",
+    "district": "KOLLAM"
+  },
+  "UDYAM-DL-49-1000050": {
+    "udyamRegistrationNumber": "UDYAM-DL-49-1000050",
+    "enterpriseName": "ZENITH APPARELS",
+    "organizationType": "Partnership",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "16/04/2017",
+    "state": "DELHI",
+    "district": "EAST DELHI"
+  },
+  "UDYAM-MH-50-1000051": {
+    "udyamRegistrationNumber": "UDYAM-MH-50-1000051",
+    "enterpriseName": "AEON ELECTRONICS",
+    "organizationType": "Private Limited Company",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "MEDIUM",
+    "dateOfRegistration": "25/05/2015",
+    "state": "MAHARASHTRA",
+    "district": "AURANGABAD"
+  },
+  "UDYAM-RJ-51-1000052": {
+    "udyamRegistrationNumber": "UDYAM-RJ-51-1000052",
+    "enterpriseName": "BARIUM CHEMICALS",
+    "organizationType": "Limited Liability Partnership",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "04/06/2019",
+    "state": "RAJASTHAN",
+    "district": "ALWAR"
+  },
+  "UDYAM-KA-52-1000053": {
+    "udyamRegistrationNumber": "UDYAM-KA-52-1000053",
+    "enterpriseName": "CHRONO WATCHES",
+    "organizationType": "Proprietorship",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "MICRO",
+    "dateOfRegistration": "19/07/2022",
+    "state": "KARNATAKA",
+    "district": "BELAGAVI"
+  },
+  "UDYAM-GJ-53-1000054": {
+    "udyamRegistrationNumber": "UDYAM-GJ-53-1000054",
+    "enterpriseName": "DUNE TEXTILES",
+    "organizationType": "Partnership",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "28/08/2018",
+    "state": "GUJARAT",
+    "district": "BHAVNAGAR"
+  },
+  "UDYAM-TN-54-1000055": {
+    "udyamRegistrationNumber": "UDYAM-TN-54-1000055",
+    "enterpriseName": "ENIGMA SOFTWARE",
+    "organizationType": "Private Limited Company",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "MEDIUM",
+    "dateOfRegistration": "07/09/2016",
+    "state": "TAMIL NADU",
+    "district": "SALEM"
+  },
+  "UDYAM-UP-55-1000056": {
+    "udyamRegistrationNumber": "UDYAM-UP-55-1000056",
+    "enterpriseName": "FORGE METALS",
+    "organizationType": "Limited Liability Partnership",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "13/10/2020",
+    "state": "UTTAR PRADESH",
+    "district": "GHAZIABAD"
+  },
+  "UDYAM-MP-56-1000057": {
+    "udyamRegistrationNumber": "UDYAM-MP-56-1000057",
+    "enterpriseName": "GRAVITY SPORTS",
+    "organizationType": "Proprietorship",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "MICRO",
+    "dateOfRegistration": "22/11/2021",
+    "state": "MADHYA PRADESH",
+    "district": "UJJAIN"
+  },
+  "UDYAM-WB-57-1000058": {
+    "udyamRegistrationNumber": "UDYAM-WB-57-1000058",
+    "enterpriseName": "HAVEN REALTY",
+    "organizationType": "Partnership",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "01/12/2017",
+    "state": "WEST BENGAL",
+    "district": "DURGAPUR"
+  },
+  "UDYAM-AP-58-1000059": {
+    "udyamRegistrationNumber": "UDYAM-AP-58-1000059",
+    "enterpriseName": "IGNITE ENGINES",
+    "organizationType": "Private Limited Company",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "MEDIUM",
+    "dateOfRegistration": "11/01/2015",
+    "state": "ANDHRA PRADESH",
+    "district": "NELLORE"
+  },
+  "UDYAM-HR-59-1000060": {
+    "udyamRegistrationNumber": "UDYAM-HR-59-1000060",
+    "enterpriseName": "JOULE BATTERIES",
+    "organizationType": "Limited Liability Partnership",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "19/02/2019",
+    "state": "HARYANA",
+    "district": "KARNAL"
+  },
+  "UDYAM-PB-60-1000061": {
+    "udyamRegistrationNumber": "UDYAM-PB-60-1000061",
+    "enterpriseName": "KINETIC MOTORS",
+    "organizationType": "Proprietorship",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "MICRO",
+    "dateOfRegistration": "26/03/2022",
+    "state": "PUNJAB",
+    "district": "BATHINDA"
+  },
+  "UDYAM-KL-61-1000062": {
+    "udyamRegistrationNumber": "UDYAM-KL-61-1000062",
+    "enterpriseName": "LYNX CYCLES",
+    "organizationType": "Partnership",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "05/04/2018",
+    "state": "KERALA",
+    "district": "THRISSUR"
+  },
+  "UDYAM-DL-62-1000063": {
+    "udyamRegistrationNumber": "UDYAM-DL-62-1000063",
+    "enterpriseName": "MIRAGE STUDIOS",
+    "organizationType": "Private Limited Company",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "MEDIUM",
+    "dateOfRegistration": "14/05/2016",
+    "state": "DELHI",
+    "district": "SOUTH DELHI"
+  },
+  "UDYAM-MH-63-1000064": {
+    "udyamRegistrationNumber": "UDYAM-MH-63-1000064",
+    "enterpriseName": "NEBULA AEROSPACE",
+    "organizationType": "Limited Liability Partnership",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "22/06/2020",
+    "state": "MAHARASHTRA",
+    "district": "THANE"
+  },
+  "UDYAM-RJ-64-1000065": {
+    "udyamRegistrationNumber": "UDYAM-RJ-64-1000065",
+    "enterpriseName": "OPAL JEWELERS",
+    "organizationType": "Proprietorship",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "MICRO",
+    "dateOfRegistration": "30/07/2021",
+    "state": "RAJASTHAN",
+    "district": "AJMER"
+  },
+  "UDYAM-KA-65-1000066": {
+    "udyamRegistrationNumber": "UDYAM-KA-65-1000066",
+    "enterpriseName": "PRISM OPTICALS",
+    "organizationType": "Partnership",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "09/08/2017",
+    "state": "KARNATAKA",
+    "district": "TUMAKURU"
+  },
+  "UDYAM-GJ-66-1000067": {
+    "udyamRegistrationNumber": "UDYAM-GJ-66-1000067",
+    "enterpriseName": "QUANTUM COMPUTING",
+    "organizationType": "Private Limited Company",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "MEDIUM",
+    "dateOfRegistration": "18/09/2014",
+    "state": "GUJARAT",
+    "district": "JAMNAGAR"
+  },
+  "UDYAM-TN-67-1000068": {
+    "udyamRegistrationNumber": "UDYAM-TN-67-1000068",
+    "enterpriseName": "RADIAN SOLAR",
+    "organizationType": "Limited Liability Partnership",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "27/10/2019",
+    "state": "TAMIL NADU",
+    "district": "ERODE"
+  },
+  "UDYAM-UP-68-1000069": {
+    "udyamRegistrationNumber": "UDYAM-UP-68-1000069",
+    "enterpriseName": "STELLAR AVIATION",
+    "organizationType": "Proprietorship",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "MICRO",
+    "dateOfRegistration": "06/11/2022",
+    "state": "UTTAR PRADESH",
+    "district": "MEERUT"
+  },
+  "UDYAM-MP-69-1000070": {
+    "udyamRegistrationNumber": "UDYAM-MP-69-1000070",
+    "enterpriseName": "TITAN CONSTRUCTION",
+    "organizationType": "Partnership",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "15/12/2018",
+    "state": "MADHYA PRADESH",
+    "district": "REWA"
+  },
+  "UDYAM-WB-70-1000071": {
+    "udyamRegistrationNumber": "UDYAM-WB-70-1000071",
+    "enterpriseName": "ULTRA FOODS",
+    "organizationType": "Private Limited Company",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "MEDIUM",
+    "dateOfRegistration": "23/01/2015",
+    "state": "WEST BENGAL",
+    "district": "KHARAGPUR"
+  },
+  "UDYAM-AP-71-1000072": {
+    "udyamRegistrationNumber": "UDYAM-AP-71-1000072",
+    "enterpriseName": "VERTEX POLYMERS",
+    "organizationType": "Limited Liability Partnership",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "04/02/2020",
+    "state": "ANDHRA PRADESH",
+    "district": "RAJAHMUNDRY"
+  },
+  "UDYAM-HR-72-1000073": {
+    "udyamRegistrationNumber": "UDYAM-HR-72-1000073",
+    "enterpriseName": "WIZARD TOYS",
+    "organizationType": "Proprietorship",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "MICRO",
+    "dateOfRegistration": "13/03/2021",
+    "state": "HARYANA",
+    "district": "AMBALA"
+  },
+  "UDYAM-PB-73-1000074": {
+    "udyamRegistrationNumber": "UDYAM-PB-73-1000074",
+    "enterpriseName": "XENON LIGHTING",
+    "organizationType": "Partnership",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "22/04/2017",
+    "state": "PUNJAB",
+    "district": "MOHALI"
+  },
+  "UDYAM-KL-74-1000075": {
+    "udyamRegistrationNumber": "UDYAM-KL-74-1000075",
+    "enterpriseName": "YARD MARINE",
+    "organizationType": "Private Limited Company",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "MEDIUM",
+    "dateOfRegistration": "01/05/2016",
+    "state": "KERALA",
+    "district": "ALAPPUZHA"
+  },
+  "UDYAM-DL-75-1000076": {
+    "udyamRegistrationNumber": "UDYAM-DL-75-1000076",
+    "enterpriseName": "ZEPHYR AIRWAYS",
+    "organizationType": "Limited Liability Partnership",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "10/06/2019",
+    "state": "DELHI",
+    "district": "SHAHDARA"
+  },
+  "UDYAM-MH-76-1000077": {
+    "udyamRegistrationNumber": "UDYAM-MH-76-1000077",
+    "enterpriseName": "APEX CERAMICS",
+    "organizationType": "Proprietorship",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "MICRO",
+    "dateOfRegistration": "19/07/2022",
+    "state": "MAHARASHTRA",
+    "district": "KALYAN"
+  },
+  "UDYAM-RJ-77-1000078": {
+    "udyamRegistrationNumber": "UDYAM-RJ-77-1000078",
+    "enterpriseName": "BOLD FITNESS",
+    "organizationType": "Partnership",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "28/08/2018",
+    "state": "RAJASTHAN",
+    "district": "BIKANER"
+  },
+  "UDYAM-KA-78-1000079": {
+    "udyamRegistrationNumber": "UDYAM-KA-78-1000079",
+    "enterpriseName": "CORE INSTRUMENTS",
+    "organizationType": "Private Limited Company",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "MEDIUM",
+    "dateOfRegistration": "07/09/2015",
+    "state": "KARNATAKA",
+    "district": "BELLARY"
+  },
+  "UDYAM-GJ-79-1000080": {
+    "udyamRegistrationNumber": "UDYAM-GJ-79-1000080",
+    "enterpriseName": "DIVE AQUATICS",
+    "organizationType": "Limited Liability Partnership",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "15/10/2020",
+    "state": "GUJARAT",
+    "district": "GANDHINAGAR"
+  },
+  "UDYAM-TN-80-1000081": {
+    "udyamRegistrationNumber": "UDYAM-TN-80-1000081",
+    "enterpriseName": "EDGE CUTLERY",
+    "organizationType": "Proprietorship",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "MICRO",
+    "dateOfRegistration": "24/11/2021",
+    "state": "TAMIL NADU",
+    "district": "TIRUPPUR"
+  },
+  "UDYAM-UP-81-1000082": {
+    "udyamRegistrationNumber": "UDYAM-UP-81-1000082",
+    "enterpriseName": "FLINT MATCHES",
+    "organizationType": "Partnership",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "03/12/2017",
+    "state": "UTTAR PRADESH",
+    "district": "ALIGARH"
+  },
+  "UDYAM-MP-82-1000083": {
+    "udyamRegistrationNumber": "UDYAM-MP-82-1000083",
+    "enterpriseName": "GLOW COSMETICS",
+    "organizationType": "Private Limited Company",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "MEDIUM",
+    "dateOfRegistration": "11/01/2016",
+    "state": "MADHYA PRADESH",
+    "district": "SAGAR"
+  },
+  "UDYAM-WB-83-1000084": {
+    "udyamRegistrationNumber": "UDYAM-WB-83-1000084",
+    "enterpriseName": "HIVE HONEY",
+    "organizationType": "Limited Liability Partnership",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "20/02/2019",
+    "state": "WEST BENGAL",
+    "district": "MALDA"
+  },
+  "UDYAM-AP-84-1000085": {
+    "udyamRegistrationNumber": "UDYAM-AP-84-1000085",
+    "enterpriseName": "IRON FOUNDRY",
+    "organizationType": "Proprietorship",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "MICRO",
+    "dateOfRegistration": "29/03/2022",
+    "state": "ANDHRA PRADESH",
+    "district": "TIRUPATI"
+  },
+  "UDYAM-HR-85-1000086": {
+    "udyamRegistrationNumber": "UDYAM-HR-85-1000086",
+    "enterpriseName": "JUMP APPAREL",
+    "organizationType": "Partnership",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "08/04/2018",
+    "state": "HARYANA",
+    "district": "HISAR"
+  },
+  "UDYAM-PB-86-1000087": {
+    "udyamRegistrationNumber": "UDYAM-PB-86-1000087",
+    "enterpriseName": "KILN BRICKS",
+    "organizationType": "Private Limited Company",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "MEDIUM",
+    "dateOfRegistration": "16/05/2015",
+    "state": "PUNJAB",
+    "district": "HOSHIARPUR"
+  },
+  "UDYAM-KL-87-1000088": {
+    "udyamRegistrationNumber": "UDYAM-KL-87-1000088",
+    "enterpriseName": "LOOP RECORDINGS",
+    "organizationType": "Limited Liability Partnership",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "25/06/2020",
+    "state": "KERALA",
+    "district": "KANNUR"
+  },
+  "UDYAM-DL-88-1000089": {
+    "udyamRegistrationNumber": "UDYAM-DL-88-1000089",
+    "enterpriseName": "MINT FINANCE",
+    "organizationType": "Proprietorship",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "MICRO",
+    "dateOfRegistration": "03/08/2021",
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI"
+  },
+  "UDYAM-MH-89-1000090": {
+    "udyamRegistrationNumber": "UDYAM-MH-89-1000090",
+    "enterpriseName": "NEXUS ROBOTICS",
+    "organizationType": "Partnership",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "12/09/2017",
+    "state": "MAHARASHTRA",
+    "district": "NAVI MUMBAI"
+  },
+  "UDYAM-RJ-90-1000091": {
+    "udyamRegistrationNumber": "UDYAM-RJ-90-1000091",
+    "enterpriseName": "ORION TELESCOPES",
+    "organizationType": "Private Limited Company",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "MEDIUM",
+    "dateOfRegistration": "20/10/2016",
+    "state": "RAJASTHAN",
+    "district": "BHILWARA"
+  },
+  "UDYAM-KA-91-1000092": {
+    "udyamRegistrationNumber": "UDYAM-KA-91-1000092",
+    "enterpriseName": "PINE TIMBER",
+    "organizationType": "Limited Liability Partnership",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "29/11/2019",
+    "state": "KARNATAKA",
+    "district": "SHIVAMOGGA"
+  },
+  "UDYAM-GJ-92-1000093": {
+    "udyamRegistrationNumber": "UDYAM-GJ-92-1000093",
+    "enterpriseName": "QUEST ADVENTURES",
+    "organizationType": "Proprietorship",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "MICRO",
+    "dateOfRegistration": "07/01/2022",
+    "state": "GUJARAT",
+    "district": "JUNAGADH"
+  },
+  "UDYAM-TN-93-1000094": {
+    "udyamRegistrationNumber": "UDYAM-TN-93-1000094",
+    "enterpriseName": "ROOF TILES CO",
+    "organizationType": "Partnership",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "16/02/2018",
+    "state": "TAMIL NADU",
+    "district": "TIRUNELVELI"
+  },
+  "UDYAM-UP-94-1000095": {
+    "udyamRegistrationNumber": "UDYAM-UP-94-1000095",
+    "enterpriseName": "SILK WEAVERS",
+    "organizationType": "Private Limited Company",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "MEDIUM",
+    "dateOfRegistration": "24/03/2015",
+    "state": "UTTAR PRADESH",
+    "district": "VARANASI"
+  },
+  "UDYAM-MP-95-1000096": {
+    "udyamRegistrationNumber": "UDYAM-MP-95-1000096",
+    "enterpriseName": "TRACTOR PARTS INC",
+    "organizationType": "Limited Liability Partnership",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "03/05/2020",
+    "state": "MADHYA PRADESH",
+    "district": "SATNA"
+  },
+  "UDYAM-WB-96-1000097": {
+    "udyamRegistrationNumber": "UDYAM-WB-96-1000097",
+    "enterpriseName": "UNITY LOGISTICS",
+    "organizationType": "Proprietorship",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "MICRO",
+    "dateOfRegistration": "12/06/2021",
+    "state": "WEST BENGAL",
+    "district": "BARDHAMAN"
+  },
+  "UDYAM-AP-97-1000098": {
+    "udyamRegistrationNumber": "UDYAM-AP-97-1000098",
+    "enterpriseName": "VAULT SAFES",
+    "organizationType": "Partnership",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "20/07/2017",
+    "state": "ANDHRA PRADESH",
+    "district": "KAKINADA"
+  },
+  "UDYAM-HR-98-1000099": {
+    "udyamRegistrationNumber": "UDYAM-HR-98-1000099",
+    "enterpriseName": "WIRE CABLES",
+    "organizationType": "Private Limited Company",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "MEDIUM",
+    "dateOfRegistration": "28/08/2016",
+    "state": "HARYANA",
+    "district": "YAMUNANAGAR"
+  },
+  "UDYAM-PB-99-1000100": {
+    "udyamRegistrationNumber": "UDYAM-PB-99-1000100",
+    "enterpriseName": "XRAY IMAGING",
+    "organizationType": "Limited Liability Partnership",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "06/10/2019",
+    "state": "PUNJAB",
+    "district": "PATHANKOT"
+  },
+  "UDYAM-KL-10-1000101": {
+    "udyamRegistrationNumber": "UDYAM-KL-10-1000101",
+    "enterpriseName": "YACHT BUILDERS",
+    "organizationType": "Proprietorship",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "MICRO",
+    "dateOfRegistration": "15/11/2022",
+    "state": "KERALA",
+    "district": "KOTTAYAM"
+  },
+  "UDYAM-DL-11-1000102": {
+    "udyamRegistrationNumber": "UDYAM-DL-11-1000102",
+    "enterpriseName": "ZINC REFINERIES",
+    "organizationType": "Partnership",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "24/12/2018",
+    "state": "DELHI",
+    "district": "SOUTH WEST DELHI"
+  },
+  "UDYAM-MH-12-1000103": {
+    "udyamRegistrationNumber": "UDYAM-MH-12-1000103",
+    "enterpriseName": "ARROW LOGISTICS",
+    "organizationType": "Private Limited Company",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "MEDIUM",
+    "dateOfRegistration": "02/02/2015",
+    "state": "MAHARASHTRA",
+    "district": "PUNE"
+  },
+  "UDYAM-RJ-13-1000104": {
+    "udyamRegistrationNumber": "UDYAM-RJ-13-1000104",
+    "enterpriseName": "BEACON PUBLISHING",
+    "organizationType": "Limited Liability Partnership",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "13/03/2020",
+    "state": "RAJASTHAN",
+    "district": "JAIPUR"
+  },
+  "UDYAM-KA-14-1000105": {
+    "udyamRegistrationNumber": "UDYAM-KA-14-1000105",
+    "enterpriseName": "CROWN JEWELS",
+    "organizationType": "Proprietorship",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "MICRO",
+    "dateOfRegistration": "21/04/2021",
+    "state": "KARNATAKA",
+    "district": "BENGALURU"
+  },
+  "UDYAM-GJ-15-1000106": {
+    "udyamRegistrationNumber": "UDYAM-GJ-15-1000106",
+    "enterpriseName": "DAWN CHEMICALS",
+    "organizationType": "Partnership",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "30/05/2017",
+    "state": "GUJARAT",
+    "district": "SURAT"
+  },
+  "UDYAM-TN-16-1000107": {
+    "udyamRegistrationNumber": "UDYAM-TN-16-1000107",
+    "enterpriseName": "ELITE FURNISHINGS",
+    "organizationType": "Private Limited Company",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "MEDIUM",
+    "dateOfRegistration": "08/07/2016",
+    "state": "TAMIL NADU",
+    "district": "CHENNAI"
+  },
+  "UDYAM-UP-17-1000108": {
+    "udyamRegistrationNumber": "UDYAM-UP-17-1000108",
+    "enterpriseName": "FALCON DRONES",
+    "organizationType": "Limited Liability Partnership",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "17/08/2019",
+    "state": "UTTAR PRADESH",
+    "district": "KANPUR"
+  },
+  "UDYAM-MP-18-1000109": {
+    "udyamRegistrationNumber": "UDYAM-MP-18-1000109",
+    "enterpriseName": "GEMINI SOFTWARE",
+    "organizationType": "Proprietorship",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "MICRO",
+    "dateOfRegistration": "26/09/2022",
+    "state": "MADHYA PRADESH",
+    "district": "INDORE"
+  },
+  "UDYAM-WB-19-1000110": {
+    "udyamRegistrationNumber": "UDYAM-WB-19-1000110",
+    "enterpriseName": "HERITAGE ARTS",
+    "organizationType": "Partnership",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "03/11/2018",
+    "state": "WEST BENGAL",
+    "district": "KOLKATA"
+  },
+  "UDYAM-AP-20-1000111": {
+    "udyamRegistrationNumber": "UDYAM-AP-20-1000111",
+    "enterpriseName": "INFINITY NETWORKS",
+    "organizationType": "Private Limited Company",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "MEDIUM",
+    "dateOfRegistration": "12/12/2015",
+    "state": "ANDHRA PRADESH",
+    "district": "VISAKHAPATNAM"
+  },
+  "UDYAM-HR-21-1000112": {
+    "udyamRegistrationNumber": "UDYAM-HR-21-1000112",
+    "enterpriseName": "JAZZ MUSIC ACADEMY",
+    "organizationType": "Limited Liability Partnership",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "21/01/2020",
+    "state": "HARYANA",
+    "district": "GURUGRAM"
+  },
+  "UDYAM-PB-22-1000113": {
+    "udyamRegistrationNumber": "UDYAM-PB-22-1000113",
+    "enterpriseName": "KNIGHT SECURITY",
+    "organizationType": "Proprietorship",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "MICRO",
+    "dateOfRegistration": "01/03/2021",
+    "state": "PUNJAB",
+    "district": "LUDHIANA"
+  },
+  "UDYAM-KL-23-1000114": {
+    "udyamRegistrationNumber": "UDYAM-KL-23-1000114",
+    "enterpriseName": "LIONHEART FITNESS",
+    "organizationType": "Partnership",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "09/04/2017",
+    "state": "KERALA",
+    "district": "THIRUVANANTHAPURAM"
+  },
+  "UDYAM-DL-24-1000115": {
+    "udyamRegistrationNumber": "UDYAM-DL-24-1000115",
+    "enterpriseName": "MYSTIC TOURS",
+    "organizationType": "Private Limited Company",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "MEDIUM",
+    "dateOfRegistration": "18/05/2016",
+    "state": "DELHI",
+    "district": "NEW DELHI"
+  },
+  "UDYAM-MH-25-1000116": {
+    "udyamRegistrationNumber": "UDYAM-MH-25-1000116",
+    "enterpriseName": "NANO CHIPS",
+    "organizationType": "Limited Liability Partnership",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "26/06/2019",
+    "state": "MAHARASHTRA",
+    "district": "MUMBAI"
+  },
+  "UDYAM-RJ-26-1000117": {
+    "udyamRegistrationNumber": "UDYAM-RJ-26-1000117",
+    "enterpriseName": "OAK FURNITURE",
+    "organizationType": "Proprietorship",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "MICRO",
+    "dateOfRegistration": "05/08/2022",
+    "state": "RAJASTHAN",
+    "district": "JODHPUR"
+  },
+  "UDYAM-KA-27-1000118": {
+    "udyamRegistrationNumber": "UDYAM-KA-27-1000118",
+    "enterpriseName": "PIONEER BUILDERS",
+    "organizationType": "Partnership",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "14/09/2018",
+    "state": "KARNATAKA",
+    "district": "MYSURU"
+  },
+  "UDYAM-GJ-28-1000119": {
+    "udyamRegistrationNumber": "UDYAM-GJ-28-1000119",
+    "enterpriseName": "QUANTUM LOGISTICS",
+    "organizationType": "Private Limited Company",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "MEDIUM",
+    "dateOfRegistration": "23/10/2015",
+    "state": "GUJARAT",
+    "district": "AHMEDABAD"
+  },
+  "UDYAM-TN-29-1000120": {
+    "udyamRegistrationNumber": "UDYAM-TN-29-1000120",
+    "enterpriseName": "RUBY GEMS",
+    "organizationType": "Limited Liability Partnership",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "01/12/2020",
+    "state": "TAMIL NADU",
+    "district": "COIMBATORE"
+  },
+  "UDYAM-UP-30-1000121": {
+    "udyamRegistrationNumber": "UDYAM-UP-30-1000121",
+    "enterpriseName": "SOLARIS ENERGY",
+    "organizationType": "Proprietorship",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "MICRO",
+    "dateOfRegistration": "10/01/2021",
+    "state": "UTTAR PRADESH",
+    "district": "NOIDA"
+  },
+  "UDYAM-MP-31-1000122": {
+    "udyamRegistrationNumber": "UDYAM-MP-31-1000122",
+    "enterpriseName": "TRIUMPH MOTORS",
+    "organizationType": "Partnership",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "19/02/2017",
+    "state": "MADHYA PRADESH",
+    "district": "BHOPAL"
+  },
+  "UDYAM-WB-32-1000123": {
+    "udyamRegistrationNumber": "UDYAM-WB-32-1000123",
+    "enterpriseName": "UMBRA DESIGNS",
+    "organizationType": "Private Limited Company",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "MEDIUM",
+    "dateOfRegistration": "28/03/2016",
+    "state": "WEST BENGAL",
+    "district": "HOWRAH"
+  },
+  "UDYAM-AP-33-1000124": {
+    "udyamRegistrationNumber": "UDYAM-AP-33-1000124",
+    "enterpriseName": "VELOCITY COURIERS",
+    "organizationType": "Limited Liability Partnership",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "07/05/2019",
+    "state": "ANDHRA PRADESH",
+    "district": "VIJAYAWADA"
+  },
+  "UDYAM-HR-34-1000125": {
+    "udyamRegistrationNumber": "UDYAM-HR-34-1000125",
+    "enterpriseName": "WILLOW CRAFTS",
+    "organizationType": "Proprietorship",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "MICRO",
+    "dateOfRegistration": "16/06/2022",
+    "state": "HARYANA",
+    "district": "FARIDABAD"
+  },
+  "UDYAM-PB-35-1000126": {
+    "udyamRegistrationNumber": "UDYAM-PB-35-1000126",
+    "enterpriseName": "XYLO WOODWORKS",
+    "organizationType": "Partnership",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "24/07/2018",
+    "state": "PUNJAB",
+    "district": "JALANDHAR"
+  },
+  "UDYAM-KL-36-1000127": {
+    "udyamRegistrationNumber": "UDYAM-KL-36-1000127",
+    "enterpriseName": "YEN TRADERS",
+    "organizationType": "Private Limited Company",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "MEDIUM",
+    "dateOfRegistration": "02/09/2015",
+    "state": "KERALA",
+    "district": "KOCHI"
+  },
+  "UDYAM-DL-37-1000128": {
+    "udyamRegistrationNumber": "UDYAM-DL-37-1000128",
+    "enterpriseName": "ZENITH SOFTWARE",
+    "organizationType": "Limited Liability Partnership",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "11/10/2020",
+    "state": "DELHI",
+    "district": "CENTRAL DELHI"
+  },
+  "UDYAM-MH-38-1000129": {
+    "udyamRegistrationNumber": "UDYAM-MH-38-1000129",
+    "enterpriseName": "ABSOLUTE FITNESS",
+    "organizationType": "Proprietorship",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "MICRO",
+    "dateOfRegistration": "20/11/2021",
+    "state": "MAHARASHTRA",
+    "district": "NAGPUR"
+  },
+  "UDYAM-RJ-39-1000130": {
+    "udyamRegistrationNumber": "UDYAM-RJ-39-1000130",
+    "enterpriseName": "BANYAN TREE HOSPITALITY",
+    "organizationType": "Partnership",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "29/12/2017",
+    "state": "RAJASTHAN",
+    "district": "UDAIPUR"
+  },
+  "UDYAM-KA-40-1000131": {
+    "udyamRegistrationNumber": "UDYAM-KA-40-1000131",
+    "enterpriseName": "COSMIC TECHNOLOGIES",
+    "organizationType": "Private Limited Company",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "MEDIUM",
+    "dateOfRegistration": "07/02/2016",
+    "state": "KARNATAKA",
+    "district": "MANGALURU"
+  },
+  "UDYAM-GJ-41-1000132": {
+    "udyamRegistrationNumber": "UDYAM-GJ-41-1000132",
+    "enterpriseName": "DYNAMIC ENGINEERING",
+    "organizationType": "Limited Liability Partnership",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "17/03/2019",
+    "state": "GUJARAT",
+    "district": "RAJKOT"
+  },
+  "UDYAM-TN-42-1000133": {
+    "udyamRegistrationNumber": "UDYAM-TN-42-1000133",
+    "enterpriseName": "ELEMENTAL DESIGNS",
+    "organizationType": "Proprietorship",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "MICRO",
+    "dateOfRegistration": "26/04/2022",
+    "state": "TAMIL NADU",
+    "district": "MADURAI"
+  },
+  "UDYAM-UP-43-1000134": {
+    "udyamRegistrationNumber": "UDYAM-UP-43-1000134",
+    "enterpriseName": "FUSION PLASTICS",
+    "organizationType": "Partnership",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "04/06/2018",
+    "state": "UTTAR PRADESH",
+    "district": "AGRA"
+  },
+  "UDYAM-MP-44-1000135": {
+    "udyamRegistrationNumber": "UDYAM-MP-44-1000135",
+    "enterpriseName": "GENESIS HEALTHCARE",
+    "organizationType": "Private Limited Company",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "MEDIUM",
+    "dateOfRegistration": "13/07/2015",
+    "state": "MADHYA PRADESH",
+    "district": "GWALIOR"
+  },
+  "UDYAM-WB-45-1000136": {
+    "udyamRegistrationNumber": "UDYAM-WB-45-1000136",
+    "enterpriseName": "HORIZON EXPORTS",
+    "organizationType": "Limited Liability Partnership",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "21/08/2020",
+    "state": "WEST BENGAL",
+    "district": "SILIGURI"
+  },
+  "UDYAM-AP-46-1000137": {
+    "udyamRegistrationNumber": "UDYAM-AP-46-1000137",
+    "enterpriseName": "ILLUSION MEDIA",
+    "organizationType": "Proprietorship",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "MICRO",
+    "dateOfRegistration": "30/09/2021",
+    "state": "ANDHRA PRADESH",
+    "district": "GUNTUR"
+  },
+  "UDYAM-HR-47-1000138": {
+    "udyamRegistrationNumber": "UDYAM-HR-47-1000138",
+    "enterpriseName": "JUPITER STEEL",
+    "organizationType": "Partnership",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "08/11/2017",
+    "state": "HARYANA",
+    "district": "ROHTAK"
+  },
+  "UDYAM-PB-48-1000139": {
+    "udyamRegistrationNumber": "UDYAM-PB-48-1000139",
+    "enterpriseName": "KRYPTON CHEMICALS",
+    "organizationType": "Private Limited Company",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "MEDIUM",
+    "dateOfRegistration": "17/12/2016",
+    "state": "PUNJAB",
+    "district": "AMRITSAR"
+  },
+  "UDYAM-KL-49-1000140": {
+    "udyamRegistrationNumber": "UDYAM-KL-49-1000140",
+    "enterpriseName": "LUNAR LOGISTICS",
+    "organizationType": "Limited Liability Partnership",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "25/01/2019",
+    "state": "KERALA",
+    "district": "KOZHIKODE"
+  },
+  "UDYAM-DL-50-1000141": {
+    "udyamRegistrationNumber": "UDYAM-DL-50-1000141",
+    "enterpriseName": "MATRIX SOLUTIONS",
+    "organizationType": "Proprietorship",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "MICRO",
+    "dateOfRegistration": "05/03/2022",
+    "state": "DELHI",
+    "district": "WEST DELHI"
+  },
+  "UDYAM-MH-51-1000142": {
+    "udyamRegistrationNumber": "UDYAM-MH-51-1000142",
+    "enterpriseName": "NOVA ENTERPRISES",
+    "organizationType": "Partnership",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "14/04/2018",
+    "state": "MAHARASHTRA",
+    "district": "NASHIK"
+  },
+  "UDYAM-RJ-52-1000143": {
+    "udyamRegistrationNumber": "UDYAM-RJ-52-1000143",
+    "enterpriseName": "ORACLE FINANCIALS",
+    "organizationType": "Private Limited Company",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "MEDIUM",
+    "dateOfRegistration": "23/05/2015",
+    "state": "RAJASTHAN",
+    "district": "KOTA"
+  },
+  "UDYAM-KA-53-1000144": {
+    "udyamRegistrationNumber": "UDYAM-KA-53-1000144",
+    "enterpriseName": "PULSAR ELECTRONICS",
+    "organizationType": "Limited Liability Partnership",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "01/07/2020",
+    "state": "KARNATAKA",
+    "district": "HUBLI"
+  },
+  "UDYAM-GJ-54-1000145": {
+    "udyamRegistrationNumber": "UDYAM-GJ-54-1000145",
+    "enterpriseName": "QASAR CONSULTING",
+    "organizationType": "Proprietorship",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "MICRO",
+    "dateOfRegistration": "10/08/2021",
+    "state": "GUJARAT",
+    "district": "VADODARA"
+  },
+  "UDYAM-TN-55-1000146": {
+    "udyamRegistrationNumber": "UDYAM-TN-55-1000146",
+    "enterpriseName": "RADIUS NETWORKS",
+    "organizationType": "Partnership",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "18/09/2017",
+    "state": "TAMIL NADU",
+    "district": "TIRUCHIRAPPALLI"
+  },
+  "UDYAM-UP-56-1000147": {
+    "udyamRegistrationNumber": "UDYAM-UP-56-1000147",
+    "enterpriseName": "SPECTRA PAINTS",
+    "organizationType": "Private Limited Company",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "MEDIUM",
+    "dateOfRegistration": "27/10/2016",
+    "state": "UTTAR PRADESH",
+    "district": "LUCKNOW"
+  },
+  "UDYAM-MP-57-1000148": {
+    "udyamRegistrationNumber": "UDYAM-MP-57-1000148",
+    "enterpriseName": "TITANIUM METALS",
+    "organizationType": "Limited Liability Partnership",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "06/12/2019",
+    "state": "MADHYA PRADESH",
+    "district": "JABALPUR"
+  },
+  "UDYAM-WB-58-1000149": {
+    "udyamRegistrationNumber": "UDYAM-WB-58-1000149",
+    "enterpriseName": "URBAN ARCHITECTS",
+    "organizationType": "Proprietorship",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "MICRO",
+    "dateOfRegistration": "15/01/2022",
+    "state": "WEST BENGAL",
+    "district": "ASANSOL"
+  },
+  "UDYAM-AP-59-1000150": {
+    "udyamRegistrationNumber": "UDYAM-AP-59-1000150",
+    "enterpriseName": "VERTEX HARDWARE",
+    "organizationType": "Partnership",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "24/02/2018",
+    "state": "ANDHRA PRADESH",
+    "district": "KURNOOL"
+  },
+  "UDYAM-HR-60-1000151": {
+    "udyamRegistrationNumber": "UDYAM-HR-60-1000151",
+    "enterpriseName": "WINDMILL ENERGIES",
+    "organizationType": "Private Limited Company",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "MEDIUM",
+    "dateOfRegistration": "05/04/2015",
+    "state": "HARYANA",
+    "district": "PANIPAT"
+  },
+  "UDYAM-PB-61-1000152": {
+    "udyamRegistrationNumber": "UDYAM-PB-61-1000152",
+    "enterpriseName": "XYLON FURNITURE",
+    "organizationType": "Limited Liability Partnership",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "14/05/2020",
+    "state": "PUNJAB",
+    "district": "PATIALA"
+  },
+  "UDYAM-KL-62-1000153": {
+    "udyamRegistrationNumber": "UDYAM-KL-62-1000153",
+    "enterpriseName": "YELLOW CAB CO",
+    "organizationType": "Proprietorship",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "MICRO",
+    "dateOfRegistration": "23/06/2021",
+    "state": "KERALA",
+    "district": "KOLLAM"
+  },
+  "UDYAM-DL-63-1000154": {
+    "udyamRegistrationNumber": "UDYAM-DL-63-1000154",
+    "enterpriseName": "ZETA PHARMACEUTICALS",
+    "organizationType": "Partnership",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "01/08/2017",
+    "state": "DELHI",
+    "district": "EAST DELHI"
+  },
+  "UDYAM-MH-64-1000155": {
+    "udyamRegistrationNumber": "UDYAM-MH-64-1000155",
+    "enterpriseName": "AERO DYNAMICS",
+    "organizationType": "Private Limited Company",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "MEDIUM",
+    "dateOfRegistration": "10/09/2016",
+    "state": "MAHARASHTRA",
+    "district": "AURANGABAD"
+  },
+  "UDYAM-RJ-65-1000156": {
+    "udyamRegistrationNumber": "UDYAM-RJ-65-1000156",
+    "enterpriseName": "BLISS SPAS",
+    "organizationType": "Limited Liability Partnership",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "19/10/2019",
+    "state": "RAJASTHAN",
+    "district": "ALWAR"
+  },
+  "UDYAM-KA-66-1000157": {
+    "udyamRegistrationNumber": "UDYAM-KA-66-1000157",
+    "enterpriseName": "COBALT MINING",
+    "organizationType": "Proprietorship",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "MICRO",
+    "dateOfRegistration": "28/11/2022",
+    "state": "KARNATAKA",
+    "district": "BELAGAVI"
+  },
+  "UDYAM-GJ-67-1000158": {
+    "udyamRegistrationNumber": "UDYAM-GJ-67-1000158",
+    "enterpriseName": "DEX LOGISTICS",
+    "organizationType": "Partnership",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "06/01/2018",
+    "state": "GUJARAT",
+    "district": "BHAVNAGAR"
+  },
+  "UDYAM-TN-68-1000159": {
+    "udyamRegistrationNumber": "UDYAM-TN-68-1000159",
+    "enterpriseName": "EAGLE EYE SECURITY",
+    "organizationType": "Private Limited Company",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "MEDIUM",
+    "dateOfRegistration": "15/02/2015",
+    "state": "TAMIL NADU",
+    "district": "SALEM"
+  },
+  "UDYAM-UP-69-1000160": {
+    "udyamRegistrationNumber": "UDYAM-UP-69-1000160",
+    "enterpriseName": "FROST REFRIGERATION",
+    "organizationType": "Limited Liability Partnership",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "24/03/2020",
+    "state": "UTTAR PRADESH",
+    "district": "GHAZIABAD"
+  },
+  "UDYAM-MP-70-1000161": {
+    "udyamRegistrationNumber": "UDYAM-MP-70-1000161",
+    "enterpriseName": "GALAXY TOURS",
+    "organizationType": "Proprietorship",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "MICRO",
+    "dateOfRegistration": "03/05/2021",
+    "state": "MADHYA PRADESH",
+    "district": "UJJAIN"
+  },
+  "UDYAM-WB-71-1000162": {
+    "udyamRegistrationNumber": "UDYAM-WB-71-1000162",
+    "enterpriseName": "HARMONY MUSIC",
+    "organizationType": "Partnership",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "12/06/2017",
+    "state": "WEST BENGAL",
+    "district": "DURGAPUR"
+  },
+  "UDYAM-AP-72-1000163": {
+    "udyamRegistrationNumber": "UDYAM-AP-72-1000163",
+    "enterpriseName": "INDIGO TEXTILES",
+    "organizationType": "Private Limited Company",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "MEDIUM",
+    "dateOfRegistration": "21/07/2016",
+    "state": "ANDHRA PRADESH",
+    "district": "NELLORE"
+  },
+  "UDYAM-HR-73-1000164": {
+    "udyamRegistrationNumber": "UDYAM-HR-73-1000164",
+    "enterpriseName": "JADE LOGISTICS",
+    "organizationType": "Limited Liability Partnership",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "30/08/2019",
+    "state": "HARYANA",
+    "district": "KARNAL"
+  },
+  "UDYAM-PB-74-1000165": {
+    "udyamRegistrationNumber": "UDYAM-PB-74-1000165",
+    "enterpriseName": "KINETIC ENERGY",
+    "organizationType": "Proprietorship",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "MICRO",
+    "dateOfRegistration": "08/10/2022",
+    "state": "PUNJAB",
+    "district": "BATHINDA"
+  },
+  "UDYAM-KL-75-1000166": {
+    "udyamRegistrationNumber": "UDYAM-KL-75-1000166",
+    "enterpriseName": "LUMINOUS LIGHTING",
+    "organizationType": "Partnership",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "17/11/2018",
+    "state": "KERALA",
+    "district": "THRISSUR"
+  },
+  "UDYAM-DL-76-1000167": {
+    "udyamRegistrationNumber": "UDYAM-DL-76-1000167",
+    "enterpriseName": "MAGMA METALS",
+    "organizationType": "Private Limited Company",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "MEDIUM",
+    "dateOfRegistration": "26/12/2015",
+    "state": "DELHI",
+    "district": "SOUTH DELHI"
+  },
+  "UDYAM-MH-77-1000168": {
+    "udyamRegistrationNumber": "UDYAM-MH-77-1000168",
+    "enterpriseName": "NECTAR FOODS",
+    "organizationType": "Limited Liability Partnership",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "04/02/2020",
+    "state": "MAHARASHTRA",
+    "district": "THANE"
+  },
+  "UDYAM-RJ-78-1000169": {
+    "udyamRegistrationNumber": "UDYAM-RJ-78-1000169",
+    "enterpriseName": "OBSIDIAN GLASS",
+    "organizationType": "Proprietorship",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "MICRO",
+    "dateOfRegistration": "15/03/2021",
+    "state": "RAJASTHAN",
+    "district": "AJMER"
+  },
+  "UDYAM-KA-79-1000170": {
+    "udyamRegistrationNumber": "UDYAM-KA-79-1000170",
+    "enterpriseName": "PEGASUS TRAVELS",
+    "organizationType": "Partnership",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "24/04/2017",
+    "state": "KARNATAKA",
+    "district": "TUMAKURU"
+  },
+  "UDYAM-GJ-80-1000171": {
+    "udyamRegistrationNumber": "UDYAM-GJ-80-1000171",
+    "enterpriseName": "QUARTZ WATCHES",
+    "organizationType": "Private Limited Company",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "MEDIUM",
+    "dateOfRegistration": "03/06/2016",
+    "state": "GUJARAT",
+    "district": "JAMNAGAR"
+  },
+  "UDYAM-TN-81-1000172": {
+    "udyamRegistrationNumber": "UDYAM-TN-81-1000172",
+    "enterpriseName": "RADAR SYSTEMS",
+    "organizationType": "Limited Liability Partnership",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "12/07/2019",
+    "state": "TAMIL NADU",
+    "district": "ERODE"
+  },
+  "UDYAM-UP-82-1000173": {
+    "udyamRegistrationNumber": "UDYAM-UP-82-1000173",
+    "enterpriseName": "SYNAPSE BIOTECH",
+    "organizationType": "Proprietorship",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "MICRO",
+    "dateOfRegistration": "21/08/2022",
+    "state": "UTTAR PRADESH",
+    "district": "MEERUT"
+  },
+  "UDYAM-MP-83-1000174": {
+    "udyamRegistrationNumber": "UDYAM-MP-83-1000174",
+    "enterpriseName": "TORNADO FANS",
+    "organizationType": "Partnership",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "30/09/2018",
+    "state": "MADHYA PRADESH",
+    "district": "REWA"
+  },
+  "UDYAM-WB-84-1000175": {
+    "udyamRegistrationNumber": "UDYAM-WB-84-1000175",
+    "enterpriseName": "ULTIMATE LOGISTICS",
+    "organizationType": "Private Limited Company",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "MEDIUM",
+    "dateOfRegistration": "08/11/2015",
+    "state": "WEST BENGAL",
+    "district": "KHARAGPUR"
+  },
+  "UDYAM-AP-85-1000176": {
+    "udyamRegistrationNumber": "UDYAM-AP-85-1000176",
+    "enterpriseName": "VORTEX PUMPS",
+    "organizationType": "Limited Liability Partnership",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "17/12/2020",
+    "state": "ANDHRA PRADESH",
+    "district": "RAJAHMUNDRY"
+  },
+  "UDYAM-HR-86-1000177": {
+    "udyamRegistrationNumber": "UDYAM-HR-86-1000177",
+    "enterpriseName": "WOLF PACKAGING",
+    "organizationType": "Proprietorship",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "MICRO",
+    "dateOfRegistration": "26/01/2021",
+    "state": "HARYANA",
+    "district": "AMBALA"
+  },
+  "UDYAM-PB-87-1000178": {
+    "udyamRegistrationNumber": "UDYAM-PB-87-1000178",
+    "enterpriseName": "XENITH HOSPITALITY",
+    "organizationType": "Partnership",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "07/03/2017",
+    "state": "PUNJAB",
+    "district": "MOHALI"
+  },
+  "UDYAM-KL-88-1000179": {
+    "udyamRegistrationNumber": "UDYAM-KL-88-1000179",
+    "enterpriseName": "YACHT CLUB",
+    "organizationType": "Private Limited Company",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "MEDIUM",
+    "dateOfRegistration": "16/04/2016",
+    "state": "KERALA",
+    "district": "ALAPPUZHA"
+  },
+  "UDYAM-DL-89-1000180": {
+    "udyamRegistrationNumber": "UDYAM-DL-89-1000180",
+    "enterpriseName": "ZENITH EDUCATION",
+    "organizationType": "Limited Liability Partnership",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "25/05/2019",
+    "state": "DELHI",
+    "district": "SHAHDARA"
+  },
+  "UDYAM-MH-90-1000181": {
+    "udyamRegistrationNumber": "UDYAM-MH-90-1000181",
+    "enterpriseName": "AEON TEXTILES",
+    "organizationType": "Proprietorship",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "MICRO",
+    "dateOfRegistration": "03/07/2022",
+    "state": "MAHARASHTRA",
+    "district": "KALYAN"
+  },
+  "UDYAM-RJ-91-1000182": {
+    "udyamRegistrationNumber": "UDYAM-RJ-91-1000182",
+    "enterpriseName": "BARIUM SOFTWARE",
+    "organizationType": "Partnership",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "12/08/2018",
+    "state": "RAJASTHAN",
+    "district": "BIKANER"
+  },
+  "UDYAM-KA-92-1000183": {
+    "udyamRegistrationNumber": "UDYAM-KA-92-1000183",
+    "enterpriseName": "CHRONO LOGISTICS",
+    "organizationType": "Private Limited Company",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "MEDIUM",
+    "dateOfRegistration": "21/09/2015",
+    "state": "KARNATAKA",
+    "district": "BELLARY"
+  },
+  "UDYAM-GJ-93-1000184": {
+    "udyamRegistrationNumber": "UDYAM-GJ-93-1000184",
+    "enterpriseName": "DUNE AUTOMOTIVE",
+    "organizationType": "Limited Liability Partnership",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "30/10/2020",
+    "state": "GUJARAT",
+    "district": "GANDHINAGAR"
+  },
+  "UDYAM-TN-94-1000185": {
+    "udyamRegistrationNumber": "UDYAM-TN-94-1000185",
+    "enterpriseName": "ENIGMA ENTERPRISES",
+    "organizationType": "Proprietorship",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "MICRO",
+    "dateOfRegistration": "08/12/2021",
+    "state": "TAMIL NADU",
+    "district": "TIRUPPUR"
+  },
+  "UDYAM-UP-95-1000186": {
+    "udyamRegistrationNumber": "UDYAM-UP-95-1000186",
+    "enterpriseName": "FORGE SOLUTIONS",
+    "organizationType": "Partnership",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "17/01/2018",
+    "state": "UTTAR PRADESH",
+    "district": "ALIGARH"
+  },
+  "UDYAM-MP-96-1000187": {
+    "udyamRegistrationNumber": "UDYAM-MP-96-1000187",
+    "enterpriseName": "GRAVITY MINING",
+    "organizationType": "Private Limited Company",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "MEDIUM",
+    "dateOfRegistration": "26/02/2016",
+    "state": "MADHYA PRADESH",
+    "district": "SAGAR"
+  },
+  "UDYAM-WB-97-1000188": {
+    "udyamRegistrationNumber": "UDYAM-WB-97-1000188",
+    "enterpriseName": "HAVEN MEDIA",
+    "organizationType": "Limited Liability Partnership",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "07/04/2019",
+    "state": "WEST BENGAL",
+    "district": "MALDA"
+  },
+  "UDYAM-AP-98-1000189": {
+    "udyamRegistrationNumber": "UDYAM-AP-98-1000189",
+    "enterpriseName": "IGNITE TRADING",
+    "organizationType": "Proprietorship",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "MICRO",
+    "dateOfRegistration": "16/05/2022",
+    "state": "ANDHRA PRADESH",
+    "district": "TIRUPATI"
+  },
+  "UDYAM-HR-99-1000190": {
+    "udyamRegistrationNumber": "UDYAM-HR-99-1000190",
+    "enterpriseName": "JOULE CONSULTING",
+    "organizationType": "Partnership",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "25/06/2018",
+    "state": "HARYANA",
+    "district": "HISAR"
+  },
+  "UDYAM-PB-10-1000191": {
+    "udyamRegistrationNumber": "UDYAM-PB-10-1000191",
+    "enterpriseName": "KINETIC TECHNOLOGIES",
+    "organizationType": "Private Limited Company",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "MEDIUM",
+    "dateOfRegistration": "03/08/2015",
+    "state": "PUNJAB",
+    "district": "HOSHIARPUR"
+  },
+  "UDYAM-KL-11-1000192": {
+    "udyamRegistrationNumber": "UDYAM-KL-11-1000192",
+    "enterpriseName": "LYNX PRODUCTIONS",
+    "organizationType": "Limited Liability Partnership",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "12/09/2020",
+    "state": "KERALA",
+    "district": "KANNUR"
+  },
+  "UDYAM-DL-12-1000193": {
+    "udyamRegistrationNumber": "UDYAM-DL-12-1000193",
+    "enterpriseName": "MIRAGE EVENTS",
+    "organizationType": "Proprietorship",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "MICRO",
+    "dateOfRegistration": "21/10/2021",
+    "state": "DELHI",
+    "district": "NORTH WEST DELHI"
+  },
+  "UDYAM-MH-13-1000194": {
+    "udyamRegistrationNumber": "UDYAM-MH-13-1000194",
+    "enterpriseName": "NEBULA COURIERS",
+    "organizationType": "Partnership",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "30/11/2017",
+    "state": "MAHARASHTRA",
+    "district": "NAVI MUMBAI"
+  },
+  "UDYAM-RJ-14-1000195": {
+    "udyamRegistrationNumber": "UDYAM-RJ-14-1000195",
+    "enterpriseName": "OPAL HEALTHCARE",
+    "organizationType": "Private Limited Company",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "MEDIUM",
+    "dateOfRegistration": "08/01/2016",
+    "state": "RAJASTHAN",
+    "district": "BHILWARA"
+  },
+  "UDYAM-KA-15-1000196": {
+    "udyamRegistrationNumber": "UDYAM-KA-15-1000196",
+    "enterpriseName": "PRISM PACKAGING",
+    "organizationType": "Limited Liability Partnership",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "17/02/2019",
+    "state": "KARNATAKA",
+    "district": "SHIVAMOGGA"
+  },
+  "UDYAM-GJ-16-1000197": {
+    "udyamRegistrationNumber": "UDYAM-GJ-16-1000197",
+    "enterpriseName": "QUANTUM FITNESS",
+    "organizationType": "Proprietorship",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "MICRO",
+    "dateOfRegistration": "28/03/2022",
+    "state": "GUJARAT",
+    "district": "JUNAGADH"
+  },
+  "UDYAM-TN-17-1000198": {
+    "udyamRegistrationNumber": "UDYAM-TN-17-1000198",
+    "enterpriseName": "RADIAN TOURS",
+    "organizationType": "Partnership",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "06/05/2018",
+    "state": "TAMIL NADU",
+    "district": "TIRUNELVELI"
+  },
+  "UDYAM-UP-18-1000199": {
+    "udyamRegistrationNumber": "UDYAM-UP-18-1000199",
+    "enterpriseName": "STELLAR SPORTS",
+    "organizationType": "Private Limited Company",
+    "majorActivity": "MANUFACTURING",
+    "enterpriseType": "MEDIUM",
+    "dateOfRegistration": "15/06/2015",
+    "state": "UTTAR PRADESH",
+    "district": "VARANASI"
+  },
+  "UDYAM-MP-19-1000200": {
+    "udyamRegistrationNumber": "UDYAM-MP-19-1000200",
+    "enterpriseName": "TITAN TRADING",
+    "organizationType": "Limited Liability Partnership",
+    "majorActivity": "SERVICES",
+    "enterpriseType": "SMALL",
+    "dateOfRegistration": "24/07/2020",
+    "state": "MADHYA PRADESH",
+    "district": "SATNA"
   }
 }

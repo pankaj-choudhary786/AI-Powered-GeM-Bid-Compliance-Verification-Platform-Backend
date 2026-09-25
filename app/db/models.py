@@ -37,7 +37,8 @@ class ApplicationStatus(str, enum.Enum):
     DRAFT = "DRAFT"
     SUBMITTED = "SUBMITTED"
     PROCESSING = "PROCESSING"
-    VERIFIED = "VERIFIED"
+    EVALUATED = "EVALUATED"           # Replaces "VERIFIED" (Clean pass/fail)
+    FRAUD_DETECTED = "FRAUD_DETECTED" # Explicitly marks fraudulent applications
     UNDER_REVIEW = "UNDER_REVIEW"
     DECIDED = "DECIDED"
 
@@ -71,7 +72,7 @@ class StandardDocumentType(str, enum.Enum):
     CUSTOM = "CUSTOM"
 
 # ==========================================
-# PROPERTY MIXIN (THE FIX)
+# PROPERTY MIXIN
 # ==========================================
 class MetaDataPropertyMixin:
     """Seamlessly translates between the database JSON string and Pydantic Dictionaries."""
@@ -100,7 +101,7 @@ class User(Base, MetaDataPropertyMixin):
     hashed_password = Column(String(255), nullable=False)
     role = Column(Enum(UserRole), nullable=False)
     account_status = Column(Enum(AccountStatus), default=AccountStatus.ACTIVE, nullable=False)
-    metadata_json = Column(Text, nullable=True) 
+    metadata_json = Column(Text, nullable=True)
     created_at = Column(DateTime, default=datetime.utcnow, nullable=False)
     updated_at = Column(DateTime, default=datetime.utcnow, onupdate=datetime.utcnow, nullable=False)
 
@@ -108,7 +109,6 @@ class User(Base, MetaDataPropertyMixin):
     tender_creator_profile = relationship("TenderCreatorProfile", back_populates="user", uselist=False, cascade="all, delete-orphan")
     officer_profile = relationship("ProcurementOfficerProfile", back_populates="user", uselist=False, cascade="all, delete-orphan")
     notifications = relationship("Notification", back_populates="user", cascade="all, delete-orphan")
-
 
 class LoginAttempt(Base):
     __tablename__ = "login_attempts"
@@ -118,20 +118,19 @@ class LoginAttempt(Base):
     lockout_until = Column(DateTime, nullable=True)
     last_attempt_at = Column(DateTime, default=datetime.utcnow, nullable=False)
 
-
 class BidderProfile(Base, MetaDataPropertyMixin):
     __tablename__ = "bidder_profiles"
     id = Column(Integer, primary_key=True, index=True)
     bidder_id = Column(String(32), unique=True, index=True, nullable=False)
     display_id = Column(String(50), unique=True, index=True, nullable=True)
     user_id = Column(Integer, ForeignKey("users.id", ondelete="CASCADE"), nullable=False)
-    
+
     company_name = Column(String(255), nullable=False)
     gstin = Column(String(15), nullable=True)
     pan = Column(String(10), nullable=True)
     udyam_number = Column(String(30), nullable=True)
     registered_address = Column(Text, nullable=True)
-    
+
     aadhar_card_path = Column(String(500), nullable=True)
     gst_certificate_path = Column(String(500), nullable=True)
     pan_card_path = Column(String(500), nullable=True)
@@ -139,12 +138,11 @@ class BidderProfile(Base, MetaDataPropertyMixin):
     iso_certificate_path = Column(String(500), nullable=True)
     financial_statement_path = Column(String(500), nullable=True)
     itr_return_path = Column(String(500), nullable=True)
-    
-    metadata_json = Column(Text, nullable=True) 
+
+    metadata_json = Column(Text, nullable=True)
 
     user = relationship("User", back_populates="bidder_profile")
     submissions = relationship("BidSubmission", back_populates="bidder", cascade="all, delete-orphan")
-
 
 class TenderCreatorProfile(Base, MetaDataPropertyMixin):
     __tablename__ = "tender_creator_profiles"
@@ -154,10 +152,9 @@ class TenderCreatorProfile(Base, MetaDataPropertyMixin):
     department = Column(String(255), nullable=False)
     ministry = Column(String(255), nullable=True)
     metadata_json = Column(Text, nullable=True)
-    
+
     user = relationship("User", back_populates="tender_creator_profile")
     tenders = relationship("Tender", back_populates="creator", cascade="all, delete-orphan")
-
 
 class ProcurementOfficerProfile(Base, MetaDataPropertyMixin):
     __tablename__ = "procurement_officer_profiles"
@@ -181,18 +178,18 @@ class Tender(Base, MetaDataPropertyMixin):
     tender_id = Column(String(32), unique=True, index=True, nullable=False)
     display_id = Column(String(50), unique=True, index=True, nullable=True)
     creator_id = Column(Integer, ForeignKey("tender_creator_profiles.id", ondelete="CASCADE"), nullable=False)
-    
+
     title = Column(String(255), nullable=False)
     description = Column(Text, nullable=True)
     category = Column(String(100), nullable=True)
     location = Column(String(255), nullable=True)
     estimated_value = Column(Float, nullable=True)
-    
+
     publish_date = Column(DateTime, nullable=True)
     bid_deadline = Column(DateTime, nullable=True)
     application_capacity = Column(Integer, default=100, nullable=False)
     status = Column(Enum(TenderStatus), default=TenderStatus.DRAFT, nullable=False)
-    
+
     metadata_json = Column(Text, nullable=True)
     created_at = Column(DateTime, default=datetime.utcnow, nullable=False)
 
@@ -201,33 +198,31 @@ class Tender(Base, MetaDataPropertyMixin):
     documents = relationship("TenderDocument", back_populates="tender", cascade="all, delete-orphan")
     submissions = relationship("BidSubmission", back_populates="tender", cascade="all, delete-orphan")
 
-
 class TenderRequirement(Base, MetaDataPropertyMixin):
     __tablename__ = "tender_requirements"
     id = Column(Integer, primary_key=True, index=True)
     requirement_id = Column(String(32), unique=True, index=True, nullable=False)
     tender_id = Column(Integer, ForeignKey("tenders.id", ondelete="CASCADE"), nullable=False)
-    
+
     standard_document_type = Column(Enum(StandardDocumentType), default=StandardDocumentType.CUSTOM, nullable=False)
     requirement_name = Column(String(255), nullable=False)
     description = Column(Text, nullable=True)
     mandatory = Column(Boolean, default=True, nullable=False)
     evidence_type = Column(String(50), nullable=False)
     accepted_formats = Column(String(100), default="pdf,jpg,png")
-    
+
     validation_rule_type = Column(String(50), nullable=True)
     operator = Column(String(10), nullable=True)
     required_value = Column(String(255), nullable=True)
     unit = Column(String(50), nullable=True)
     weight = Column(Integer, default=10, nullable=False)
     display_order = Column(Integer, default=0, nullable=False)
-    
+
     metadata_json = Column(Text, nullable=True)
 
     tender = relationship("Tender", back_populates="requirements")
     documents = relationship("BidderDocument", back_populates="requirement")
     verification_results = relationship("VerificationResult", back_populates="requirement")
-
 
 class TenderDocument(Base):
     __tablename__ = "tender_documents"
@@ -253,7 +248,7 @@ class BidSubmission(Base, MetaDataPropertyMixin):
     bidder_id = Column(Integer, ForeignKey("bidder_profiles.id", ondelete="CASCADE"), nullable=False)
     tender_id = Column(Integer, ForeignKey("tenders.id", ondelete="CASCADE"), nullable=False)
     status = Column(Enum(ApplicationStatus), default=ApplicationStatus.DRAFT, nullable=False)
-    
+
     metadata_json = Column(Text, nullable=True)
     submitted_at = Column(DateTime, nullable=True)
     created_at = Column(DateTime, default=datetime.utcnow, nullable=False)
@@ -268,7 +263,6 @@ class BidSubmission(Base, MetaDataPropertyMixin):
     ai_recommendations = relationship("AIRecommendation", back_populates="submission", cascade="all, delete-orphan")
     officer_decision = relationship("OfficerDecision", back_populates="submission", uselist=False, cascade="all, delete-orphan")
 
-
 class BidderDocument(Base, MetaDataPropertyMixin):
     __tablename__ = "bidder_documents"
     id = Column(Integer, primary_key=True, index=True)
@@ -276,7 +270,7 @@ class BidderDocument(Base, MetaDataPropertyMixin):
     display_id = Column(String(50), unique=True, index=True, nullable=True)
     submission_id = Column(Integer, ForeignKey("bid_submissions.id", ondelete="CASCADE"), nullable=False)
     requirement_id = Column(Integer, ForeignKey("tender_requirements.id", ondelete="CASCADE"), nullable=False)
-    
+
     original_file_name = Column(String(255), nullable=False)
     stored_file_name = Column(String(255), nullable=False)
     storage_path = Column(String(500), nullable=False)
@@ -311,7 +305,6 @@ class ExtractedField(Base):
 
     document = relationship("BidderDocument", back_populates="extracted_fields")
 
-
 class GovernmentSourceRecord(Base):
     __tablename__ = "government_source_records"
     id = Column(Integer, primary_key=True, index=True)
@@ -328,7 +321,6 @@ class GovernmentSourceRecord(Base):
     checked_at = Column(DateTime, default=datetime.utcnow, nullable=False)
 
     submission = relationship("BidSubmission", back_populates="government_verifications")
-
 
 class VerificationResult(Base):
     __tablename__ = "verification_results"
@@ -348,7 +340,6 @@ class VerificationResult(Base):
     submission = relationship("BidSubmission", back_populates="verification_results")
     requirement = relationship("TenderRequirement", back_populates="verification_results")
 
-
 class CrossDocumentFinding(Base):
     __tablename__ = "cross_document_findings"
     id = Column(Integer, primary_key=True, index=True)
@@ -357,36 +348,14 @@ class CrossDocumentFinding(Base):
     finding_type = Column(String(100), nullable=False)
     severity = Column(String(20), nullable=False)
     status = Column(Enum(ComplianceResult), nullable=False)
-    compared_data = Column(Text, nullable=False) 
+    compared_data = Column(Text, nullable=False)
     reason = Column(Text, nullable=False)
     confidence = Column(Float, nullable=False)
 
     submission = relationship("BidSubmission", back_populates="cross_document_findings")
 
 # ==========================================
-# 5. EVIDENCE GRAPH
-# ==========================================
-
-class EvidenceNode(Base, MetaDataPropertyMixin):
-    __tablename__ = "evidence_nodes"
-    id = Column(Integer, primary_key=True, index=True)
-    node_id = Column(String(64), unique=True, index=True, nullable=False)
-    submission_id = Column(String(32), index=True, nullable=False)
-    node_type = Column(String(50), nullable=False)
-    label = Column(String(255), nullable=False)
-    metadata_json = Column(Text, nullable=True)
-
-class EvidenceEdge(Base):
-    __tablename__ = "evidence_edges"
-    id = Column(Integer, primary_key=True, index=True)
-    edge_id = Column(String(64), unique=True, index=True, nullable=False)
-    submission_id = Column(String(32), index=True, nullable=False)
-    source_node_id = Column(String(64), nullable=False)
-    target_node_id = Column(String(64), nullable=False)
-    relationship_type = Column(String(50), nullable=False)
-
-# ==========================================
-# 6. SCORE, RISK, DECISION & AUDIT
+# 5. SCORE, RISK, DECISION & AUDIT
 # ==========================================
 
 class ScoreRiskAssessment(Base):
@@ -401,7 +370,6 @@ class ScoreRiskAssessment(Base):
     calculated_at = Column(DateTime, default=datetime.utcnow, nullable=False)
     submission = relationship("BidSubmission", back_populates="score_risk")
 
-
 class AIRecommendation(Base):
     __tablename__ = "ai_recommendations"
     id = Column(Integer, primary_key=True, index=True)
@@ -412,7 +380,6 @@ class AIRecommendation(Base):
     severity = Column(String(20), nullable=False)
     created_at = Column(DateTime, default=datetime.utcnow, nullable=False)
     submission = relationship("BidSubmission", back_populates="ai_recommendations")
-
 
 class OfficerDecision(Base):
     __tablename__ = "officer_decisions"
@@ -426,7 +393,6 @@ class OfficerDecision(Base):
     submission = relationship("BidSubmission", back_populates="officer_decision")
     officer = relationship("ProcurementOfficerProfile", back_populates="decisions")
 
-
 class AuditLog(Base):
     __tablename__ = "audit_logs"
     id = Column(Integer, primary_key=True, index=True)
@@ -439,7 +405,6 @@ class AuditLog(Base):
     details_json = Column(Text, nullable=True)
     created_at = Column(DateTime, default=datetime.utcnow, nullable=False)
 
-
 class Notification(Base):
     __tablename__ = "notifications"
     id = Column(Integer, primary_key=True, index=True)
@@ -451,40 +416,20 @@ class Notification(Base):
     created_at = Column(DateTime, default=datetime.utcnow, nullable=False)
     user = relationship("User", back_populates="notifications")
 
-
-# Add this inside app/db/models.py (Replacing the old MockGovernmentRegistry)
-
 class MockGovernmentRegistry(Base):
-    """
-    Simulates the central data repository accessible via API Setu / DigiLocker.
-    Combines data from Income Tax, GSTN, MCA21, UDYAM, and DPIIT.
-    """
     __tablename__ = "mock_government_registries"
-
     id = Column(Integer, primary_key=True, index=True)
     entity_name = Column(String, nullable=False)
-    
-    # 1. Income Tax Department (ITD)
     pan = Column(String, unique=True, index=True, nullable=False)
     pan_status = Column(String, default="ACTIVE")
-    
-    # 2. GST Network (GSTN API)
     gstin = Column(String, unique=True, index=True, nullable=True)
     gst_registered_address = Column(String, nullable=True)
     gst_status = Column(String, default="ACTIVE")
-    
-    # 3. Ministry of MSME (UDYAM API)
     udyam_number = Column(String, unique=True, index=True, nullable=True)
-    msme_type = Column(String, nullable=True) # MICRO, SMALL, MEDIUM
-    
-    # 4. Ministry of Corporate Affairs (MCA21 API)
-    cin = Column(String, unique=True, index=True, nullable=True) # Corporate Identification Number
+    msme_type = Column(String, nullable=True)
+    cin = Column(String, unique=True, index=True, nullable=True) 
     date_of_incorporation = Column(String, nullable=True)
-    
-    # 5. Startup India / DPIIT API
     dipp_number = Column(String, unique=True, index=True, nullable=True)
     startup_recognition_status = Column(String, nullable=True)
-
     created_at = Column(DateTime(timezone=True), server_default=func.now())
-
     metadata_json = Column(Text, nullable=True)

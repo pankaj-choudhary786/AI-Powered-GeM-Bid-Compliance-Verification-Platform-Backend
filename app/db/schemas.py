@@ -26,7 +26,8 @@ class ApplicationStatus(str, Enum):
     DRAFT = "DRAFT"
     SUBMITTED = "SUBMITTED"
     PROCESSING = "PROCESSING"
-    VERIFIED = "VERIFIED"
+    EVALUATED = "EVALUATED"
+    FRAUD_DETECTED = "FRAUD_DETECTED"
     UNDER_REVIEW = "UNDER_REVIEW"
     DECIDED = "DECIDED"
 
@@ -97,7 +98,6 @@ class BidderProfileResponse(BaseModel):
     pan: Optional[str] = None
     udyam_number: Optional[str] = None
     registered_address: Optional[str] = None
-    
     has_aadhar_card: bool = False
     has_gst_certificate: bool = False
     has_pan_card: bool = False
@@ -105,7 +105,6 @@ class BidderProfileResponse(BaseModel):
     has_iso_certificate: bool = False
     has_financial_statement: bool = False
     has_itr_return: bool = False
-    
     meta_data: Optional[Dict[str, Any]] = None
     class Config:
         from_attributes = True
@@ -275,24 +274,8 @@ class CrossDocumentFindingResponse(BaseModel):
         from_attributes = True
 
 # ==========================================
-# 5. EVIDENCE GRAPH & RECOMMENDATIONS
+# 5. DECISION & AUDIT
 # ==========================================
-
-class EvidenceNodeSchema(BaseModel):
-    id: str
-    type: str 
-    label: str
-    data: Optional[Dict[str, Any]] = None
-
-class EvidenceEdgeSchema(BaseModel):
-    id: str
-    source: str
-    target: str
-    label: str
-
-class EvidenceGraphResponse(BaseModel):
-    nodes: List[EvidenceNodeSchema]
-    edges: List[EvidenceEdgeSchema]
 
 class AIRecommendationResponse(BaseModel):
     recommendation_id: str
@@ -326,7 +309,6 @@ class AuditLogResponse(BaseModel):
 
 class MockGovernmentRegistrySchema(BaseModel):
     model_config = ConfigDict(from_attributes=True, extra="allow")
-
     id: Optional[int] = None
     entity_name: str
     pan: str
@@ -344,7 +326,6 @@ class MockGovernmentRegistrySchema(BaseModel):
 
 class GovernmentVerificationResponse(BaseModel):
     model_config = ConfigDict(from_attributes=True, extra="allow")
-
     source_record_id: str
     source_name: str
     source_type: str
@@ -371,6 +352,5 @@ class ApplicationDashboardResponse(BaseModel):
     cross_document_findings: List[CrossDocumentFindingResponse] = []
     government_verifications: List[GovernmentVerificationResponse] = []
     ai_recommendations: List[AIRecommendationResponse] = []
-    evidence_graph: Optional[EvidenceGraphResponse] = None
     decision: Optional[OfficerDecisionResponse] = None
     audit_trail: List[AuditLogResponse] = []
