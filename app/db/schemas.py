@@ -171,6 +171,7 @@ class TenderCreateRequest(BaseModel):
     category: Optional[str] = None
     location: Optional[str] = None
     estimated_value: Optional[float] = None
+    publish_date: Optional[datetime] = None
     bid_deadline: Optional[datetime] = None
     application_capacity: int = 100
     requirements: List[RequirementCreateRequest] = []
@@ -190,6 +191,7 @@ class TenderResponse(BaseModel):
     application_capacity: int
     total_requirements: int = 0
     mandatory_requirements: int = 0
+    bidders: int = 0
     requirements: List[RequirementResponse] = []
     meta_data: Optional[Dict[str, Any]] = None
     class Config:

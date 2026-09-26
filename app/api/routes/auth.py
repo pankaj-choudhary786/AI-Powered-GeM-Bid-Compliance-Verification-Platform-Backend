@@ -132,6 +132,43 @@ def update_profile(
         "profile": profile
     }
 
+from pydantic import BaseModel
+class WishlistRequest(BaseModel):
+    tender_id: str
+
+@router.get("/wishlist")
+def get_wishlist(
+    current_user: User = Depends(get_current_user),
+    db: Session = Depends(get_db)
+):
+    if current_user.role.value != "BIDDER" or not current_user.bidder_profile:
+        return []
+    meta = current_user.bidder_profile.meta_data or {}
+    return meta.get("wishlist", [])
+
+@router.post("/wishlist")
+def toggle_wishlist(
+    request: WishlistRequest,
+    current_user: User = Depends(get_current_user),
+    db: Session = Depends(get_db)
+):
+    if current_user.role.value != "BIDDER" or not current_user.bidder_profile:
+        raise HTTPException(status_code=400, detail="Only bidders can have a wishlist")
+    
+    meta = current_user.bidder_profile.meta_data or {}
+    wishlist = meta.get("wishlist", [])
+    
+    if request.tender_id in wishlist:
+        wishlist.remove(request.tender_id)
+    else:
+        wishlist.append(request.tender_id)
+        
+    meta["wishlist"] = wishlist
+    current_user.bidder_profile.meta_data = meta
+    db.commit()
+    
+    return {"wishlist": wishlist}
+
 @router.post("/logout")
 def logout():
     return {"message": "Successfully logged out. Please delete the token on the client side."}

@@ -31,7 +31,7 @@ def get_bidder_leaderboard(
     if not tender:
         raise HTTPException(status_code=404, detail="Tender not found")
 
-    submissions = db.query(BidSubmission).filter(BidSubmission.tender_id == tender.id).all()
+    submissions = db.query(BidSubmission).filter(BidSubmission.tender_id == tender.id, BidSubmission.status != "DRAFT").all()
     
     leaderboard = []
     for sub in submissions:
