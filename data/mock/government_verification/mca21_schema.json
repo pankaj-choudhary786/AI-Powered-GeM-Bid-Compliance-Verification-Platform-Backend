@@ -25,5 +25,1805 @@
     "dateOfIncorporation": "01/01/2023",
     "rocCode": "RoC-Delhi",
     "paidUpCapital": 100000
+  },
+  "U10001KA2019PTC100001": {
+    "identifier": "U10001KA2019PTC100001",
+    "entityType": "Company",
+    "companyName": "ALPHA TECHNOLOGIES PVT LTD",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "10/02/2019",
+    "rocCode": "RoC-Bangalore",
+    "paidUpCapital": 2500000
+  },
+  "LLP-10002": {
+    "identifier": "LLP-10002",
+    "entityType": "LLP",
+    "companyName": "BETA MANUFACTURING LLP",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "12/03/2020",
+    "rocCode": "RoC-Ahmedabad",
+    "paidUpCapital": 1500000
+  },
+  "PRO-10003": {
+    "identifier": "PRO-10003",
+    "entityType": "Proprietorship",
+    "companyName": "GAMMA LOGISTICS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "15/05/2021",
+    "rocCode": "RoC-Chennai",
+    "paidUpCapital": 500000
+  },
+  "PRT-10004": {
+    "identifier": "PRT-10004",
+    "entityType": "Partnership Firm",
+    "companyName": "DELTA EXPORTS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "18/06/2017",
+    "rocCode": "RoC-Kanpur",
+    "paidUpCapital": 1200000
+  },
+  "PRO-10005": {
+    "identifier": "PRO-10005",
+    "entityType": "Proprietorship",
+    "companyName": "EPSILON TRADERS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "22/07/2018",
+    "rocCode": "RoC-Gwalior",
+    "paidUpCapital": 300000
+  },
+  "U10006WB2020PTC100006": {
+    "identifier": "U10006WB2020PTC100006",
+    "entityType": "Company",
+    "companyName": "ZETA SOFTWARE SOLUTIONS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "30/08/2020",
+    "rocCode": "RoC-Kolkata",
+    "paidUpCapital": 3500000
+  },
+  "LLP-10007": {
+    "identifier": "LLP-10007",
+    "entityType": "LLP",
+    "companyName": "ETA AGRO INDUSTRIES",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "14/09/2016",
+    "rocCode": "RoC-Hyderabad",
+    "paidUpCapital": 2000000
+  },
+  "U10008HR2019PTC100008": {
+    "identifier": "U10008HR2019PTC100008",
+    "entityType": "Company",
+    "companyName": "THETA AUTOMOTIVES",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "25/10/2019",
+    "rocCode": "RoC-Delhi",
+    "paidUpCapital": 5000000
+  },
+  "PRT-10009": {
+    "identifier": "PRT-10009",
+    "entityType": "Partnership Firm",
+    "companyName": "IOTA SPORTS GOODS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "05/11/2021",
+    "rocCode": "RoC-Chandigarh",
+    "paidUpCapital": 800000
+  },
+  "PRO-10010": {
+    "identifier": "PRO-10010",
+    "entityType": "Proprietorship",
+    "companyName": "KAPPA TEXTILES",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "12/12/2017",
+    "rocCode": "RoC-Ernakulam",
+    "paidUpCapital": 450000
+  },
+  "LLP-10011": {
+    "identifier": "LLP-10011",
+    "entityType": "LLP",
+    "companyName": "LAMBDA CONSULTING",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "19/01/2022",
+    "rocCode": "RoC-Delhi",
+    "paidUpCapital": 1000000
+  },
+  "U10012MH2015PTC100012": {
+    "identifier": "U10012MH2015PTC100012",
+    "entityType": "Company",
+    "companyName": "MU FINANCIAL SERVICES",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "28/02/2015",
+    "rocCode": "RoC-Pune",
+    "paidUpCapital": 7500000
+  },
+  "PRO-10013": {
+    "identifier": "PRO-10013",
+    "entityType": "Proprietorship",
+    "companyName": "NU HANDICRAFTS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "07/03/2018",
+    "rocCode": "RoC-Jaipur",
+    "paidUpCapital": 250000
+  },
+  "U10014KA2020PTC100014": {
+    "identifier": "U10014KA2020PTC100014",
+    "entityType": "Company",
+    "companyName": "XI BIO LABS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "16/04/2020",
+    "rocCode": "RoC-Bangalore",
+    "paidUpCapital": 4000000
+  },
+  "PRT-10015": {
+    "identifier": "PRT-10015",
+    "entityType": "Partnership Firm",
+    "companyName": "OMICRON DIAMONDS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "22/05/2016",
+    "rocCode": "RoC-Ahmedabad",
+    "paidUpCapital": 6000000
+  },
+  "LLP-10016": {
+    "identifier": "LLP-10016",
+    "entityType": "LLP",
+    "companyName": "PI ENGINEERING",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "11/06/2019",
+    "rocCode": "RoC-Coimbatore",
+    "paidUpCapital": 1800000
+  },
+  "PRO-10017": {
+    "identifier": "PRO-10017",
+    "entityType": "Proprietorship",
+    "companyName": "RHO INFOTECH",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "09/07/2021",
+    "rocCode": "RoC-Kanpur",
+    "paidUpCapital": 400000
+  },
+  "U10018MP2014PTC100018": {
+    "identifier": "U10018MP2014PTC100018",
+    "entityType": "Company",
+    "companyName": "SIGMA STEEL",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "14/08/2014",
+    "rocCode": "RoC-Gwalior",
+    "paidUpCapital": 10000000
+  },
+  "PRT-10019": {
+    "identifier": "PRT-10019",
+    "entityType": "Partnership Firm",
+    "companyName": "TAU PLASTICS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "21/09/2018",
+    "rocCode": "RoC-Kolkata",
+    "paidUpCapital": 1500000
+  },
+  "U10020AP2017PTC100020": {
+    "identifier": "U10020AP2017PTC100020",
+    "entityType": "Company",
+    "companyName": "UPSILON PHARMA",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "30/10/2017",
+    "rocCode": "RoC-Vijayawada",
+    "paidUpCapital": 5500000
+  },
+  "LLP-10021": {
+    "identifier": "LLP-10021",
+    "entityType": "LLP",
+    "companyName": "PHI NETWORKS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "04/11/2020",
+    "rocCode": "RoC-Delhi",
+    "paidUpCapital": 2200000
+  },
+  "PRO-10022": {
+    "identifier": "PRO-10022",
+    "entityType": "Proprietorship",
+    "companyName": "CHI APPARELS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "18/12/2022",
+    "rocCode": "RoC-Chandigarh",
+    "paidUpCapital": 300000
+  },
+  "U10023KL2019PTC100023": {
+    "identifier": "U10023KL2019PTC100023",
+    "entityType": "Company",
+    "companyName": "PSI HERBALS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "25/01/2019",
+    "rocCode": "RoC-Ernakulam",
+    "paidUpCapital": 1200000
+  },
+  "PRT-10024": {
+    "identifier": "PRT-10024",
+    "entityType": "Partnership Firm",
+    "companyName": "OMEGA MEDIA",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "12/02/2018",
+    "rocCode": "RoC-Delhi",
+    "paidUpCapital": 600000
+  },
+  "U10025MH2015PTC100025": {
+    "identifier": "U10025MH2015PTC100025",
+    "entityType": "Company",
+    "companyName": "AURA INFRASTRUCTURE",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "08/03/2015",
+    "rocCode": "RoC-Mumbai",
+    "paidUpCapital": 15000000
+  },
+  "LLP-10026": {
+    "identifier": "LLP-10026",
+    "entityType": "LLP",
+    "companyName": "BLAZE ENERGY",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "17/04/2021",
+    "rocCode": "RoC-Jaipur",
+    "paidUpCapital": 3000000
+  },
+  "PRO-10027": {
+    "identifier": "PRO-10027",
+    "entityType": "Proprietorship",
+    "companyName": "CREST INNOVATIONS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "29/05/2020",
+    "rocCode": "RoC-Bangalore",
+    "paidUpCapital": 200000
+  },
+  "U10028GJ2017PTC100028": {
+    "identifier": "U10028GJ2017PTC100028",
+    "entityType": "Company",
+    "companyName": "DART LOGISTICS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "03/06/2017",
+    "rocCode": "RoC-Ahmedabad",
+    "paidUpCapital": 4500000
+  },
+  "PRT-10029": {
+    "identifier": "PRT-10029",
+    "entityType": "Partnership Firm",
+    "companyName": "ECHO SYSTEMS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "19/07/2016",
+    "rocCode": "RoC-Chennai",
+    "paidUpCapital": 900000
+  },
+  "LLP-10030": {
+    "identifier": "LLP-10030",
+    "entityType": "LLP",
+    "companyName": "FLARE TECHNOLOGIES",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "22/08/2022",
+    "rocCode": "RoC-Kanpur",
+    "paidUpCapital": 1200000
+  },
+  "PRO-10031": {
+    "identifier": "PRO-10031",
+    "entityType": "Proprietorship",
+    "companyName": "GLOBE PACKAGING",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "11/09/2019",
+    "rocCode": "RoC-Gwalior",
+    "paidUpCapital": 400000
+  },
+  "U10032WB2018PTC100032": {
+    "identifier": "U10032WB2018PTC100032",
+    "entityType": "Company",
+    "companyName": "HALO HEALTHCARE",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "05/10/2018",
+    "rocCode": "RoC-Kolkata",
+    "paidUpCapital": 6000000
+  },
+  "PRT-10033": {
+    "identifier": "PRT-10033",
+    "entityType": "Partnership Firm",
+    "companyName": "ICON TRADERS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "14/11/2021",
+    "rocCode": "RoC-Vijayawada",
+    "paidUpCapital": 500000
+  },
+  "LLP-10034": {
+    "identifier": "LLP-10034",
+    "entityType": "LLP",
+    "companyName": "JADE ENTERPRISES",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "27/12/2020",
+    "rocCode": "RoC-Delhi",
+    "paidUpCapital": 2500000
+  },
+  "PRO-10035": {
+    "identifier": "PRO-10035",
+    "entityType": "Proprietorship",
+    "companyName": "KITE COMMUNICATIONS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "10/01/2019",
+    "rocCode": "RoC-Chandigarh",
+    "paidUpCapital": 150000
+  },
+  "U10036KL2017PTC100036": {
+    "identifier": "U10036KL2017PTC100036",
+    "entityType": "Company",
+    "companyName": "LUMEN ELECTRICALS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "21/02/2017",
+    "rocCode": "RoC-Ernakulam",
+    "paidUpCapital": 3200000
+  },
+  "PRT-10037": {
+    "identifier": "PRT-10037",
+    "entityType": "Partnership Firm",
+    "companyName": "METRO BUILDERS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "15/03/2018",
+    "rocCode": "RoC-Delhi",
+    "paidUpCapital": 1800000
+  },
+  "U10038MH2016PTC100038": {
+    "identifier": "U10038MH2016PTC100038",
+    "entityType": "Company",
+    "companyName": "NOVA CEMENTS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "28/04/2016",
+    "rocCode": "RoC-Mumbai",
+    "paidUpCapital": 20000000
+  },
+  "PRO-10039": {
+    "identifier": "PRO-10039",
+    "entityType": "Proprietorship",
+    "companyName": "OASIS TOURISM",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "09/05/2022",
+    "rocCode": "RoC-Jaipur",
+    "paidUpCapital": 100000
+  },
+  "LLP-10040": {
+    "identifier": "LLP-10040",
+    "entityType": "LLP",
+    "companyName": "PULSE DIAGNOSTICS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "18/06/2019",
+    "rocCode": "RoC-Bangalore",
+    "paidUpCapital": 2200000
+  },
+  "PRT-10041": {
+    "identifier": "PRT-10041",
+    "entityType": "Partnership Firm",
+    "companyName": "QUARTZ CERAMICS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "02/07/2015",
+    "rocCode": "RoC-Ahmedabad",
+    "paidUpCapital": 1100000
+  },
+  "U10042TN2020PTC100042": {
+    "identifier": "U10042TN2020PTC100042",
+    "entityType": "Company",
+    "companyName": "RIPPLE WATER PURIFIERS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "14/08/2020",
+    "rocCode": "RoC-Chennai",
+    "paidUpCapital": 4800000
+  },
+  "PRO-10043": {
+    "identifier": "PRO-10043",
+    "entityType": "Proprietorship",
+    "companyName": "SPARK EDUCATION",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "26/09/2021",
+    "rocCode": "RoC-Kanpur",
+    "paidUpCapital": 200000
+  },
+  "LLP-10044": {
+    "identifier": "LLP-10044",
+    "entityType": "LLP",
+    "companyName": "TIDE SHIPPING",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "05/10/2017",
+    "rocCode": "RoC-Gwalior",
+    "paidUpCapital": 3500000
+  },
+  "U10045WB2019PTC100045": {
+    "identifier": "U10045WB2019PTC100045",
+    "entityType": "Company",
+    "companyName": "URBAN LIVING FURNITURE",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "17/11/2019",
+    "rocCode": "RoC-Kolkata",
+    "paidUpCapital": 2700000
+  },
+  "PRT-10046": {
+    "identifier": "PRT-10046",
+    "entityType": "Partnership Firm",
+    "companyName": "VANGUARD SECURITY",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "30/12/2018",
+    "rocCode": "RoC-Vijayawada",
+    "paidUpCapital": 900000
+  },
+  "U10047HR2016PTC100047": {
+    "identifier": "U10047HR2016PTC100047",
+    "entityType": "Company",
+    "companyName": "WAVE BROADBAND",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "08/01/2016",
+    "rocCode": "RoC-Delhi",
+    "paidUpCapital": 6000000
+  },
+  "LLP-10048": {
+    "identifier": "LLP-10048",
+    "entityType": "LLP",
+    "companyName": "XYLEM PIPES",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "21/02/2021",
+    "rocCode": "RoC-Chandigarh",
+    "paidUpCapital": 1400000
+  },
+  "PRO-10049": {
+    "identifier": "PRO-10049",
+    "entityType": "Proprietorship",
+    "companyName": "YOGA NATURALS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "12/03/2020",
+    "rocCode": "RoC-Ernakulam",
+    "paidUpCapital": 150000
+  },
+  "PRT-10050": {
+    "identifier": "PRT-10050",
+    "entityType": "Partnership Firm",
+    "companyName": "ZENITH APPARELS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "16/04/2017",
+    "rocCode": "RoC-Delhi",
+    "paidUpCapital": 750000
+  },
+  "U10051MH2015PTC100051": {
+    "identifier": "U10051MH2015PTC100051",
+    "entityType": "Company",
+    "companyName": "AEON ELECTRONICS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "25/05/2015",
+    "rocCode": "RoC-Mumbai",
+    "paidUpCapital": 8000000
+  },
+  "LLP-10052": {
+    "identifier": "LLP-10052",
+    "entityType": "LLP",
+    "companyName": "BARIUM CHEMICALS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "04/06/2019",
+    "rocCode": "RoC-Jaipur",
+    "paidUpCapital": 2100000
+  },
+  "PRO-10053": {
+    "identifier": "PRO-10053",
+    "entityType": "Proprietorship",
+    "companyName": "CHRONO WATCHES",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "19/07/2022",
+    "rocCode": "RoC-Bangalore",
+    "paidUpCapital": 120000
+  },
+  "PRT-10054": {
+    "identifier": "PRT-10054",
+    "entityType": "Partnership Firm",
+    "companyName": "DUNE TEXTILES",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "28/08/2018",
+    "rocCode": "RoC-Ahmedabad",
+    "paidUpCapital": 950000
+  },
+  "U10055TN2016PTC100055": {
+    "identifier": "U10055TN2016PTC100055",
+    "entityType": "Company",
+    "companyName": "ENIGMA SOFTWARE",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "07/09/2016",
+    "rocCode": "RoC-Chennai",
+    "paidUpCapital": 4200000
+  },
+  "LLP-10056": {
+    "identifier": "LLP-10056",
+    "entityType": "LLP",
+    "companyName": "FORGE METALS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "13/10/2020",
+    "rocCode": "RoC-Kanpur",
+    "paidUpCapital": 1700000
+  },
+  "PRO-10057": {
+    "identifier": "PRO-10057",
+    "entityType": "Proprietorship",
+    "companyName": "GRAVITY SPORTS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "22/11/2021",
+    "rocCode": "RoC-Gwalior",
+    "paidUpCapital": 200000
+  },
+  "PRT-10058": {
+    "identifier": "PRT-10058",
+    "entityType": "Partnership Firm",
+    "companyName": "HAVEN REALTY",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "01/12/2017",
+    "rocCode": "RoC-Kolkata",
+    "paidUpCapital": 1300000
+  },
+  "U10059AP2015PTC100059": {
+    "identifier": "U10059AP2015PTC100059",
+    "entityType": "Company",
+    "companyName": "IGNITE ENGINES",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "11/01/2015",
+    "rocCode": "RoC-Vijayawada",
+    "paidUpCapital": 9000000
+  },
+  "LLP-10060": {
+    "identifier": "LLP-10060",
+    "entityType": "LLP",
+    "companyName": "JOULE BATTERIES",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "19/02/2019",
+    "rocCode": "RoC-Delhi",
+    "paidUpCapital": 2600000
+  },
+  "PRO-10061": {
+    "identifier": "PRO-10061",
+    "entityType": "Proprietorship",
+    "companyName": "KINETIC MOTORS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "26/03/2022",
+    "rocCode": "RoC-Chandigarh",
+    "paidUpCapital": 350000
+  },
+  "PRT-10062": {
+    "identifier": "PRT-10062",
+    "entityType": "Partnership Firm",
+    "companyName": "LYNX CYCLES",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "05/04/2018",
+    "rocCode": "RoC-Ernakulam",
+    "paidUpCapital": 800000
+  },
+  "U10063DL2016PTC100063": {
+    "identifier": "U10063DL2016PTC100063",
+    "entityType": "Company",
+    "companyName": "MIRAGE STUDIOS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "14/05/2016",
+    "rocCode": "RoC-Delhi",
+    "paidUpCapital": 3100000
+  },
+  "LLP-10064": {
+    "identifier": "LLP-10064",
+    "entityType": "LLP",
+    "companyName": "NEBULA AEROSPACE",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "22/06/2020",
+    "rocCode": "RoC-Mumbai",
+    "paidUpCapital": 5500000
+  },
+  "PRO-10065": {
+    "identifier": "PRO-10065",
+    "entityType": "Proprietorship",
+    "companyName": "OPAL JEWELERS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "30/07/2021",
+    "rocCode": "RoC-Jaipur",
+    "paidUpCapital": 500000
+  },
+  "PRT-10066": {
+    "identifier": "PRT-10066",
+    "entityType": "Partnership Firm",
+    "companyName": "PRISM OPTICALS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "09/08/2017",
+    "rocCode": "RoC-Bangalore",
+    "paidUpCapital": 600000
+  },
+  "U10067GJ2014PTC100067": {
+    "identifier": "U10067GJ2014PTC100067",
+    "entityType": "Company",
+    "companyName": "QUANTUM COMPUTING",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "18/09/2014",
+    "rocCode": "RoC-Ahmedabad",
+    "paidUpCapital": 12000000
+  },
+  "LLP-10068": {
+    "identifier": "LLP-10068",
+    "entityType": "LLP",
+    "companyName": "RADIAN SOLAR",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "27/10/2019",
+    "rocCode": "RoC-Chennai",
+    "paidUpCapital": 3800000
+  },
+  "PRO-10069": {
+    "identifier": "PRO-10069",
+    "entityType": "Proprietorship",
+    "companyName": "STELLAR AVIATION",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "06/11/2022",
+    "rocCode": "RoC-Kanpur",
+    "paidUpCapital": 800000
+  },
+  "PRT-10070": {
+    "identifier": "PRT-10070",
+    "entityType": "Partnership Firm",
+    "companyName": "TITAN CONSTRUCTION",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "15/12/2018",
+    "rocCode": "RoC-Gwalior",
+    "paidUpCapital": 1900000
+  },
+  "U10071WB2015PTC100071": {
+    "identifier": "U10071WB2015PTC100071",
+    "entityType": "Company",
+    "companyName": "ULTRA FOODS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "23/01/2015",
+    "rocCode": "RoC-Kolkata",
+    "paidUpCapital": 7000000
+  },
+  "LLP-10072": {
+    "identifier": "LLP-10072",
+    "entityType": "LLP",
+    "companyName": "VERTEX POLYMERS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "04/02/2020",
+    "rocCode": "RoC-Vijayawada",
+    "paidUpCapital": 1600000
+  },
+  "PRO-10073": {
+    "identifier": "PRO-10073",
+    "entityType": "Proprietorship",
+    "companyName": "WIZARD TOYS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "13/03/2021",
+    "rocCode": "RoC-Delhi",
+    "paidUpCapital": 250000
+  },
+  "PRT-10074": {
+    "identifier": "PRT-10074",
+    "entityType": "Partnership Firm",
+    "companyName": "XENON LIGHTING",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "22/04/2017",
+    "rocCode": "RoC-Chandigarh",
+    "paidUpCapital": 1100000
+  },
+  "U10075KL2016PTC100075": {
+    "identifier": "U10075KL2016PTC100075",
+    "entityType": "Company",
+    "companyName": "YARD MARINE",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "01/05/2016",
+    "rocCode": "RoC-Ernakulam",
+    "paidUpCapital": 4500000
+  },
+  "LLP-10076": {
+    "identifier": "LLP-10076",
+    "entityType": "LLP",
+    "companyName": "ZEPHYR AIRWAYS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "10/06/2019",
+    "rocCode": "RoC-Delhi",
+    "paidUpCapital": 2900000
+  },
+  "PRO-10077": {
+    "identifier": "PRO-10077",
+    "entityType": "Proprietorship",
+    "companyName": "APEX CERAMICS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "19/07/2022",
+    "rocCode": "RoC-Mumbai",
+    "paidUpCapital": 180000
+  },
+  "PRT-10078": {
+    "identifier": "PRT-10078",
+    "entityType": "Partnership Firm",
+    "companyName": "BOLD FITNESS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "28/08/2018",
+    "rocCode": "RoC-Jaipur",
+    "paidUpCapital": 500000
+  },
+  "U10079KA2015PTC100079": {
+    "identifier": "U10079KA2015PTC100079",
+    "entityType": "Company",
+    "companyName": "CORE INSTRUMENTS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "07/09/2015",
+    "rocCode": "RoC-Bangalore",
+    "paidUpCapital": 3800000
+  },
+  "LLP-10080": {
+    "identifier": "LLP-10080",
+    "entityType": "LLP",
+    "companyName": "DIVE AQUATICS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "15/10/2020",
+    "rocCode": "RoC-Ahmedabad",
+    "paidUpCapital": 1200000
+  },
+  "PRO-10081": {
+    "identifier": "PRO-10081",
+    "entityType": "Proprietorship",
+    "companyName": "EDGE CUTLERY",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "24/11/2021",
+    "rocCode": "RoC-Chennai",
+    "paidUpCapital": 220000
+  },
+  "PRT-10082": {
+    "identifier": "PRT-10082",
+    "entityType": "Partnership Firm",
+    "companyName": "FLINT MATCHES",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "03/12/2017",
+    "rocCode": "RoC-Kanpur",
+    "paidUpCapital": 700000
+  },
+  "U10083MP2016PTC100083": {
+    "identifier": "U10083MP2016PTC100083",
+    "entityType": "Company",
+    "companyName": "GLOW COSMETICS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "11/01/2016",
+    "rocCode": "RoC-Gwalior",
+    "paidUpCapital": 2500000
+  },
+  "LLP-10084": {
+    "identifier": "LLP-10084",
+    "entityType": "LLP",
+    "companyName": "HIVE HONEY",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "20/02/2019",
+    "rocCode": "RoC-Kolkata",
+    "paidUpCapital": 900000
+  },
+  "PRO-10085": {
+    "identifier": "PRO-10085",
+    "entityType": "Proprietorship",
+    "companyName": "IRON FOUNDRY",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "29/03/2022",
+    "rocCode": "RoC-Vijayawada",
+    "paidUpCapital": 600000
+  },
+  "PRT-10086": {
+    "identifier": "PRT-10086",
+    "entityType": "Partnership Firm",
+    "companyName": "JUMP APPAREL",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "08/04/2018",
+    "rocCode": "RoC-Delhi",
+    "paidUpCapital": 1300000
+  },
+  "U10087PB2015PTC100087": {
+    "identifier": "U10087PB2015PTC100087",
+    "entityType": "Company",
+    "companyName": "KILN BRICKS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "16/05/2015",
+    "rocCode": "RoC-Chandigarh",
+    "paidUpCapital": 5000000
+  },
+  "LLP-10088": {
+    "identifier": "LLP-10088",
+    "entityType": "LLP",
+    "companyName": "LOOP RECORDINGS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "25/06/2020",
+    "rocCode": "RoC-Ernakulam",
+    "paidUpCapital": 1400000
+  },
+  "PRO-10089": {
+    "identifier": "PRO-10089",
+    "entityType": "Proprietorship",
+    "companyName": "MINT FINANCE",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "03/08/2021",
+    "rocCode": "RoC-Delhi",
+    "paidUpCapital": 300000
+  },
+  "PRT-10090": {
+    "identifier": "PRT-10090",
+    "entityType": "Partnership Firm",
+    "companyName": "NEXUS ROBOTICS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "12/09/2017",
+    "rocCode": "RoC-Mumbai",
+    "paidUpCapital": 2100000
+  },
+  "U10091RJ2016PTC100091": {
+    "identifier": "U10091RJ2016PTC100091",
+    "entityType": "Company",
+    "companyName": "ORION TELESCOPES",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "20/10/2016",
+    "rocCode": "RoC-Jaipur",
+    "paidUpCapital": 6500000
+  },
+  "LLP-10092": {
+    "identifier": "LLP-10092",
+    "entityType": "LLP",
+    "companyName": "PINE TIMBER",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "29/11/2019",
+    "rocCode": "RoC-Bangalore",
+    "paidUpCapital": 1800000
+  },
+  "PRO-10093": {
+    "identifier": "PRO-10093",
+    "entityType": "Proprietorship",
+    "companyName": "QUEST ADVENTURES",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "07/01/2022",
+    "rocCode": "RoC-Ahmedabad",
+    "paidUpCapital": 400000
+  },
+  "PRT-10094": {
+    "identifier": "PRT-10094",
+    "entityType": "Partnership Firm",
+    "companyName": "ROOF TILES CO",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "16/02/2018",
+    "rocCode": "RoC-Chennai",
+    "paidUpCapital": 1200000
+  },
+  "U10095UP2015PTC100095": {
+    "identifier": "U10095UP2015PTC100095",
+    "entityType": "Company",
+    "companyName": "SILK WEAVERS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "24/03/2015",
+    "rocCode": "RoC-Kanpur",
+    "paidUpCapital": 3000000
+  },
+  "LLP-10096": {
+    "identifier": "LLP-10096",
+    "entityType": "LLP",
+    "companyName": "TRACTOR PARTS INC",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "03/05/2020",
+    "rocCode": "RoC-Gwalior",
+    "paidUpCapital": 2400000
+  },
+  "PRO-10097": {
+    "identifier": "PRO-10097",
+    "entityType": "Proprietorship",
+    "companyName": "UNITY LOGISTICS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "12/06/2021",
+    "rocCode": "RoC-Kolkata",
+    "paidUpCapital": 150000
+  },
+  "PRT-10098": {
+    "identifier": "PRT-10098",
+    "entityType": "Partnership Firm",
+    "companyName": "VAULT SAFES",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "20/07/2017",
+    "rocCode": "RoC-Vijayawada",
+    "paidUpCapital": 1600000
+  },
+  "U10099HR2016PTC100099": {
+    "identifier": "U10099HR2016PTC100099",
+    "entityType": "Company",
+    "companyName": "WIRE CABLES",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "28/08/2016",
+    "rocCode": "RoC-Delhi",
+    "paidUpCapital": 8500000
+  },
+  "LLP-10100": {
+    "identifier": "LLP-10100",
+    "entityType": "LLP",
+    "companyName": "XRAY IMAGING",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "06/10/2019",
+    "rocCode": "RoC-Chandigarh",
+    "paidUpCapital": 3100000
+  },
+  "PRO-10101": {
+    "identifier": "PRO-10101",
+    "entityType": "Proprietorship",
+    "companyName": "YACHT BUILDERS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "15/11/2022",
+    "rocCode": "RoC-Ernakulam",
+    "paidUpCapital": 700000
+  },
+  "PRT-10102": {
+    "identifier": "PRT-10102",
+    "entityType": "Partnership Firm",
+    "companyName": "ZINC REFINERIES",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "24/12/2018",
+    "rocCode": "RoC-Delhi",
+    "paidUpCapital": 2000000
+  },
+  "U10103MH2015PTC100103": {
+    "identifier": "U10103MH2015PTC100103",
+    "entityType": "Company",
+    "companyName": "ARROW LOGISTICS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "02/02/2015",
+    "rocCode": "RoC-Mumbai",
+    "paidUpCapital": 4500000
+  },
+  "LLP-10104": {
+    "identifier": "LLP-10104",
+    "entityType": "LLP",
+    "companyName": "BEACON PUBLISHING",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "13/03/2020",
+    "rocCode": "RoC-Jaipur",
+    "paidUpCapital": 1300000
+  },
+  "PRO-10105": {
+    "identifier": "PRO-10105",
+    "entityType": "Proprietorship",
+    "companyName": "CROWN JEWELS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "21/04/2021",
+    "rocCode": "RoC-Bangalore",
+    "paidUpCapital": 600000
+  },
+  "PRT-10106": {
+    "identifier": "PRT-10106",
+    "entityType": "Partnership Firm",
+    "companyName": "DAWN CHEMICALS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "30/05/2017",
+    "rocCode": "RoC-Ahmedabad",
+    "paidUpCapital": 1400000
+  },
+  "U10107TN2016PTC100107": {
+    "identifier": "U10107TN2016PTC100107",
+    "entityType": "Company",
+    "companyName": "ELITE FURNISHINGS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "08/07/2016",
+    "rocCode": "RoC-Chennai",
+    "paidUpCapital": 2800000
+  },
+  "LLP-10108": {
+    "identifier": "LLP-10108",
+    "entityType": "LLP",
+    "companyName": "FALCON DRONES",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "17/08/2019",
+    "rocCode": "RoC-Kanpur",
+    "paidUpCapital": 3200000
+  },
+  "PRO-10109": {
+    "identifier": "PRO-10109",
+    "entityType": "Proprietorship",
+    "companyName": "GEMINI SOFTWARE",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "26/09/2022",
+    "rocCode": "RoC-Gwalior",
+    "paidUpCapital": 250000
+  },
+  "PRT-10110": {
+    "identifier": "PRT-10110",
+    "entityType": "Partnership Firm",
+    "companyName": "HERITAGE ARTS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "03/11/2018",
+    "rocCode": "RoC-Kolkata",
+    "paidUpCapital": 800000
+  },
+  "U10111AP2015PTC100111": {
+    "identifier": "U10111AP2015PTC100111",
+    "entityType": "Company",
+    "companyName": "INFINITY NETWORKS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "12/12/2015",
+    "rocCode": "RoC-Vijayawada",
+    "paidUpCapital": 7200000
+  },
+  "LLP-10112": {
+    "identifier": "LLP-10112",
+    "entityType": "LLP",
+    "companyName": "JAZZ MUSIC ACADEMY",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "21/01/2020",
+    "rocCode": "RoC-Delhi",
+    "paidUpCapital": 900000
+  },
+  "PRO-10113": {
+    "identifier": "PRO-10113",
+    "entityType": "Proprietorship",
+    "companyName": "KNIGHT SECURITY",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "01/03/2021",
+    "rocCode": "RoC-Chandigarh",
+    "paidUpCapital": 350000
+  },
+  "PRT-10114": {
+    "identifier": "PRT-10114",
+    "entityType": "Partnership Firm",
+    "companyName": "LIONHEART FITNESS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "09/04/2017",
+    "rocCode": "RoC-Ernakulam",
+    "paidUpCapital": 1100000
+  },
+  "U10115DL2016PTC100115": {
+    "identifier": "U10115DL2016PTC100115",
+    "entityType": "Company",
+    "companyName": "MYSTIC TOURS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "18/05/2016",
+    "rocCode": "RoC-Delhi",
+    "paidUpCapital": 2400000
+  },
+  "LLP-10116": {
+    "identifier": "LLP-10116",
+    "entityType": "LLP",
+    "companyName": "NANO CHIPS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "26/06/2019",
+    "rocCode": "RoC-Mumbai",
+    "paidUpCapital": 5000000
+  },
+  "PRO-10117": {
+    "identifier": "PRO-10117",
+    "entityType": "Proprietorship",
+    "companyName": "OAK FURNITURE",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "05/08/2022",
+    "rocCode": "RoC-Jaipur",
+    "paidUpCapital": 450000
+  },
+  "PRT-10118": {
+    "identifier": "PRT-10118",
+    "entityType": "Partnership Firm",
+    "companyName": "PIONEER BUILDERS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "14/09/2018",
+    "rocCode": "RoC-Bangalore",
+    "paidUpCapital": 3500000
+  },
+  "U10119GJ2015PTC100119": {
+    "identifier": "U10119GJ2015PTC100119",
+    "entityType": "Company",
+    "companyName": "QUANTUM LOGISTICS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "23/10/2015",
+    "rocCode": "RoC-Ahmedabad",
+    "paidUpCapital": 8800000
+  },
+  "LLP-10120": {
+    "identifier": "LLP-10120",
+    "entityType": "LLP",
+    "companyName": "RUBY GEMS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "01/12/2020",
+    "rocCode": "RoC-Chennai",
+    "paidUpCapital": 2700000
+  },
+  "PRO-10121": {
+    "identifier": "PRO-10121",
+    "entityType": "Proprietorship",
+    "companyName": "SOLARIS ENERGY",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "10/01/2021",
+    "rocCode": "RoC-Kanpur",
+    "paidUpCapital": 550000
+  },
+  "PRT-10122": {
+    "identifier": "PRT-10122",
+    "entityType": "Partnership Firm",
+    "companyName": "TRIUMPH MOTORS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "19/02/2017",
+    "rocCode": "RoC-Gwalior",
+    "paidUpCapital": 1700000
+  },
+  "U10123WB2016PTC100123": {
+    "identifier": "U10123WB2016PTC100123",
+    "entityType": "Company",
+    "companyName": "UMBRA DESIGNS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "28/03/2016",
+    "rocCode": "RoC-Kolkata",
+    "paidUpCapital": 1900000
+  },
+  "LLP-10124": {
+    "identifier": "LLP-10124",
+    "entityType": "LLP",
+    "companyName": "VELOCITY COURIERS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "07/05/2019",
+    "rocCode": "RoC-Vijayawada",
+    "paidUpCapital": 1500000
+  },
+  "PRO-10125": {
+    "identifier": "PRO-10125",
+    "entityType": "Proprietorship",
+    "companyName": "WILLOW CRAFTS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "16/06/2022",
+    "rocCode": "RoC-Delhi",
+    "paidUpCapital": 150000
+  },
+  "PRT-10126": {
+    "identifier": "PRT-10126",
+    "entityType": "Partnership Firm",
+    "companyName": "XYLO WOODWORKS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "24/07/2018",
+    "rocCode": "RoC-Chandigarh",
+    "paidUpCapital": 850000
+  },
+  "U10127KL2015PTC100127": {
+    "identifier": "U10127KL2015PTC100127",
+    "entityType": "Company",
+    "companyName": "YEN TRADERS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "09/09/2015",
+    "rocCode": "RoC-Ernakulam",
+    "paidUpCapital": 5200000
+  },
+  "LLP-10128": {
+    "identifier": "LLP-10128",
+    "entityType": "LLP",
+    "companyName": "ZENITH SOFTWARE",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "18/10/2020",
+    "rocCode": "RoC-Delhi",
+    "paidUpCapital": 3500000
+  },
+  "PRO-10129": {
+    "identifier": "PRO-10129",
+    "entityType": "Proprietorship",
+    "companyName": "ABSOLUTE FITNESS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "20/11/2021",
+    "rocCode": "RoC-Mumbai",
+    "paidUpCapital": 400000
+  },
+  "PRT-10130": {
+    "identifier": "PRT-10130",
+    "entityType": "Partnership Firm",
+    "companyName": "BANYAN TREE HOSPITALITY",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "29/12/2017",
+    "rocCode": "RoC-Jaipur",
+    "paidUpCapital": 2200000
+  },
+  "U10131KA2016PTC100131": {
+    "identifier": "U10131KA2016PTC100131",
+    "entityType": "Company",
+    "companyName": "COSMIC TECHNOLOGIES",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "07/02/2016",
+    "rocCode": "RoC-Bangalore",
+    "paidUpCapital": 6000000
+  },
+  "LLP-10132": {
+    "identifier": "LLP-10132",
+    "entityType": "LLP",
+    "companyName": "DYNAMIC ENGINEERING",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "17/03/2019",
+    "rocCode": "RoC-Ahmedabad",
+    "paidUpCapital": 1800000
+  },
+  "PRO-10133": {
+    "identifier": "PRO-10133",
+    "entityType": "Proprietorship",
+    "companyName": "ELEMENTAL DESIGNS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "26/04/2022",
+    "rocCode": "RoC-Chennai",
+    "paidUpCapital": 250000
+  },
+  "PRT-10134": {
+    "identifier": "PRT-10134",
+    "entityType": "Partnership Firm",
+    "companyName": "FUSION PLASTICS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "12/06/2018",
+    "rocCode": "RoC-Kanpur",
+    "paidUpCapital": 1100000
+  },
+  "U10135MP2015PTC100135": {
+    "identifier": "U10135MP2015PTC100135",
+    "entityType": "Company",
+    "companyName": "GENESIS HEALTHCARE",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "21/07/2015",
+    "rocCode": "RoC-Gwalior",
+    "paidUpCapital": 8500000
+  },
+  "LLP-10136": {
+    "identifier": "LLP-10136",
+    "entityType": "LLP",
+    "companyName": "HORIZON EXPORTS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "30/08/2020",
+    "rocCode": "RoC-Kolkata",
+    "paidUpCapital": 2400000
+  },
+  "PRO-10137": {
+    "identifier": "PRO-10137",
+    "entityType": "Proprietorship",
+    "companyName": "ILLUSION MEDIA",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "30/09/2021",
+    "rocCode": "RoC-Vijayawada",
+    "paidUpCapital": 350000
+  },
+  "PRT-10138": {
+    "identifier": "PRT-10138",
+    "entityType": "Partnership Firm",
+    "companyName": "JUPITER STEEL",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "17/11/2017",
+    "rocCode": "RoC-Delhi",
+    "paidUpCapital": 4500000
+  },
+  "U10139PB2016PTC100139": {
+    "identifier": "U10139PB2016PTC100139",
+    "entityType": "Company",
+    "companyName": "KRYPTON CHEMICALS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "26/12/2016",
+    "rocCode": "RoC-Chandigarh",
+    "paidUpCapital": 9200000
+  },
+  "LLP-10140": {
+    "identifier": "LLP-10140",
+    "entityType": "LLP",
+    "companyName": "LUNAR LOGISTICS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "05/02/2019",
+    "rocCode": "RoC-Ernakulam",
+    "paidUpCapital": 3100000
+  },
+  "PRO-10141": {
+    "identifier": "PRO-10141",
+    "entityType": "Proprietorship",
+    "companyName": "MATRIX SOLUTIONS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "14/03/2022",
+    "rocCode": "RoC-Delhi",
+    "paidUpCapital": 500000
+  },
+  "PRT-10142": {
+    "identifier": "PRT-10142",
+    "entityType": "Partnership Firm",
+    "companyName": "NOVA ENTERPRISES",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "23/04/2018",
+    "rocCode": "RoC-Mumbai",
+    "paidUpCapital": 1400000
+  },
+  "U10143RJ2015PTC100143": {
+    "identifier": "U10143RJ2015PTC100143",
+    "entityType": "Company",
+    "companyName": "ORACLE FINANCIALS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "02/06/2015",
+    "rocCode": "RoC-Jaipur",
+    "paidUpCapital": 15000000
+  },
+  "LLP-10144": {
+    "identifier": "LLP-10144",
+    "entityType": "LLP",
+    "companyName": "PULSAR ELECTRONICS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "11/07/2020",
+    "rocCode": "RoC-Bangalore",
+    "paidUpCapital": 2800000
+  },
+  "PRO-10145": {
+    "identifier": "PRO-10145",
+    "entityType": "Proprietorship",
+    "companyName": "QASAR CONSULTING",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "20/08/2021",
+    "rocCode": "RoC-Ahmedabad",
+    "paidUpCapital": 450000
+  },
+  "PRT-10146": {
+    "identifier": "PRT-10146",
+    "entityType": "Partnership Firm",
+    "companyName": "RADIUS NETWORKS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "29/09/2017",
+    "rocCode": "RoC-Chennai",
+    "paidUpCapital": 1100000
+  },
+  "U10147UP2016PTC100147": {
+    "identifier": "U10147UP2016PTC100147",
+    "entityType": "Company",
+    "companyName": "SPECTRA PAINTS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "08/11/2016",
+    "rocCode": "RoC-Kanpur",
+    "paidUpCapital": 4200000
+  },
+  "LLP-10148": {
+    "identifier": "LLP-10148",
+    "entityType": "LLP",
+    "companyName": "TITANIUM METALS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "17/12/2019",
+    "rocCode": "RoC-Gwalior",
+    "paidUpCapital": 3600000
+  },
+  "PRO-10149": {
+    "identifier": "PRO-10149",
+    "entityType": "Proprietorship",
+    "companyName": "URBAN ARCHITECTS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "25/01/2022",
+    "rocCode": "RoC-Kolkata",
+    "paidUpCapital": 200000
+  },
+  "PRT-10150": {
+    "identifier": "PRT-10150",
+    "entityType": "Partnership Firm",
+    "companyName": "VERTEX HARDWARE",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "05/03/2018",
+    "rocCode": "RoC-Vijayawada",
+    "paidUpCapital": 950000
+  },
+  "U10151HR2015PTC100151": {
+    "identifier": "U10151HR2015PTC100151",
+    "entityType": "Company",
+    "companyName": "WINDMILL ENERGIES",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "14/04/2015",
+    "rocCode": "RoC-Delhi",
+    "paidUpCapital": 11000000
+  },
+  "LLP-10152": {
+    "identifier": "LLP-10152",
+    "entityType": "LLP",
+    "companyName": "XYLON FURNITURE",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "23/05/2020",
+    "rocCode": "RoC-Chandigarh",
+    "paidUpCapital": 2400000
+  },
+  "PRO-10153": {
+    "identifier": "PRO-10153",
+    "entityType": "Proprietorship",
+    "companyName": "YELLOW CAB CO",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "02/07/2021",
+    "rocCode": "RoC-Ernakulam",
+    "paidUpCapital": 650000
+  },
+  "PRT-10154": {
+    "identifier": "PRT-10154",
+    "entityType": "Partnership Firm",
+    "companyName": "ZETA PHARMACEUTICALS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "11/08/2017",
+    "rocCode": "RoC-Delhi",
+    "paidUpCapital": 3200000
+  },
+  "U10155MH2016PTC100155": {
+    "identifier": "U10155MH2016PTC100155",
+    "entityType": "Company",
+    "companyName": "AERO DYNAMICS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "20/09/2016",
+    "rocCode": "RoC-Mumbai",
+    "paidUpCapital": 8500000
+  },
+  "LLP-10156": {
+    "identifier": "LLP-10156",
+    "entityType": "LLP",
+    "companyName": "BLISS SPAS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "29/10/2019",
+    "rocCode": "RoC-Jaipur",
+    "paidUpCapital": 1200000
+  },
+  "PRO-10157": {
+    "identifier": "PRO-10157",
+    "entityType": "Proprietorship",
+    "companyName": "COBALT MINING",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "07/12/2022",
+    "rocCode": "RoC-Bangalore",
+    "paidUpCapital": 450000
+  },
+  "PRT-10158": {
+    "identifier": "PRT-10158",
+    "entityType": "Partnership Firm",
+    "companyName": "DEX LOGISTICS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "16/01/2018",
+    "rocCode": "RoC-Ahmedabad",
+    "paidUpCapital": 1800000
+  },
+  "U10159TN2015PTC100159": {
+    "identifier": "U10159TN2015PTC100159",
+    "entityType": "Company",
+    "companyName": "EAGLE EYE SECURITY",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "25/02/2015",
+    "rocCode": "RoC-Chennai",
+    "paidUpCapital": 6400000
+  },
+  "LLP-10160": {
+    "identifier": "LLP-10160",
+    "entityType": "LLP",
+    "companyName": "FROST REFRIGERATION",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "04/04/2020",
+    "rocCode": "RoC-Kanpur",
+    "paidUpCapital": 3500000
+  },
+  "PRO-10161": {
+    "identifier": "PRO-10161",
+    "entityType": "Proprietorship",
+    "companyName": "GALAXY TOURS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "03/05/2021",
+    "rocCode": "RoC-Gwalior",
+    "paidUpCapital": 550000
+  },
+  "PRT-10162": {
+    "identifier": "PRT-10162",
+    "entityType": "Partnership Firm",
+    "companyName": "HARMONY MUSIC",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "22/06/2017",
+    "rocCode": "RoC-Kolkata",
+    "paidUpCapital": 900000
+  },
+  "U10163AP2016PTC100163": {
+    "identifier": "U10163AP2016PTC100163",
+    "entityType": "Company",
+    "companyName": "INDIGO TEXTILES",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "31/07/2016",
+    "rocCode": "RoC-Vijayawada",
+    "paidUpCapital": 4800000
+  },
+  "LLP-10164": {
+    "identifier": "LLP-10164",
+    "entityType": "LLP",
+    "companyName": "JADE LOGISTICS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "09/09/2019",
+    "rocCode": "RoC-Delhi",
+    "paidUpCapital": 2700000
+  },
+  "PRO-10165": {
+    "identifier": "PRO-10165",
+    "entityType": "Proprietorship",
+    "companyName": "KINETIC ENERGY",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "18/10/2022",
+    "rocCode": "RoC-Chandigarh",
+    "paidUpCapital": 800000
+  },
+  "PRT-10166": {
+    "identifier": "PRT-10166",
+    "entityType": "Partnership Firm",
+    "companyName": "LUMINOUS LIGHTING",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "27/11/2018",
+    "rocCode": "RoC-Ernakulam",
+    "paidUpCapital": 1400000
+  },
+  "U10167DL2015PTC100167": {
+    "identifier": "U10167DL2015PTC100167",
+    "entityType": "Company",
+    "companyName": "MAGMA METALS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "05/01/2016",
+    "rocCode": "RoC-Delhi",
+    "paidUpCapital": 13000000
+  },
+  "LLP-10168": {
+    "identifier": "LLP-10168",
+    "entityType": "LLP",
+    "companyName": "NECTAR FOODS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "14/02/2020",
+    "rocCode": "RoC-Mumbai",
+    "paidUpCapital": 2200000
+  },
+  "PRO-10169": {
+    "identifier": "PRO-10169",
+    "entityType": "Proprietorship",
+    "companyName": "OBSIDIAN GLASS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "25/03/2021",
+    "rocCode": "RoC-Jaipur",
+    "paidUpCapital": 350000
+  },
+  "PRT-10170": {
+    "identifier": "PRT-10170",
+    "entityType": "Partnership Firm",
+    "companyName": "PEGASUS TRAVELS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "04/05/2017",
+    "rocCode": "RoC-Bangalore",
+    "paidUpCapital": 1100000
+  },
+  "U10171GJ2016PTC100171": {
+    "identifier": "U10171GJ2016PTC100171",
+    "entityType": "Company",
+    "companyName": "QUARTZ WATCHES",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "13/06/2016",
+    "rocCode": "RoC-Ahmedabad",
+    "paidUpCapital": 5200000
+  },
+  "LLP-10172": {
+    "identifier": "LLP-10172",
+    "entityType": "LLP",
+    "companyName": "RADAR SYSTEMS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "22/07/2019",
+    "rocCode": "RoC-Chennai",
+    "paidUpCapital": 4100000
+  },
+  "PRO-10173": {
+    "identifier": "PRO-10173",
+    "entityType": "Proprietorship",
+    "companyName": "SYNAPSE BIOTECH",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "31/08/2022",
+    "rocCode": "RoC-Kanpur",
+    "paidUpCapital": 600000
+  },
+  "PRT-10174": {
+    "identifier": "PRT-10174",
+    "entityType": "Partnership Firm",
+    "companyName": "TORNADO FANS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "09/10/2018",
+    "rocCode": "RoC-Gwalior",
+    "paidUpCapital": 1600000
+  },
+  "U10175WB2015PTC100175": {
+    "identifier": "U10175WB2015PTC100175",
+    "entityType": "Company",
+    "companyName": "ULTIMATE LOGISTICS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "18/11/2015",
+    "rocCode": "RoC-Kolkata",
+    "paidUpCapital": 7500000
+  },
+  "LLP-10176": {
+    "identifier": "LLP-10176",
+    "entityType": "LLP",
+    "companyName": "VORTEX PUMPS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "27/12/2020",
+    "rocCode": "RoC-Vijayawada",
+    "paidUpCapital": 2800000
+  },
+  "PRO-10177": {
+    "identifier": "PRO-10177",
+    "entityType": "Proprietorship",
+    "companyName": "WOLF PACKAGING",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "26/01/2021",
+    "rocCode": "RoC-Delhi",
+    "paidUpCapital": 450000
+  },
+  "PRT-10178": {
+    "identifier": "PRT-10178",
+    "entityType": "Partnership Firm",
+    "companyName": "XENITH HOSPITALITY",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "07/03/2017",
+    "rocCode": "RoC-Chandigarh",
+    "paidUpCapital": 1900000
+  },
+  "U10179KL2016PTC100179": {
+    "identifier": "U10179KL2016PTC100179",
+    "entityType": "Company",
+    "companyName": "YACHT CLUB",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "25/04/2016",
+    "rocCode": "RoC-Ernakulam",
+    "paidUpCapital": 9500000
+  },
+  "LLP-10180": {
+    "identifier": "LLP-10180",
+    "entityType": "LLP",
+    "companyName": "ZENITH EDUCATION",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "04/06/2019",
+    "rocCode": "RoC-Delhi",
+    "paidUpCapital": 1700000
+  },
+  "PRO-10181": {
+    "identifier": "PRO-10181",
+    "entityType": "Proprietorship",
+    "companyName": "AEON TEXTILES",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "03/07/2022",
+    "rocCode": "RoC-Mumbai",
+    "paidUpCapital": 250000
+  },
+  "PRT-10182": {
+    "identifier": "PRT-10182",
+    "entityType": "Partnership Firm",
+    "companyName": "BARIUM SOFTWARE",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "12/08/2018",
+    "rocCode": "RoC-Jaipur",
+    "paidUpCapital": 1400000
+  },
+  "U10183KA2015PTC100183": {
+    "identifier": "U10183KA2015PTC100183",
+    "entityType": "Company",
+    "companyName": "CHRONO LOGISTICS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "21/09/2015",
+    "rocCode": "RoC-Bangalore",
+    "paidUpCapital": 6800000
+  },
+  "LLP-10184": {
+    "identifier": "LLP-10184",
+    "entityType": "LLP",
+    "companyName": "DUNE AUTOMOTIVE",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "30/10/2020",
+    "rocCode": "RoC-Ahmedabad",
+    "paidUpCapital": 3200000
+  },
+  "PRO-10185": {
+    "identifier": "PRO-10185",
+    "entityType": "Proprietorship",
+    "companyName": "ENIGMA ENTERPRISES",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "08/12/2021",
+    "rocCode": "RoC-Chennai",
+    "paidUpCapital": 300000
+  },
+  "PRT-10186": {
+    "identifier": "PRT-10186",
+    "entityType": "Partnership Firm",
+    "companyName": "FORGE SOLUTIONS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "17/01/2018",
+    "rocCode": "RoC-Kanpur",
+    "paidUpCapital": 1200000
+  },
+  "U10187MP2016PTC100187": {
+    "identifier": "U10187MP2016PTC100187",
+    "entityType": "Company",
+    "companyName": "GRAVITY MINING",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "26/02/2016",
+    "rocCode": "RoC-Gwalior",
+    "paidUpCapital": 15000000
+  },
+  "LLP-10188": {
+    "identifier": "LLP-10188",
+    "entityType": "LLP",
+    "companyName": "HAVEN MEDIA",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "07/04/2019",
+    "rocCode": "RoC-Kolkata",
+    "paidUpCapital": 2100000
+  },
+  "PRO-10189": {
+    "identifier": "PRO-10189",
+    "entityType": "Proprietorship",
+    "companyName": "IGNITE TRADING",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "16/05/2022",
+    "rocCode": "RoC-Vijayawada",
+    "paidUpCapital": 550000
+  },
+  "PRT-10190": {
+    "identifier": "PRT-10190",
+    "entityType": "Partnership Firm",
+    "companyName": "JOULE CONSULTING",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "25/06/2018",
+    "rocCode": "RoC-Delhi",
+    "paidUpCapital": 1000000
+  },
+  "U10191PB2015PTC100191": {
+    "identifier": "U10191PB2015PTC100191",
+    "entityType": "Company",
+    "companyName": "KINETIC TECHNOLOGIES",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "03/08/2015",
+    "rocCode": "RoC-Chandigarh",
+    "paidUpCapital": 4600000
+  },
+  "LLP-10192": {
+    "identifier": "LLP-10192",
+    "entityType": "LLP",
+    "companyName": "LYNX PRODUCTIONS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "12/09/2020",
+    "rocCode": "RoC-Ernakulam",
+    "paidUpCapital": 1500000
+  },
+  "PRO-10193": {
+    "identifier": "PRO-10193",
+    "entityType": "Proprietorship",
+    "companyName": "MIRAGE EVENTS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "21/10/2021",
+    "rocCode": "RoC-Delhi",
+    "paidUpCapital": 150000
+  },
+  "PRT-10194": {
+    "identifier": "PRT-10194",
+    "entityType": "Partnership Firm",
+    "companyName": "NEBULA COURIERS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "30/11/2017",
+    "rocCode": "RoC-Mumbai",
+    "paidUpCapital": 1800000
+  },
+  "U10195RJ2016PTC100195": {
+    "identifier": "U10195RJ2015PTC100195",
+    "entityType": "Company",
+    "companyName": "OPAL HEALTHCARE",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "08/01/2016",
+    "rocCode": "RoC-Jaipur",
+    "paidUpCapital": 9200000
+  },
+  "LLP-10196": {
+    "identifier": "LLP-10196",
+    "entityType": "LLP",
+    "companyName": "PRISM PACKAGING",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "17/02/2019",
+    "rocCode": "RoC-Bangalore",
+    "paidUpCapital": 2300000
+  },
+  "PRO-10197": {
+    "identifier": "PRO-10197",
+    "entityType": "Proprietorship",
+    "companyName": "QUANTUM FITNESS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "28/03/2022",
+    "rocCode": "RoC-Ahmedabad",
+    "paidUpCapital": 400000
+  },
+  "PRT-10198": {
+    "identifier": "PRT-10198",
+    "entityType": "Partnership Firm",
+    "companyName": "RADIAN TOURS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "06/05/2018",
+    "rocCode": "RoC-Chennai",
+    "paidUpCapital": 850000
+  },
+  "U10199UP2015PTC100199": {
+    "identifier": "U10199UP2015PTC100199",
+    "entityType": "Company",
+    "companyName": "STELLAR SPORTS",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "15/06/2015",
+    "rocCode": "RoC-Kanpur",
+    "paidUpCapital": 3500000
+  },
+  "LLP-10200": {
+    "identifier": "LLP-10200",
+    "entityType": "LLP",
+    "companyName": "TITAN TRADING",
+    "companyStatus": "Active",
+    "dateOfIncorporation": "24/07/2020",
+    "rocCode": "RoC-Gwalior",
+    "paidUpCapital": 1900000
   }
 }

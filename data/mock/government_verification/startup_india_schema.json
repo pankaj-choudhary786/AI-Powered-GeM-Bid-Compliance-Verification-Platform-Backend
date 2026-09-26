@@ -22,5 +22,1605 @@
     "status": "ACTIVE",
     "industry": "General Trading",
     "sector": "Logistics"
+  },
+  "DIPP10001": {
+    "dippNumber": "DIPP10001",
+    "entityName": "ALPHA TECHNOLOGIES PVT LTD",
+    "recognitionDate": "12/03/2019",
+    "status": "ACTIVE",
+    "industry": "IT Services",
+    "sector": "Cloud Computing"
+  },
+  "DIPP10002": {
+    "dippNumber": "DIPP10002",
+    "entityName": "BETA MANUFACTURING LLP",
+    "recognitionDate": "14/04/2020",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Hardware"
+  },
+  "DIPP10003": {
+    "dippNumber": "DIPP10003",
+    "entityName": "GAMMA LOGISTICS",
+    "recognitionDate": "17/06/2021",
+    "status": "ACTIVE",
+    "industry": "Transportation",
+    "sector": "Logistics"
+  },
+  "DIPP10004": {
+    "dippNumber": "DIPP10004",
+    "entityName": "DELTA EXPORTS",
+    "recognitionDate": "20/07/2017",
+    "status": "ACTIVE",
+    "industry": "Wholesale",
+    "sector": "Exports"
+  },
+  "DIPP10005": {
+    "dippNumber": "DIPP10005",
+    "entityName": "EPSILON TRADERS",
+    "recognitionDate": "25/08/2018",
+    "status": "ACTIVE",
+    "industry": "Retail",
+    "sector": "Consumer Goods"
+  },
+  "DIPP10006": {
+    "dippNumber": "DIPP10006",
+    "entityName": "ZETA SOFTWARE SOLUTIONS",
+    "recognitionDate": "02/09/2020",
+    "status": "ACTIVE",
+    "industry": "IT Services",
+    "sector": "Enterprise Software"
+  },
+  "DIPP10007": {
+    "dippNumber": "DIPP10007",
+    "entityName": "ETA AGRO INDUSTRIES",
+    "recognitionDate": "15/10/2016",
+    "status": "ACTIVE",
+    "industry": "Agriculture",
+    "sector": "AgriTech"
+  },
+  "DIPP10008": {
+    "dippNumber": "DIPP10008",
+    "entityName": "THETA AUTOMOTIVES",
+    "recognitionDate": "27/11/2019",
+    "status": "ACTIVE",
+    "industry": "Automotive",
+    "sector": "EV Manufacturing"
+  },
+  "DIPP10009": {
+    "dippNumber": "DIPP10009",
+    "entityName": "IOTA SPORTS GOODS",
+    "recognitionDate": "08/12/2021",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Sports Equipment"
+  },
+  "DIPP10010": {
+    "dippNumber": "DIPP10010",
+    "entityName": "KAPPA TEXTILES",
+    "recognitionDate": "15/01/2017",
+    "status": "ACTIVE",
+    "industry": "Textiles",
+    "sector": "Apparel"
+  },
+  "DIPP10011": {
+    "dippNumber": "DIPP10011",
+    "entityName": "LAMBDA CONSULTING",
+    "recognitionDate": "22/02/2022",
+    "status": "ACTIVE",
+    "industry": "Professional Services",
+    "sector": "Management Consulting"
+  },
+  "DIPP10012": {
+    "dippNumber": "DIPP10012",
+    "entityName": "MU FINANCIAL SERVICES",
+    "recognitionDate": "05/03/2015",
+    "status": "ACTIVE",
+    "industry": "Finance",
+    "sector": "FinTech"
+  },
+  "DIPP10013": {
+    "dippNumber": "DIPP10013",
+    "entityName": "NU HANDICRAFTS",
+    "recognitionDate": "10/04/2018",
+    "status": "ACTIVE",
+    "industry": "Retail",
+    "sector": "Handicrafts"
+  },
+  "DIPP10014": {
+    "dippNumber": "DIPP10014",
+    "entityName": "XI BIO LABS",
+    "recognitionDate": "18/05/2020",
+    "status": "ACTIVE",
+    "industry": "Healthcare",
+    "sector": "Biotech"
+  },
+  "DIPP10015": {
+    "dippNumber": "DIPP10015",
+    "entityName": "OMICRON DIAMONDS",
+    "recognitionDate": "24/06/2016",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Jewelry"
+  },
+  "DIPP10016": {
+    "dippNumber": "DIPP10016",
+    "entityName": "PI ENGINEERING",
+    "recognitionDate": "14/07/2019",
+    "status": "ACTIVE",
+    "industry": "Engineering",
+    "sector": "Heavy Machinery"
+  },
+  "DIPP10017": {
+    "dippNumber": "DIPP10017",
+    "entityName": "RHO INFOTECH",
+    "recognitionDate": "11/08/2021",
+    "status": "ACTIVE",
+    "industry": "IT Services",
+    "sector": "Cybersecurity"
+  },
+  "DIPP10018": {
+    "dippNumber": "DIPP10018",
+    "entityName": "SIGMA STEEL",
+    "recognitionDate": "17/09/2014",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Metals"
+  },
+  "DIPP10019": {
+    "dippNumber": "DIPP10019",
+    "entityName": "TAU PLASTICS",
+    "recognitionDate": "24/10/2018",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Plastics"
+  },
+  "DIPP10020": {
+    "dippNumber": "DIPP10020",
+    "entityName": "UPSILON PHARMA",
+    "recognitionDate": "02/11/2017",
+    "status": "ACTIVE",
+    "industry": "Healthcare",
+    "sector": "Pharmaceuticals"
+  },
+  "DIPP10021": {
+    "dippNumber": "DIPP10021",
+    "entityName": "PHI NETWORKS",
+    "recognitionDate": "07/12/2020",
+    "status": "ACTIVE",
+    "industry": "IT Services",
+    "sector": "Networking"
+  },
+  "DIPP10022": {
+    "dippNumber": "DIPP10022",
+    "entityName": "CHI APPARELS",
+    "recognitionDate": "21/01/2022",
+    "status": "ACTIVE",
+    "industry": "Retail",
+    "sector": "Fashion"
+  },
+  "DIPP10023": {
+    "dippNumber": "DIPP10023",
+    "entityName": "PSI HERBALS",
+    "recognitionDate": "28/02/2019",
+    "status": "ACTIVE",
+    "industry": "Healthcare",
+    "sector": "Ayurveda"
+  },
+  "DIPP10024": {
+    "dippNumber": "DIPP10024",
+    "entityName": "OMEGA MEDIA",
+    "recognitionDate": "15/03/2018",
+    "status": "ACTIVE",
+    "industry": "Media",
+    "sector": "Digital Marketing"
+  },
+  "DIPP10025": {
+    "dippNumber": "DIPP10025",
+    "entityName": "AURA INFRASTRUCTURE",
+    "recognitionDate": "11/04/2015",
+    "status": "ACTIVE",
+    "industry": "Construction",
+    "sector": "Real Estate"
+  },
+  "DIPP10026": {
+    "dippNumber": "DIPP10026",
+    "entityName": "BLAZE ENERGY",
+    "recognitionDate": "20/05/2021",
+    "status": "ACTIVE",
+    "industry": "Energy",
+    "sector": "Renewables"
+  },
+  "DIPP10027": {
+    "dippNumber": "DIPP10027",
+    "entityName": "CREST INNOVATIONS",
+    "recognitionDate": "02/06/2020",
+    "status": "ACTIVE",
+    "industry": "Technology",
+    "sector": "Hardware Design"
+  },
+  "DIPP10028": {
+    "dippNumber": "DIPP10028",
+    "entityName": "DART LOGISTICS",
+    "recognitionDate": "06/07/2017",
+    "status": "ACTIVE",
+    "industry": "Transportation",
+    "sector": "E-commerce Delivery"
+  },
+  "DIPP10029": {
+    "dippNumber": "DIPP10029",
+    "entityName": "ECHO SYSTEMS",
+    "recognitionDate": "22/08/2016",
+    "status": "ACTIVE",
+    "industry": "IT Services",
+    "sector": "Acoustics"
+  },
+  "DIPP10030": {
+    "dippNumber": "DIPP10030",
+    "entityName": "FLARE TECHNOLOGIES",
+    "recognitionDate": "25/09/2022",
+    "status": "ACTIVE",
+    "industry": "Technology",
+    "sector": "IoT"
+  },
+  "DIPP10031": {
+    "dippNumber": "DIPP10031",
+    "entityName": "GLOBE PACKAGING",
+    "recognitionDate": "14/10/2019",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Packaging"
+  },
+  "DIPP10032": {
+    "dippNumber": "DIPP10032",
+    "entityName": "HALO HEALTHCARE",
+    "recognitionDate": "08/11/2018",
+    "status": "ACTIVE",
+    "industry": "Healthcare",
+    "sector": "Medical Devices"
+  },
+  "DIPP10033": {
+    "dippNumber": "DIPP10033",
+    "entityName": "ICON TRADERS",
+    "recognitionDate": "17/12/2021",
+    "status": "ACTIVE",
+    "industry": "Retail",
+    "sector": "Electronics"
+  },
+  "DIPP10034": {
+    "dippNumber": "DIPP10034",
+    "entityName": "JADE ENTERPRISES",
+    "recognitionDate": "30/01/2020",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Furniture"
+  },
+  "DIPP10035": {
+    "dippNumber": "DIPP10035",
+    "entityName": "KITE COMMUNICATIONS",
+    "recognitionDate": "13/02/2019",
+    "status": "ACTIVE",
+    "industry": "Telecommunications",
+    "sector": "Broadband"
+  },
+  "DIPP10036": {
+    "dippNumber": "DIPP10036",
+    "entityName": "LUMEN ELECTRICALS",
+    "recognitionDate": "24/03/2017",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Electricals"
+  },
+  "DIPP10037": {
+    "dippNumber": "DIPP10037",
+    "entityName": "METRO BUILDERS",
+    "recognitionDate": "18/04/2018",
+    "status": "ACTIVE",
+    "industry": "Construction",
+    "sector": "Infrastructure"
+  },
+  "DIPP10038": {
+    "dippNumber": "DIPP10038",
+    "entityName": "NOVA CEMENTS",
+    "recognitionDate": "01/05/2016",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Construction Materials"
+  },
+  "DIPP10039": {
+    "dippNumber": "DIPP10039",
+    "entityName": "OASIS TOURISM",
+    "recognitionDate": "12/06/2022",
+    "status": "ACTIVE",
+    "industry": "Hospitality",
+    "sector": "Travel Tech"
+  },
+  "DIPP10040": {
+    "dippNumber": "DIPP10040",
+    "entityName": "PULSE DIAGNOSTICS",
+    "recognitionDate": "21/07/2019",
+    "status": "ACTIVE",
+    "industry": "Healthcare",
+    "sector": "Diagnostics"
+  },
+  "DIPP10041": {
+    "dippNumber": "DIPP10041",
+    "entityName": "QUARTZ CERAMICS",
+    "recognitionDate": "05/08/2015",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Ceramics"
+  },
+  "DIPP10042": {
+    "dippNumber": "DIPP10042",
+    "entityName": "RIPPLE WATER PURIFIERS",
+    "recognitionDate": "17/09/2020",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Water Tech"
+  },
+  "DIPP10043": {
+    "dippNumber": "DIPP10043",
+    "entityName": "SPARK EDUCATION",
+    "recognitionDate": "29/10/2021",
+    "status": "ACTIVE",
+    "industry": "Education",
+    "sector": "EdTech"
+  },
+  "DIPP10044": {
+    "dippNumber": "DIPP10044",
+    "entityName": "TIDE SHIPPING",
+    "recognitionDate": "08/11/2017",
+    "status": "ACTIVE",
+    "industry": "Transportation",
+    "sector": "Maritime"
+  },
+  "DIPP10045": {
+    "dippNumber": "DIPP10045",
+    "entityName": "URBAN LIVING FURNITURE",
+    "recognitionDate": "20/12/2019",
+    "status": "ACTIVE",
+    "industry": "Retail",
+    "sector": "E-commerce"
+  },
+  "DIPP10046": {
+    "dippNumber": "DIPP10046",
+    "entityName": "VANGUARD SECURITY",
+    "recognitionDate": "02/01/2018",
+    "status": "ACTIVE",
+    "industry": "Services",
+    "sector": "Security Services"
+  },
+  "DIPP10047": {
+    "dippNumber": "DIPP10047",
+    "entityName": "WAVE BROADBAND",
+    "recognitionDate": "11/02/2016",
+    "status": "ACTIVE",
+    "industry": "Telecommunications",
+    "sector": "ISP"
+  },
+  "DIPP10048": {
+    "dippNumber": "DIPP10048",
+    "entityName": "XYLEM PIPES",
+    "recognitionDate": "24/03/2021",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Plastics"
+  },
+  "DIPP10049": {
+    "dippNumber": "DIPP10049",
+    "entityName": "YOGA NATURALS",
+    "recognitionDate": "15/04/2020",
+    "status": "ACTIVE",
+    "industry": "FMCG",
+    "sector": "Wellness"
+  },
+  "DIPP10050": {
+    "dippNumber": "DIPP10050",
+    "entityName": "ZENITH APPARELS",
+    "recognitionDate": "19/05/2017",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Apparel"
+  },
+  "DIPP10051": {
+    "dippNumber": "DIPP10051",
+    "entityName": "AEON ELECTRONICS",
+    "recognitionDate": "28/06/2015",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Electronics"
+  },
+  "DIPP10052": {
+    "dippNumber": "DIPP10052",
+    "entityName": "BARIUM CHEMICALS",
+    "recognitionDate": "07/07/2019",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Chemicals"
+  },
+  "DIPP10053": {
+    "dippNumber": "DIPP10053",
+    "entityName": "CHRONO WATCHES",
+    "recognitionDate": "22/08/2022",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Accessories"
+  },
+  "DIPP10054": {
+    "dippNumber": "DIPP10054",
+    "entityName": "DUNE TEXTILES",
+    "recognitionDate": "01/09/2018",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Textiles"
+  },
+  "DIPP10055": {
+    "dippNumber": "DIPP10055",
+    "entityName": "ENIGMA SOFTWARE",
+    "recognitionDate": "10/10/2016",
+    "status": "ACTIVE",
+    "industry": "IT Services",
+    "sector": "Game Development"
+  },
+  "DIPP10056": {
+    "dippNumber": "DIPP10056",
+    "entityName": "FORGE METALS",
+    "recognitionDate": "16/11/2020",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Metals"
+  },
+  "DIPP10057": {
+    "dippNumber": "DIPP10057",
+    "entityName": "GRAVITY SPORTS",
+    "recognitionDate": "25/12/2021",
+    "status": "ACTIVE",
+    "industry": "Retail",
+    "sector": "Sports Goods"
+  },
+  "DIPP10058": {
+    "dippNumber": "DIPP10058",
+    "entityName": "HAVEN REALTY",
+    "recognitionDate": "04/01/2017",
+    "status": "ACTIVE",
+    "industry": "Real Estate",
+    "sector": "PropTech"
+  },
+  "DIPP10059": {
+    "dippNumber": "DIPP10059",
+    "entityName": "IGNITE ENGINES",
+    "recognitionDate": "14/02/2015",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Automotive Parts"
+  },
+  "DIPP10060": {
+    "dippNumber": "DIPP10060",
+    "entityName": "JOULE BATTERIES",
+    "recognitionDate": "22/03/2019",
+    "status": "ACTIVE",
+    "industry": "Energy",
+    "sector": "Battery Tech"
+  },
+  "DIPP10061": {
+    "dippNumber": "DIPP10061",
+    "entityName": "KINETIC MOTORS",
+    "recognitionDate": "29/04/2022",
+    "status": "ACTIVE",
+    "industry": "Automotive",
+    "sector": "EV Manufacturing"
+  },
+  "DIPP10062": {
+    "dippNumber": "DIPP10062",
+    "entityName": "LYNX CYCLES",
+    "recognitionDate": "08/05/2018",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Bicycles"
+  },
+  "DIPP10063": {
+    "dippNumber": "DIPP10063",
+    "entityName": "MIRAGE STUDIOS",
+    "recognitionDate": "17/06/2016",
+    "status": "ACTIVE",
+    "industry": "Media",
+    "sector": "Animation"
+  },
+  "DIPP10064": {
+    "dippNumber": "DIPP10064",
+    "entityName": "NEBULA AEROSPACE",
+    "recognitionDate": "25/07/2020",
+    "status": "ACTIVE",
+    "industry": "Aviation",
+    "sector": "Drone Tech"
+  },
+  "DIPP10065": {
+    "dippNumber": "DIPP10065",
+    "entityName": "OPAL JEWELERS",
+    "recognitionDate": "02/08/2021",
+    "status": "ACTIVE",
+    "industry": "Retail",
+    "sector": "Jewelry"
+  },
+  "DIPP10066": {
+    "dippNumber": "DIPP10066",
+    "entityName": "PRISM OPTICALS",
+    "recognitionDate": "12/09/2017",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Eyewear"
+  },
+  "DIPP10067": {
+    "dippNumber": "DIPP10067",
+    "entityName": "QUANTUM COMPUTING",
+    "recognitionDate": "21/10/2014",
+    "status": "ACTIVE",
+    "industry": "Technology",
+    "sector": "DeepTech"
+  },
+  "DIPP10068": {
+    "dippNumber": "DIPP10068",
+    "entityName": "RADIAN SOLAR",
+    "recognitionDate": "30/11/2019",
+    "status": "ACTIVE",
+    "industry": "Energy",
+    "sector": "Solar Tech"
+  },
+  "DIPP10069": {
+    "dippNumber": "DIPP10069",
+    "entityName": "STELLAR AVIATION",
+    "recognitionDate": "09/12/2022",
+    "status": "ACTIVE",
+    "industry": "Services",
+    "sector": "Aviation"
+  },
+  "DIPP10070": {
+    "dippNumber": "DIPP10070",
+    "entityName": "TITAN CONSTRUCTION",
+    "recognitionDate": "18/01/2018",
+    "status": "ACTIVE",
+    "industry": "Construction",
+    "sector": "Infrastructure"
+  },
+  "DIPP10071": {
+    "dippNumber": "DIPP10071",
+    "entityName": "ULTRA FOODS",
+    "recognitionDate": "26/02/2015",
+    "status": "ACTIVE",
+    "industry": "FMCG",
+    "sector": "Food Processing"
+  },
+  "DIPP10072": {
+    "dippNumber": "DIPP10072",
+    "entityName": "VERTEX POLYMERS",
+    "recognitionDate": "07/03/2020",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Plastics"
+  },
+  "DIPP10073": {
+    "dippNumber": "DIPP10073",
+    "entityName": "WIZARD TOYS",
+    "recognitionDate": "16/04/2021",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Toys"
+  },
+  "DIPP10074": {
+    "dippNumber": "DIPP10074",
+    "entityName": "XENON LIGHTING",
+    "recognitionDate": "25/05/2017",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Electronics"
+  },
+  "DIPP10075": {
+    "dippNumber": "DIPP10075",
+    "entityName": "YARD MARINE",
+    "recognitionDate": "04/06/2016",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Marine Equipment"
+  },
+  "DIPP10076": {
+    "dippNumber": "DIPP10076",
+    "entityName": "ZEPHYR AIRWAYS",
+    "recognitionDate": "13/07/2019",
+    "status": "ACTIVE",
+    "industry": "Transportation",
+    "sector": "Aviation"
+  },
+  "DIPP10077": {
+    "dippNumber": "DIPP10077",
+    "entityName": "APEX CERAMICS",
+    "recognitionDate": "22/08/2022",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Ceramics"
+  },
+  "DIPP10078": {
+    "dippNumber": "DIPP10078",
+    "entityName": "BOLD FITNESS",
+    "recognitionDate": "01/09/2018",
+    "status": "ACTIVE",
+    "industry": "Services",
+    "sector": "Health & Fitness"
+  },
+  "DIPP10079": {
+    "dippNumber": "DIPP10079",
+    "entityName": "CORE INSTRUMENTS",
+    "recognitionDate": "10/10/2015",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Scientific Instruments"
+  },
+  "DIPP10080": {
+    "dippNumber": "DIPP10080",
+    "entityName": "DIVE AQUATICS",
+    "recognitionDate": "18/11/2020",
+    "status": "ACTIVE",
+    "industry": "Services",
+    "sector": "Sports"
+  },
+  "DIPP10081": {
+    "dippNumber": "DIPP10081",
+    "entityName": "EDGE CUTLERY",
+    "recognitionDate": "27/12/2021",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Consumer Goods"
+  },
+  "DIPP10082": {
+    "dippNumber": "DIPP10082",
+    "entityName": "FLINT MATCHES",
+    "recognitionDate": "06/01/2017",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Consumer Goods"
+  },
+  "DIPP10083": {
+    "dippNumber": "DIPP10083",
+    "entityName": "GLOW COSMETICS",
+    "recognitionDate": "14/02/2016",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Cosmetics"
+  },
+  "DIPP10084": {
+    "dippNumber": "DIPP10084",
+    "entityName": "HIVE HONEY",
+    "recognitionDate": "23/03/2019",
+    "status": "ACTIVE",
+    "industry": "Agriculture",
+    "sector": "Food Products"
+  },
+  "DIPP10085": {
+    "dippNumber": "DIPP10085",
+    "entityName": "IRON FOUNDRY",
+    "recognitionDate": "02/04/2022",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Metals"
+  },
+  "DIPP10086": {
+    "dippNumber": "DIPP10086",
+    "entityName": "JUMP APPAREL",
+    "recognitionDate": "11/05/2018",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Apparel"
+  },
+  "DIPP10087": {
+    "dippNumber": "DIPP10087",
+    "entityName": "KILN BRICKS",
+    "recognitionDate": "19/06/2015",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Construction Materials"
+  },
+  "DIPP10088": {
+    "dippNumber": "DIPP10088",
+    "entityName": "LOOP RECORDINGS",
+    "recognitionDate": "28/07/2020",
+    "status": "ACTIVE",
+    "industry": "Media",
+    "sector": "Entertainment"
+  },
+  "DIPP10089": {
+    "dippNumber": "DIPP10089",
+    "entityName": "MINT FINANCE",
+    "recognitionDate": "06/08/2021",
+    "status": "ACTIVE",
+    "industry": "Finance",
+    "sector": "FinTech"
+  },
+  "DIPP10090": {
+    "dippNumber": "DIPP10090",
+    "entityName": "NEXUS ROBOTICS",
+    "recognitionDate": "15/09/2017",
+    "status": "ACTIVE",
+    "industry": "Technology",
+    "sector": "Robotics"
+  },
+  "DIPP10091": {
+    "dippNumber": "DIPP10091",
+    "entityName": "ORION TELESCOPES",
+    "recognitionDate": "23/10/2016",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Optical Instruments"
+  },
+  "DIPP10092": {
+    "dippNumber": "DIPP10092",
+    "entityName": "PINE TIMBER",
+    "recognitionDate": "02/11/2019",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Wood Products"
+  },
+  "DIPP10093": {
+    "dippNumber": "DIPP10093",
+    "entityName": "QUEST ADVENTURES",
+    "recognitionDate": "10/12/2022",
+    "status": "ACTIVE",
+    "industry": "Hospitality",
+    "sector": "Tourism"
+  },
+  "DIPP10094": {
+    "dippNumber": "DIPP10094",
+    "entityName": "ROOF TILES CO",
+    "recognitionDate": "19/01/2018",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Construction Materials"
+  },
+  "DIPP10095": {
+    "dippNumber": "DIPP10095",
+    "entityName": "SILK WEAVERS",
+    "recognitionDate": "27/02/2015",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Textiles"
+  },
+  "DIPP10096": {
+    "dippNumber": "DIPP10096",
+    "entityName": "TRACTOR PARTS INC",
+    "recognitionDate": "06/03/2020",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Automotive Parts"
+  },
+  "DIPP10097": {
+    "dippNumber": "DIPP10097",
+    "entityName": "UNITY LOGISTICS",
+    "recognitionDate": "15/04/2021",
+    "status": "ACTIVE",
+    "industry": "Transportation",
+    "sector": "Logistics"
+  },
+  "DIPP10098": {
+    "dippNumber": "DIPP10098",
+    "entityName": "VAULT SAFES",
+    "recognitionDate": "23/05/2017",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Security Products"
+  },
+  "DIPP10099": {
+    "dippNumber": "DIPP10099",
+    "entityName": "WIRE CABLES",
+    "recognitionDate": "01/06/2016",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Electricals"
+  },
+  "DIPP10100": {
+    "dippNumber": "DIPP10100",
+    "entityName": "XRAY IMAGING",
+    "recognitionDate": "09/07/2019",
+    "status": "ACTIVE",
+    "industry": "Healthcare",
+    "sector": "Medical Devices"
+  },
+  "DIPP10101": {
+    "dippNumber": "DIPP10101",
+    "entityName": "YACHT BUILDERS",
+    "recognitionDate": "18/08/2022",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Marine Equipment"
+  },
+  "DIPP10102": {
+    "dippNumber": "DIPP10102",
+    "entityName": "ZINC REFINERIES",
+    "recognitionDate": "27/09/2018",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Metals"
+  },
+  "DIPP10103": {
+    "dippNumber": "DIPP10103",
+    "entityName": "ARROW LOGISTICS",
+    "recognitionDate": "05/10/2015",
+    "status": "ACTIVE",
+    "industry": "Transportation",
+    "sector": "Logistics"
+  },
+  "DIPP10104": {
+    "dippNumber": "DIPP10104",
+    "entityName": "BEACON PUBLISHING",
+    "recognitionDate": "14/11/2020",
+    "status": "ACTIVE",
+    "industry": "Media",
+    "sector": "Publishing"
+  },
+  "DIPP10105": {
+    "dippNumber": "DIPP10105",
+    "entityName": "CROWN JEWELS",
+    "recognitionDate": "24/12/2021",
+    "status": "ACTIVE",
+    "industry": "Retail",
+    "sector": "Jewelry"
+  },
+  "DIPP10106": {
+    "dippNumber": "DIPP10106",
+    "entityName": "DAWN CHEMICALS",
+    "recognitionDate": "02/01/2017",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Chemicals"
+  },
+  "DIPP10107": {
+    "dippNumber": "DIPP10107",
+    "entityName": "ELITE FURNISHINGS",
+    "recognitionDate": "11/02/2016",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Furniture"
+  },
+  "DIPP10108": {
+    "dippNumber": "DIPP10108",
+    "entityName": "FALCON DRONES",
+    "recognitionDate": "20/03/2019",
+    "status": "ACTIVE",
+    "industry": "Aviation",
+    "sector": "Drone Tech"
+  },
+  "DIPP10109": {
+    "dippNumber": "DIPP10109",
+    "entityName": "GEMINI SOFTWARE",
+    "recognitionDate": "29/04/2022",
+    "status": "ACTIVE",
+    "industry": "IT Services",
+    "sector": "SaaS"
+  },
+  "DIPP10110": {
+    "dippNumber": "DIPP10110",
+    "entityName": "HERITAGE ARTS",
+    "recognitionDate": "07/05/2018",
+    "status": "ACTIVE",
+    "industry": "Retail",
+    "sector": "Handicrafts"
+  },
+  "DIPP10111": {
+    "dippNumber": "DIPP10111",
+    "entityName": "INFINITY NETWORKS",
+    "recognitionDate": "16/06/2015",
+    "status": "ACTIVE",
+    "industry": "Telecommunications",
+    "sector": "Networking"
+  },
+  "DIPP10112": {
+    "dippNumber": "DIPP10112",
+    "entityName": "JAZZ MUSIC ACADEMY",
+    "recognitionDate": "25/07/2020",
+    "status": "ACTIVE",
+    "industry": "Education",
+    "sector": "EdTech"
+  },
+  "DIPP10113": {
+    "dippNumber": "DIPP10113",
+    "entityName": "KNIGHT SECURITY",
+    "recognitionDate": "04/08/2021",
+    "status": "ACTIVE",
+    "industry": "Services",
+    "sector": "Security Services"
+  },
+  "DIPP10114": {
+    "dippNumber": "DIPP10114",
+    "entityName": "LIONHEART FITNESS",
+    "recognitionDate": "13/09/2017",
+    "status": "ACTIVE",
+    "industry": "Services",
+    "sector": "Health & Fitness"
+  },
+  "DIPP10115": {
+    "dippNumber": "DIPP10115",
+    "entityName": "MYSTIC TOURS",
+    "recognitionDate": "22/10/2016",
+    "status": "ACTIVE",
+    "industry": "Hospitality",
+    "sector": "Tourism"
+  },
+  "DIPP10116": {
+    "dippNumber": "DIPP10116",
+    "entityName": "NANO CHIPS",
+    "recognitionDate": "31/10/2019",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Semiconductors"
+  },
+  "DIPP10117": {
+    "dippNumber": "DIPP10117",
+    "entityName": "OAK FURNITURE",
+    "recognitionDate": "09/11/2022",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Furniture"
+  },
+  "DIPP10118": {
+    "dippNumber": "DIPP10118",
+    "entityName": "PIONEER BUILDERS",
+    "recognitionDate": "18/12/2018",
+    "status": "ACTIVE",
+    "industry": "Construction",
+    "sector": "Infrastructure"
+  },
+  "DIPP10119": {
+    "dippNumber": "DIPP10119",
+    "entityName": "QUANTUM LOGISTICS",
+    "recognitionDate": "27/01/2015",
+    "status": "ACTIVE",
+    "industry": "Transportation",
+    "sector": "Logistics"
+  },
+  "DIPP10120": {
+    "dippNumber": "DIPP10120",
+    "entityName": "RUBY GEMS",
+    "recognitionDate": "07/02/2020",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Jewelry"
+  },
+  "DIPP10121": {
+    "dippNumber": "DIPP10121",
+    "entityName": "SOLARIS ENERGY",
+    "recognitionDate": "16/03/2021",
+    "status": "ACTIVE",
+    "industry": "Energy",
+    "sector": "Solar Tech"
+  },
+  "DIPP10122": {
+    "dippNumber": "DIPP10122",
+    "entityName": "TRIUMPH MOTORS",
+    "recognitionDate": "25/04/2017",
+    "status": "ACTIVE",
+    "industry": "Automotive",
+    "sector": "EV Manufacturing"
+  },
+  "DIPP10123": {
+    "dippNumber": "DIPP10123",
+    "entityName": "UMBRA DESIGNS",
+    "recognitionDate": "04/05/2016",
+    "status": "ACTIVE",
+    "industry": "Services",
+    "sector": "Interior Design"
+  },
+  "DIPP10124": {
+    "dippNumber": "DIPP10124",
+    "entityName": "VELOCITY COURIERS",
+    "recognitionDate": "13/06/2019",
+    "status": "ACTIVE",
+    "industry": "Transportation",
+    "sector": "Logistics"
+  },
+  "DIPP10125": {
+    "dippNumber": "DIPP10125",
+    "entityName": "WILLOW CRAFTS",
+    "recognitionDate": "22/07/2022",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Handicrafts"
+  },
+  "DIPP10126": {
+    "dippNumber": "DIPP10126",
+    "entityName": "XYLO WOODWORKS",
+    "recognitionDate": "31/08/2018",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Furniture"
+  },
+  "DIPP10127": {
+    "dippNumber": "DIPP10127",
+    "entityName": "YEN TRADERS",
+    "recognitionDate": "09/09/2015",
+    "status": "ACTIVE",
+    "industry": "Retail",
+    "sector": "Consumer Goods"
+  },
+  "DIPP10128": {
+    "dippNumber": "DIPP10128",
+    "entityName": "ZENITH SOFTWARE",
+    "recognitionDate": "18/10/2020",
+    "status": "ACTIVE",
+    "industry": "IT Services",
+    "sector": "Enterprise Software"
+  },
+  "DIPP10129": {
+    "dippNumber": "DIPP10129",
+    "entityName": "ABSOLUTE FITNESS",
+    "recognitionDate": "27/11/2021",
+    "status": "ACTIVE",
+    "industry": "Services",
+    "sector": "Health & Fitness"
+  },
+  "DIPP10130": {
+    "dippNumber": "DIPP10130",
+    "entityName": "BANYAN TREE HOSPITALITY",
+    "recognitionDate": "06/01/2017",
+    "status": "ACTIVE",
+    "industry": "Hospitality",
+    "sector": "Hotels"
+  },
+  "DIPP10131": {
+    "dippNumber": "DIPP10131",
+    "entityName": "COSMIC TECHNOLOGIES",
+    "recognitionDate": "15/02/2016",
+    "status": "ACTIVE",
+    "industry": "Technology",
+    "sector": "Hardware"
+  },
+  "DIPP10132": {
+    "dippNumber": "DIPP10132",
+    "entityName": "DYNAMIC ENGINEERING",
+    "recognitionDate": "24/03/2019",
+    "status": "ACTIVE",
+    "industry": "Engineering",
+    "sector": "Mechanical"
+  },
+  "DIPP10133": {
+    "dippNumber": "DIPP10133",
+    "entityName": "ELEMENTAL DESIGNS",
+    "recognitionDate": "03/05/2022",
+    "status": "ACTIVE",
+    "industry": "Services",
+    "sector": "Architecture"
+  },
+  "DIPP10134": {
+    "dippNumber": "DIPP10134",
+    "entityName": "FUSION PLASTICS",
+    "recognitionDate": "12/06/2018",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Plastics"
+  },
+  "DIPP10135": {
+    "dippNumber": "DIPP10135",
+    "entityName": "GENESIS HEALTHCARE",
+    "recognitionDate": "21/07/2015",
+    "status": "ACTIVE",
+    "industry": "Healthcare",
+    "sector": "Hospitals"
+  },
+  "DIPP10136": {
+    "dippNumber": "DIPP10136",
+    "entityName": "HORIZON EXPORTS",
+    "recognitionDate": "30/08/2020",
+    "status": "ACTIVE",
+    "industry": "Wholesale",
+    "sector": "Exports"
+  },
+  "DIPP10137": {
+    "dippNumber": "DIPP10137",
+    "entityName": "ILLUSION MEDIA",
+    "recognitionDate": "08/10/2021",
+    "status": "ACTIVE",
+    "industry": "Media",
+    "sector": "Digital Content"
+  },
+  "DIPP10138": {
+    "dippNumber": "DIPP10138",
+    "entityName": "JUPITER STEEL",
+    "recognitionDate": "17/11/2017",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Metals"
+  },
+  "DIPP10139": {
+    "dippNumber": "DIPP10139",
+    "entityName": "KRYPTON CHEMICALS",
+    "recognitionDate": "26/12/2016",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Chemicals"
+  },
+  "DIPP10140": {
+    "dippNumber": "DIPP10140",
+    "entityName": "LUNAR LOGISTICS",
+    "recognitionDate": "05/02/2019",
+    "status": "ACTIVE",
+    "industry": "Transportation",
+    "sector": "Logistics"
+  },
+  "DIPP10141": {
+    "dippNumber": "DIPP10141",
+    "entityName": "MATRIX SOLUTIONS",
+    "recognitionDate": "14/03/2022",
+    "status": "ACTIVE",
+    "industry": "IT Services",
+    "sector": "Consulting"
+  },
+  "DIPP10142": {
+    "dippNumber": "DIPP10142",
+    "entityName": "NOVA ENTERPRISES",
+    "recognitionDate": "23/04/2018",
+    "status": "ACTIVE",
+    "industry": "Retail",
+    "sector": "Consumer Goods"
+  },
+  "DIPP10143": {
+    "dippNumber": "DIPP10143",
+    "entityName": "ORACLE FINANCIALS",
+    "recognitionDate": "02/06/2015",
+    "status": "ACTIVE",
+    "industry": "Finance",
+    "sector": "FinTech"
+  },
+  "DIPP10144": {
+    "dippNumber": "DIPP10144",
+    "entityName": "PULSAR ELECTRONICS",
+    "recognitionDate": "11/07/2020",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Electronics"
+  },
+  "DIPP10145": {
+    "dippNumber": "DIPP10145",
+    "entityName": "QASAR CONSULTING",
+    "recognitionDate": "20/08/2021",
+    "status": "ACTIVE",
+    "industry": "Services",
+    "sector": "Management Consulting"
+  },
+  "DIPP10146": {
+    "dippNumber": "DIPP10146",
+    "entityName": "RADIUS NETWORKS",
+    "recognitionDate": "29/09/2017",
+    "status": "ACTIVE",
+    "industry": "Telecommunications",
+    "sector": "Networking"
+  },
+  "DIPP10147": {
+    "dippNumber": "DIPP10147",
+    "entityName": "SPECTRA PAINTS",
+    "recognitionDate": "08/11/2016",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Chemicals"
+  },
+  "DIPP10148": {
+    "dippNumber": "DIPP10148",
+    "entityName": "TITANIUM METALS",
+    "recognitionDate": "17/12/2019",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Metals"
+  },
+  "DIPP10149": {
+    "dippNumber": "DIPP10149",
+    "entityName": "URBAN ARCHITECTS",
+    "recognitionDate": "25/01/2022",
+    "status": "ACTIVE",
+    "industry": "Services",
+    "sector": "Architecture"
+  },
+  "DIPP10150": {
+    "dippNumber": "DIPP10150",
+    "entityName": "VERTEX HARDWARE",
+    "recognitionDate": "05/03/2018",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Hardware"
+  },
+  "DIPP10151": {
+    "dippNumber": "DIPP10151",
+    "entityName": "WINDMILL ENERGIES",
+    "recognitionDate": "14/04/2015",
+    "status": "ACTIVE",
+    "industry": "Energy",
+    "sector": "Renewables"
+  },
+  "DIPP10152": {
+    "dippNumber": "DIPP10152",
+    "entityName": "XYLON FURNITURE",
+    "recognitionDate": "23/05/2020",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Furniture"
+  },
+  "DIPP10153": {
+    "dippNumber": "DIPP10153",
+    "entityName": "YELLOW CAB CO",
+    "recognitionDate": "02/07/2021",
+    "status": "ACTIVE",
+    "industry": "Transportation",
+    "sector": "Mobility"
+  },
+  "DIPP10154": {
+    "dippNumber": "DIPP10154",
+    "entityName": "ZETA PHARMACEUTICALS",
+    "recognitionDate": "11/08/2017",
+    "status": "ACTIVE",
+    "industry": "Healthcare",
+    "sector": "Pharmaceuticals"
+  },
+  "DIPP10155": {
+    "dippNumber": "DIPP10155",
+    "entityName": "AERO DYNAMICS",
+    "recognitionDate": "20/09/2016",
+    "status": "ACTIVE",
+    "industry": "Aviation",
+    "sector": "Aerospace Tech"
+  },
+  "DIPP10156": {
+    "dippNumber": "DIPP10156",
+    "entityName": "BLISS SPAS",
+    "recognitionDate": "29/10/2019",
+    "status": "ACTIVE",
+    "industry": "Services",
+    "sector": "Wellness"
+  },
+  "DIPP10157": {
+    "dippNumber": "DIPP10157",
+    "entityName": "COBALT MINING",
+    "recognitionDate": "07/12/2022",
+    "status": "ACTIVE",
+    "industry": "Mining",
+    "sector": "Minerals"
+  },
+  "DIPP10158": {
+    "dippNumber": "DIPP10158",
+    "entityName": "DEX LOGISTICS",
+    "recognitionDate": "16/01/2018",
+    "status": "ACTIVE",
+    "industry": "Transportation",
+    "sector": "Logistics"
+  },
+  "DIPP10159": {
+    "dippNumber": "DIPP10159",
+    "entityName": "EAGLE EYE SECURITY",
+    "recognitionDate": "25/02/2015",
+    "status": "ACTIVE",
+    "industry": "Services",
+    "sector": "Security Services"
+  },
+  "DIPP10160": {
+    "dippNumber": "DIPP10160",
+    "entityName": "FROST REFRIGERATION",
+    "recognitionDate": "04/04/2020",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Consumer Electronics"
+  },
+  "DIPP10161": {
+    "dippNumber": "DIPP10161",
+    "entityName": "GALAXY TOURS",
+    "recognitionDate": "13/05/2021",
+    "status": "ACTIVE",
+    "industry": "Hospitality",
+    "sector": "Tourism"
+  },
+  "DIPP10162": {
+    "dippNumber": "DIPP10162",
+    "entityName": "HARMONY MUSIC",
+    "recognitionDate": "22/06/2017",
+    "status": "ACTIVE",
+    "industry": "Media",
+    "sector": "Entertainment"
+  },
+  "DIPP10163": {
+    "dippNumber": "DIPP10163",
+    "entityName": "INDIGO TEXTILES",
+    "recognitionDate": "31/07/2016",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Textiles"
+  },
+  "DIPP10164": {
+    "dippNumber": "DIPP10164",
+    "entityName": "JADE LOGISTICS",
+    "recognitionDate": "09/09/2019",
+    "status": "ACTIVE",
+    "industry": "Transportation",
+    "sector": "Logistics"
+  },
+  "DIPP10165": {
+    "dippNumber": "DIPP10165",
+    "entityName": "KINETIC ENERGY",
+    "recognitionDate": "18/10/2022",
+    "status": "ACTIVE",
+    "industry": "Energy",
+    "sector": "Renewables"
+  },
+  "DIPP10166": {
+    "dippNumber": "DIPP10166",
+    "entityName": "LUMINOUS LIGHTING",
+    "recognitionDate": "27/11/2018",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Electricals"
+  },
+  "DIPP10167": {
+    "dippNumber": "DIPP10167",
+    "entityName": "MAGMA METALS",
+    "recognitionDate": "05/01/2016",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Metals"
+  },
+  "DIPP10168": {
+    "dippNumber": "DIPP10168",
+    "entityName": "NECTAR FOODS",
+    "recognitionDate": "14/02/2020",
+    "status": "ACTIVE",
+    "industry": "FMCG",
+    "sector": "Food Products"
+  },
+  "DIPP10169": {
+    "dippNumber": "DIPP10169",
+    "entityName": "OBSIDIAN GLASS",
+    "recognitionDate": "25/03/2021",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Construction Materials"
+  },
+  "DIPP10170": {
+    "dippNumber": "DIPP10170",
+    "entityName": "PEGASUS TRAVELS",
+    "recognitionDate": "04/05/2017",
+    "status": "ACTIVE",
+    "industry": "Hospitality",
+    "sector": "Tourism"
+  },
+  "DIPP10171": {
+    "dippNumber": "DIPP10171",
+    "entityName": "QUARTZ WATCHES",
+    "recognitionDate": "13/06/2016",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Accessories"
+  },
+  "DIPP10172": {
+    "dippNumber": "DIPP10172",
+    "entityName": "RADAR SYSTEMS",
+    "recognitionDate": "22/07/2019",
+    "status": "ACTIVE",
+    "industry": "Technology",
+    "sector": "Defense Tech"
+  },
+  "DIPP10173": {
+    "dippNumber": "DIPP10173",
+    "entityName": "SYNAPSE BIOTECH",
+    "recognitionDate": "31/08/2022",
+    "status": "ACTIVE",
+    "industry": "Healthcare",
+    "sector": "Biotech"
+  },
+  "DIPP10174": {
+    "dippNumber": "DIPP10174",
+    "entityName": "TORNADO FANS",
+    "recognitionDate": "09/10/2018",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Consumer Electronics"
+  },
+  "DIPP10175": {
+    "dippNumber": "DIPP10175",
+    "entityName": "ULTIMATE LOGISTICS",
+    "recognitionDate": "18/11/2015",
+    "status": "ACTIVE",
+    "industry": "Transportation",
+    "sector": "Logistics"
+  },
+  "DIPP10176": {
+    "dippNumber": "DIPP10176",
+    "entityName": "VORTEX PUMPS",
+    "recognitionDate": "27/12/2020",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Industrial Machinery"
+  },
+  "DIPP10177": {
+    "dippNumber": "DIPP10177",
+    "entityName": "WOLF PACKAGING",
+    "recognitionDate": "05/02/2021",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Packaging"
+  },
+  "DIPP10178": {
+    "dippNumber": "DIPP10178",
+    "entityName": "XENITH HOSPITALITY",
+    "recognitionDate": "16/03/2017",
+    "status": "ACTIVE",
+    "industry": "Hospitality",
+    "sector": "Hotels"
+  },
+  "DIPP10179": {
+    "dippNumber": "DIPP10179",
+    "entityName": "YACHT CLUB",
+    "recognitionDate": "25/04/2016",
+    "status": "ACTIVE",
+    "industry": "Hospitality",
+    "sector": "Recreation"
+  },
+  "DIPP10180": {
+    "dippNumber": "DIPP10180",
+    "entityName": "ZENITH EDUCATION",
+    "recognitionDate": "04/06/2019",
+    "status": "ACTIVE",
+    "industry": "Education",
+    "sector": "EdTech"
+  },
+  "DIPP10181": {
+    "dippNumber": "DIPP10181",
+    "entityName": "AEON TEXTILES",
+    "recognitionDate": "13/07/2022",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Textiles"
+  },
+  "DIPP10182": {
+    "dippNumber": "DIPP10182",
+    "entityName": "BARIUM SOFTWARE",
+    "recognitionDate": "22/08/2018",
+    "status": "ACTIVE",
+    "industry": "IT Services",
+    "sector": "Software Services"
+  },
+  "DIPP10183": {
+    "dippNumber": "DIPP10183",
+    "entityName": "CHRONO LOGISTICS",
+    "recognitionDate": "01/10/2015",
+    "status": "ACTIVE",
+    "industry": "Transportation",
+    "sector": "Logistics"
+  },
+  "DIPP10184": {
+    "dippNumber": "DIPP10184",
+    "entityName": "DUNE AUTOMOTIVE",
+    "recognitionDate": "10/11/2020",
+    "status": "ACTIVE",
+    "industry": "Automotive",
+    "sector": "Auto Parts"
+  },
+  "DIPP10185": {
+    "dippNumber": "DIPP10185",
+    "entityName": "ENIGMA ENTERPRISES",
+    "recognitionDate": "19/12/2021",
+    "status": "ACTIVE",
+    "industry": "Retail",
+    "sector": "Consumer Goods"
+  },
+  "DIPP10186": {
+    "dippNumber": "DIPP10186",
+    "entityName": "FORGE SOLUTIONS",
+    "recognitionDate": "28/01/2018",
+    "status": "ACTIVE",
+    "industry": "IT Services",
+    "sector": "Consulting"
+  },
+  "DIPP10187": {
+    "dippNumber": "DIPP10187",
+    "entityName": "GRAVITY MINING",
+    "recognitionDate": "09/03/2016",
+    "status": "ACTIVE",
+    "industry": "Mining",
+    "sector": "Minerals"
+  },
+  "DIPP10188": {
+    "dippNumber": "DIPP10188",
+    "entityName": "HAVEN MEDIA",
+    "recognitionDate": "18/04/2019",
+    "status": "ACTIVE",
+    "industry": "Media",
+    "sector": "Advertising"
+  },
+  "DIPP10189": {
+    "dippNumber": "DIPP10189",
+    "entityName": "IGNITE TRADING",
+    "recognitionDate": "27/05/2022",
+    "status": "ACTIVE",
+    "industry": "Wholesale",
+    "sector": "Trading"
+  },
+  "DIPP10190": {
+    "dippNumber": "DIPP10190",
+    "entityName": "JOULE CONSULTING",
+    "recognitionDate": "05/07/2018",
+    "status": "ACTIVE",
+    "industry": "Services",
+    "sector": "Management Consulting"
+  },
+  "DIPP10191": {
+    "dippNumber": "DIPP10191",
+    "entityName": "KINETIC TECHNOLOGIES",
+    "recognitionDate": "14/08/2015",
+    "status": "ACTIVE",
+    "industry": "Technology",
+    "sector": "Hardware"
+  },
+  "DIPP10192": {
+    "dippNumber": "DIPP10192",
+    "entityName": "LYNX PRODUCTIONS",
+    "recognitionDate": "23/09/2020",
+    "status": "ACTIVE",
+    "industry": "Media",
+    "sector": "Film Production"
+  },
+  "DIPP10193": {
+    "dippNumber": "DIPP10193",
+    "entityName": "MIRAGE EVENTS",
+    "recognitionDate": "02/11/2021",
+    "status": "ACTIVE",
+    "industry": "Services",
+    "sector": "Event Management"
+  },
+  "DIPP10194": {
+    "dippNumber": "DIPP10194",
+    "entityName": "NEBULA COURIERS",
+    "recognitionDate": "11/12/2017",
+    "status": "ACTIVE",
+    "industry": "Transportation",
+    "sector": "Logistics"
+  },
+  "DIPP10195": {
+    "dippNumber": "DIPP10195",
+    "entityName": "OPAL HEALTHCARE",
+    "recognitionDate": "19/01/2016",
+    "status": "ACTIVE",
+    "industry": "Healthcare",
+    "sector": "Hospitals"
+  },
+  "DIPP10196": {
+    "dippNumber": "DIPP10196",
+    "entityName": "PRISM PACKAGING",
+    "recognitionDate": "28/02/2019",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Packaging"
+  },
+  "DIPP10197": {
+    "dippNumber": "DIPP10197",
+    "entityName": "QUANTUM FITNESS",
+    "recognitionDate": "09/04/2022",
+    "status": "ACTIVE",
+    "industry": "Services",
+    "sector": "Health & Fitness"
+  },
+  "DIPP10198": {
+    "dippNumber": "DIPP10198",
+    "entityName": "RADIAN TOURS",
+    "recognitionDate": "18/05/2018",
+    "status": "ACTIVE",
+    "industry": "Hospitality",
+    "sector": "Tourism"
+  },
+  "DIPP10199": {
+    "dippNumber": "DIPP10199",
+    "entityName": "STELLAR SPORTS",
+    "recognitionDate": "27/06/2015",
+    "status": "ACTIVE",
+    "industry": "Manufacturing",
+    "sector": "Sports Equipment"
+  },
+  "DIPP10200": {
+    "dippNumber": "DIPP10200",
+    "entityName": "TITAN TRADING",
+    "recognitionDate": "05/08/2020",
+    "status": "ACTIVE",
+    "industry": "Wholesale",
+    "sector": "Trading"
   }
 }

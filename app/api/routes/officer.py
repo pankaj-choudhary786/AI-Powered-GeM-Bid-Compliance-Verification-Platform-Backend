@@ -19,7 +19,7 @@ router = APIRouter()
 
 @router.get("/tenders/{tender_id}/bidders", status_code=status.HTTP_200_OK)
 def get_bidder_leaderboard(
-    tender_id: str, 
+    tender_id: str,
     db: Session = Depends(get_db),
     current_user: User = Depends(require_role([UserRole.PROCUREMENT_OFFICER]))
 ) -> List[Dict[str, Any]]:
@@ -35,10 +35,9 @@ def get_bidder_leaderboard(
     
     leaderboard = []
     for sub in submissions:
-        # Fetch score if verification has run, otherwise default to 0
         score = sub.score_risk.compliance_score if sub.score_risk else 0.0
         risk = sub.score_risk.risk_level if sub.score_risk else "PENDING"
-        
+       
         leaderboard.append({
             "application_id": sub.application_id,
             "bidder_company": sub.bidder.company_name if sub.bidder else "Unknown",
@@ -68,10 +67,9 @@ def record_officer_decision(
         raise HTTPException(status_code=404, detail="Application not found")
 
     officer_profile = db.query(ProcurementOfficerProfile).filter(ProcurementOfficerProfile.user_id == current_user.id).first()
-    
-    # Upsert the decision
+   
     existing_decision = db.query(OfficerDecision).filter(OfficerDecision.submission_id == submission.id).first()
-    
+   
     if existing_decision:
         existing_decision.decision = decision
         existing_decision.comments = comments
@@ -85,11 +83,10 @@ def record_officer_decision(
             comments=comments
         )
         db.add(new_decision)
-    
-    # Update overarching submission status
+   
     submission.status = "DECIDED"
     db.commit()
-    
+
     return {"status": "SUCCESS", "message": f"Decision {decision.value} recorded successfully."}
 
 

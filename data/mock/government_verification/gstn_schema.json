@@ -46,5 +46,2405 @@
     "pradr": {
       "addr": {"bno": "99", "st": "Shadow Lane", "loc": "New Delhi", "dst": "New Delhi", "stcd": "Delhi", "pncd": "110001"}
     }
+  },
+  "29AAACA1001A1Z1": {
+    "gstin": "29AAACA1001A1Z1",
+    "lgnm": "ALPHA TECHNOLOGIES PVT LTD",
+    "tradeNam": "ALPHA TECHNOLOGIES",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "10/02/2019",
+    "ctb": "Private Limited Company",
+    "pradr": {
+      "addr": {"bno": "101", "st": "Tech Park", "loc": "Bengaluru", "dst": "Bengaluru", "stcd": "Karnataka", "pncd": "560001"}
+    }
+  },
+  "24AAAFA1002B1Z2": {
+    "gstin": "24AAAFA1002B1Z2",
+    "lgnm": "BETA MANUFACTURING LLP",
+    "tradeNam": "BETA MANUFACTURING",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "12/03/2020",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "102", "st": "Industrial Area", "loc": "Ahmedabad", "dst": "Ahmedabad", "stcd": "Gujarat", "pncd": "380001"}
+    }
+  },
+  "33AAAPA1003C1Z3": {
+    "gstin": "33AAAPA1003C1Z3",
+    "lgnm": "GAMMA LOGISTICS",
+    "tradeNam": "GAMMA LOGISTICS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "15/05/2021",
+    "ctb": "Proprietorship",
+    "pradr": {
+      "addr": {"bno": "103", "st": "Transport Nagar", "loc": "Chennai", "dst": "Chennai", "stcd": "Tamil Nadu", "pncd": "600001"}
+    }
+  },
+  "09AAAFA1004D1Z4": {
+    "gstin": "09AAAFA1004D1Z4",
+    "lgnm": "DELTA EXPORTS",
+    "tradeNam": "DELTA EXPORTS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "18/06/2017",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "104", "st": "Export Zone", "loc": "Kanpur", "dst": "Kanpur", "stcd": "Uttar Pradesh", "pncd": "208001"}
+    }
+  },
+  "23AAAPA1005E1Z5": {
+    "gstin": "23AAAPA1005E1Z5",
+    "lgnm": "EPSILON TRADERS",
+    "tradeNam": "EPSILON TRADERS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "22/07/2018",
+    "ctb": "Proprietorship",
+    "pradr": {
+      "addr": {"bno": "105", "st": "Market Road", "loc": "Indore", "dst": "Indore", "stcd": "Madhya Pradesh", "pncd": "452001"}
+    }
+  },
+  "19AAACA1006F1Z6": {
+    "gstin": "19AAACA1006F1Z6",
+    "lgnm": "ZETA SOFTWARE SOLUTIONS",
+    "tradeNam": "ZETA SOFTWARE",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "30/08/2020",
+    "ctb": "Private Limited Company",
+    "pradr": {
+      "addr": {"bno": "106", "st": "IT Hub", "loc": "Kolkata", "dst": "Kolkata", "stcd": "West Bengal", "pncd": "700001"}
+    }
+  },
+  "37AAAFA1007G1Z7": {
+    "gstin": "37AAAFA1007G1Z7",
+    "lgnm": "ETA AGRO INDUSTRIES",
+    "tradeNam": "ETA AGRO",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "14/09/2016",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "107", "st": "Agri Market", "loc": "Visakhapatnam", "dst": "Visakhapatnam", "stcd": "Andhra Pradesh", "pncd": "530001"}
+    }
+  },
+  "06AAACA1008H1Z8": {
+    "gstin": "06AAACA1008H1Z8",
+    "lgnm": "THETA AUTOMOTIVES",
+    "tradeNam": "THETA AUTOMOTIVES",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "25/10/2019",
+    "ctb": "Private Limited Company",
+    "pradr": {
+      "addr": {"bno": "108", "st": "Auto Zone", "loc": "Gurugram", "dst": "Gurugram", "stcd": "Haryana", "pncd": "122001"}
+    }
+  },
+  "03AAAFA1009I1Z9": {
+    "gstin": "03AAAFA1009I1Z9",
+    "lgnm": "IOTA SPORTS GOODS",
+    "tradeNam": "IOTA SPORTS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "05/11/2021",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "109", "st": "Sports Complex", "loc": "Ludhiana", "dst": "Ludhiana", "stcd": "Punjab", "pncd": "141001"}
+    }
+  },
+  "32AAAPA1010J1Z0": {
+    "gstin": "32AAAPA1010J1Z0",
+    "lgnm": "KAPPA TEXTILES",
+    "tradeNam": "KAPPA TEXTILES",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "12/12/2017",
+    "ctb": "Proprietorship",
+    "pradr": {
+      "addr": {"bno": "110", "st": "Textile Park", "loc": "Kochi", "dst": "Ernakulam", "stcd": "Kerala", "pncd": "682001"}
+    }
+  },
+  "07AAAFA1011K1Z1": {
+    "gstin": "07AAAFA1011K1Z1",
+    "lgnm": "LAMBDA CONSULTING",
+    "tradeNam": "LAMBDA CONSULTING",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "19/01/2022",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "111", "st": "CP", "loc": "New Delhi", "dst": "New Delhi", "stcd": "Delhi", "pncd": "110001"}
+    }
+  },
+  "27AAACA1012L1Z2": {
+    "gstin": "27AAACA1012L1Z2",
+    "lgnm": "MU FINANCIAL SERVICES",
+    "tradeNam": "MU FIN",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "28/02/2015",
+    "ctb": "Private Limited Company",
+    "pradr": {
+      "addr": {"bno": "112", "st": "Nariman Point", "loc": "Mumbai", "dst": "Mumbai", "stcd": "Maharashtra", "pncd": "400021"}
+    }
+  },
+  "08AAAPA1013M1Z3": {
+    "gstin": "08AAAPA1013M1Z3",
+    "lgnm": "NU HANDICRAFTS",
+    "tradeNam": "NU HANDICRAFTS",
+    "sts": "Active",
+    "dty": "Composition",
+    "rgdt": "07/03/2018",
+    "ctb": "Proprietorship",
+    "pradr": {
+      "addr": {"bno": "113", "st": "Johari Bazar", "loc": "Jaipur", "dst": "Jaipur", "stcd": "Rajasthan", "pncd": "302003"}
+    }
+  },
+  "29AAACA1014N1Z4": {
+    "gstin": "29AAACA1014N1Z4",
+    "lgnm": "XI BIO LABS",
+    "tradeNam": "XI BIO",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "16/04/2020",
+    "ctb": "Private Limited Company",
+    "pradr": {
+      "addr": {"bno": "114", "st": "Biotech Park", "loc": "Bengaluru", "dst": "Bengaluru", "stcd": "Karnataka", "pncd": "560002"}
+    }
+  },
+  "24AAAFA1015O1Z5": {
+    "gstin": "24AAAFA1015O1Z5",
+    "lgnm": "OMICRON DIAMONDS",
+    "tradeNam": "OMICRON DIAMONDS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "22/05/2016",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "115", "st": "Diamond Market", "loc": "Ahmedabad", "dst": "Ahmedabad", "stcd": "Gujarat", "pncd": "380002"}
+    }
+  },
+  "33AAAFA1016P1Z6": {
+    "gstin": "33AAAFA1016P1Z6",
+    "lgnm": "PI ENGINEERING",
+    "tradeNam": "PI ENGINEERING",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "11/06/2019",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "116", "st": "Industrial Estate", "loc": "Chennai", "dst": "Chennai", "stcd": "Tamil Nadu", "pncd": "600002"}
+    }
+  },
+  "09AAAPA1017Q1Z7": {
+    "gstin": "09AAAPA1017Q1Z7",
+    "lgnm": "RHO INFOTECH",
+    "tradeNam": "RHO INFOTECH",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "09/07/2021",
+    "ctb": "Proprietorship",
+    "pradr": {
+      "addr": {"bno": "117", "st": "Tech Street", "loc": "Kanpur", "dst": "Kanpur", "stcd": "Uttar Pradesh", "pncd": "208002"}
+    }
+  },
+  "23AAACA1018R1Z8": {
+    "gstin": "23AAACA1018R1Z8",
+    "lgnm": "SIGMA STEEL",
+    "tradeNam": "SIGMA STEEL",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "14/08/2014",
+    "ctb": "Private Limited Company",
+    "pradr": {
+      "addr": {"bno": "118", "st": "Steel Hub", "loc": "Indore", "dst": "Indore", "stcd": "Madhya Pradesh", "pncd": "452002"}
+    }
+  },
+  "19AAAFA1019S1Z9": {
+    "gstin": "19AAAFA1019S1Z9",
+    "lgnm": "TAU PLASTICS",
+    "tradeNam": "TAU PLASTICS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "21/09/2018",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "119", "st": "Plastic Zone", "loc": "Kolkata", "dst": "Kolkata", "stcd": "West Bengal", "pncd": "700002"}
+    }
+  },
+  "37AAACA1020T1Z0": {
+    "gstin": "37AAACA1020T1Z0",
+    "lgnm": "UPSILON PHARMA",
+    "tradeNam": "UPSILON PHARMA",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "30/10/2017",
+    "ctb": "Private Limited Company",
+    "pradr": {
+      "addr": {"bno": "120", "st": "Pharma City", "loc": "Visakhapatnam", "dst": "Visakhapatnam", "stcd": "Andhra Pradesh", "pncd": "530002"}
+    }
+  },
+  "06AAAFA1021U1Z1": {
+    "gstin": "06AAAFA1021U1Z1",
+    "lgnm": "PHI NETWORKS",
+    "tradeNam": "PHI NETWORKS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "04/11/2020",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "121", "st": "Cyber City", "loc": "Gurugram", "dst": "Gurugram", "stcd": "Haryana", "pncd": "122002"}
+    }
+  },
+  "03AAAPA1022V1Z2": {
+    "gstin": "03AAAPA1022V1Z2",
+    "lgnm": "CHI APPARELS",
+    "tradeNam": "CHI APPARELS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "18/12/2022",
+    "ctb": "Proprietorship",
+    "pradr": {
+      "addr": {"bno": "122", "st": "Garment Hub", "loc": "Ludhiana", "dst": "Ludhiana", "stcd": "Punjab", "pncd": "141002"}
+    }
+  },
+  "32AAACA1023W1Z3": {
+    "gstin": "32AAACA1023W1Z3",
+    "lgnm": "PSI HERBALS",
+    "tradeNam": "PSI HERBALS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "25/01/2019",
+    "ctb": "Private Limited Company",
+    "pradr": {
+      "addr": {"bno": "123", "st": "Ayurveda Path", "loc": "Kochi", "dst": "Ernakulam", "stcd": "Kerala", "pncd": "682002"}
+    }
+  },
+  "07AAAFA1024X1Z4": {
+    "gstin": "07AAAFA1024X1Z4",
+    "lgnm": "OMEGA MEDIA",
+    "tradeNam": "OMEGA MEDIA",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "12/02/2018",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "124", "st": "Media Tower", "loc": "New Delhi", "dst": "New Delhi", "stcd": "Delhi", "pncd": "110002"}
+    }
+  },
+  "27AAACA1025Y1Z5": {
+    "gstin": "27AAACA1025Y1Z5",
+    "lgnm": "AURA INFRASTRUCTURE",
+    "tradeNam": "AURA INFRASTRUCTURE",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "08/03/2015",
+    "ctb": "Private Limited Company",
+    "pradr": {
+      "addr": {"bno": "125", "st": "BKC", "loc": "Mumbai", "dst": "Mumbai", "stcd": "Maharashtra", "pncd": "400051"}
+    }
+  },
+  "08AAAFA1026Z1Z6": {
+    "gstin": "08AAAFA1026Z1Z6",
+    "lgnm": "BLAZE ENERGY",
+    "tradeNam": "BLAZE ENERGY",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "17/04/2021",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "126", "st": "Solar Park", "loc": "Jaipur", "dst": "Jaipur", "stcd": "Rajasthan", "pncd": "302004"}
+    }
+  },
+  "29AAAPA1027A1Z7": {
+    "gstin": "29AAAPA1027A1Z7",
+    "lgnm": "CREST INNOVATIONS",
+    "tradeNam": "CREST INNOVATIONS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "29/05/2020",
+    "ctb": "Proprietorship",
+    "pradr": {
+      "addr": {"bno": "127", "st": "Innovation Hub", "loc": "Bengaluru", "dst": "Bengaluru", "stcd": "Karnataka", "pncd": "560003"}
+    }
+  },
+  "24AAACA1028B1Z8": {
+    "gstin": "24AAACA1028B1Z8",
+    "lgnm": "DART LOGISTICS",
+    "tradeNam": "DART LOGISTICS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "03/06/2017",
+    "ctb": "Private Limited Company",
+    "pradr": {
+      "addr": {"bno": "128", "st": "Logistics Park", "loc": "Ahmedabad", "dst": "Ahmedabad", "stcd": "Gujarat", "pncd": "380003"}
+    }
+  },
+  "33AAAFA1029C1Z9": {
+    "gstin": "33AAAFA1029C1Z9",
+    "lgnm": "ECHO SYSTEMS",
+    "tradeNam": "ECHO SYSTEMS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "19/07/2016",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "129", "st": "Sound Street", "loc": "Chennai", "dst": "Chennai", "stcd": "Tamil Nadu", "pncd": "600003"}
+    }
+  },
+  "09AAAFA1030D1Z0": {
+    "gstin": "09AAAFA1030D1Z0",
+    "lgnm": "FLARE TECHNOLOGIES",
+    "tradeNam": "FLARE TECHNOLOGIES",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "22/08/2022",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "130", "st": "IT Zone", "loc": "Kanpur", "dst": "Kanpur", "stcd": "Uttar Pradesh", "pncd": "208003"}
+    }
+  },
+  "23AAAPA1031E1Z1": {
+    "gstin": "23AAAPA1031E1Z1",
+    "lgnm": "GLOBE PACKAGING",
+    "tradeNam": "GLOBE PACKAGING",
+    "sts": "Active",
+    "dty": "Composition",
+    "rgdt": "11/09/2019",
+    "ctb": "Proprietorship",
+    "pradr": {
+      "addr": {"bno": "131", "st": "Packers Lane", "loc": "Indore", "dst": "Indore", "stcd": "Madhya Pradesh", "pncd": "452003"}
+    }
+  },
+  "19AAACA1032F1Z2": {
+    "gstin": "19AAACA1032F1Z2",
+    "lgnm": "HALO HEALTHCARE",
+    "tradeNam": "HALO HEALTHCARE",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "05/10/2018",
+    "ctb": "Private Limited Company",
+    "pradr": {
+      "addr": {"bno": "132", "st": "Med City", "loc": "Kolkata", "dst": "Kolkata", "stcd": "West Bengal", "pncd": "700003"}
+    }
+  },
+  "37AAAFA1033G1Z3": {
+    "gstin": "37AAAFA1033G1Z3",
+    "lgnm": "ICON TRADERS",
+    "tradeNam": "ICON TRADERS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "14/11/2021",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "133", "st": "Trade Center", "loc": "Visakhapatnam", "dst": "Visakhapatnam", "stcd": "Andhra Pradesh", "pncd": "530003"}
+    }
+  },
+  "06AAAFA1034H1Z4": {
+    "gstin": "06AAAFA1034H1Z4",
+    "lgnm": "JADE ENTERPRISES",
+    "tradeNam": "JADE ENTERPRISES",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "27/12/2020",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "134", "st": "Enterprise Road", "loc": "Gurugram", "dst": "Gurugram", "stcd": "Haryana", "pncd": "122003"}
+    }
+  },
+  "03AAAPA1035I1Z5": {
+    "gstin": "03AAAPA1035I1Z5",
+    "lgnm": "KITE COMMUNICATIONS",
+    "tradeNam": "KITE COMMUNICATIONS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "10/01/2019",
+    "ctb": "Proprietorship",
+    "pradr": {
+      "addr": {"bno": "135", "st": "Comm Link", "loc": "Ludhiana", "dst": "Ludhiana", "stcd": "Punjab", "pncd": "141003"}
+    }
+  },
+  "32AAACA1036J1Z6": {
+    "gstin": "32AAACA1036J1Z6",
+    "lgnm": "LUMEN ELECTRICALS",
+    "tradeNam": "LUMEN ELECTRICALS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "21/02/2017",
+    "ctb": "Private Limited Company",
+    "pradr": {
+      "addr": {"bno": "136", "st": "Elec Board", "loc": "Kochi", "dst": "Ernakulam", "stcd": "Kerala", "pncd": "682003"}
+    }
+  },
+  "07AAAFA1037K1Z7": {
+    "gstin": "07AAAFA1037K1Z7",
+    "lgnm": "METRO BUILDERS",
+    "tradeNam": "METRO BUILDERS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "15/03/2018",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "137", "st": "Builder Lane", "loc": "New Delhi", "dst": "New Delhi", "stcd": "Delhi", "pncd": "110003"}
+    }
+  },
+  "27AAACA1038L1Z8": {
+    "gstin": "27AAACA1038L1Z8",
+    "lgnm": "NOVA CEMENTS",
+    "tradeNam": "NOVA CEMENTS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "28/04/2016",
+    "ctb": "Private Limited Company",
+    "pradr": {
+      "addr": {"bno": "138", "st": "Cement Nagar", "loc": "Mumbai", "dst": "Mumbai", "stcd": "Maharashtra", "pncd": "400052"}
+    }
+  },
+  "08AAAPA1039M1Z9": {
+    "gstin": "08AAAPA1039M1Z9",
+    "lgnm": "OASIS TOURISM",
+    "tradeNam": "OASIS TOURISM",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "09/05/2022",
+    "ctb": "Proprietorship",
+    "pradr": {
+      "addr": {"bno": "139", "st": "Tourist Path", "loc": "Jaipur", "dst": "Jaipur", "stcd": "Rajasthan", "pncd": "302005"}
+    }
+  },
+  "29AAAFA1040N1Z0": {
+    "gstin": "29AAAFA1040N1Z0",
+    "lgnm": "PULSE DIAGNOSTICS",
+    "tradeNam": "PULSE DIAGNOSTICS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "18/06/2019",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "140", "st": "Diag Center", "loc": "Bengaluru", "dst": "Bengaluru", "stcd": "Karnataka", "pncd": "560004"}
+    }
+  },
+  "24AAAFA1041O1Z1": {
+    "gstin": "24AAAFA1041O1Z1",
+    "lgnm": "QUARTZ CERAMICS",
+    "tradeNam": "QUARTZ CERAMICS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "02/07/2015",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "141", "st": "Ceramic Way", "loc": "Ahmedabad", "dst": "Ahmedabad", "stcd": "Gujarat", "pncd": "380004"}
+    }
+  },
+  "33AAACA1042P1Z2": {
+    "gstin": "33AAACA1042P1Z2",
+    "lgnm": "RIPPLE WATER PURIFIERS",
+    "tradeNam": "RIPPLE WATER",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "14/08/2020",
+    "ctb": "Private Limited Company",
+    "pradr": {
+      "addr": {"bno": "142", "st": "Water Hub", "loc": "Chennai", "dst": "Chennai", "stcd": "Tamil Nadu", "pncd": "600004"}
+    }
+  },
+  "09AAAPA1043Q1Z3": {
+    "gstin": "09AAAPA1043Q1Z3",
+    "lgnm": "SPARK EDUCATION",
+    "tradeNam": "SPARK EDUCATION",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "26/09/2021",
+    "ctb": "Proprietorship",
+    "pradr": {
+      "addr": {"bno": "143", "st": "Edu Square", "loc": "Kanpur", "dst": "Kanpur", "stcd": "Uttar Pradesh", "pncd": "208004"}
+    }
+  },
+  "23AAAFA1044R1Z4": {
+    "gstin": "23AAAFA1044R1Z4",
+    "lgnm": "TIDE SHIPPING",
+    "tradeNam": "TIDE SHIPPING",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "05/10/2017",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "144", "st": "Shipyard Road", "loc": "Indore", "dst": "Indore", "stcd": "Madhya Pradesh", "pncd": "452004"}
+    }
+  },
+  "19AAACA1045S1Z5": {
+    "gstin": "19AAACA1045S1Z5",
+    "lgnm": "URBAN LIVING FURNITURE",
+    "tradeNam": "URBAN LIVING",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "17/11/2019",
+    "ctb": "Private Limited Company",
+    "pradr": {
+      "addr": {"bno": "145", "st": "Furniture Market", "loc": "Kolkata", "dst": "Kolkata", "stcd": "West Bengal", "pncd": "700004"}
+    }
+  },
+  "37AAAFA1046T1Z6": {
+    "gstin": "37AAAFA1046T1Z6",
+    "lgnm": "VANGUARD SECURITY",
+    "tradeNam": "VANGUARD SECURITY",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "30/12/2018",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "146", "st": "Secure Alley", "loc": "Visakhapatnam", "dst": "Visakhapatnam", "stcd": "Andhra Pradesh", "pncd": "530004"}
+    }
+  },
+  "06AAACA1047U1Z7": {
+    "gstin": "06AAACA1047U1Z7",
+    "lgnm": "WAVE BROADBAND",
+    "tradeNam": "WAVE BROADBAND",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "08/01/2016",
+    "ctb": "Private Limited Company",
+    "pradr": {
+      "addr": {"bno": "147", "st": "Telecom Tower", "loc": "Gurugram", "dst": "Gurugram", "stcd": "Haryana", "pncd": "122004"}
+    }
+  },
+  "03AAAFA1048V1Z8": {
+    "gstin": "03AAAFA1048V1Z8",
+    "lgnm": "XYLEM PIPES",
+    "tradeNam": "XYLEM PIPES",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "21/02/2021",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "148", "st": "Pipe Lane", "loc": "Ludhiana", "dst": "Ludhiana", "stcd": "Punjab", "pncd": "141004"}
+    }
+  },
+  "32AAAPA1049W1Z9": {
+    "gstin": "32AAAPA1049W1Z9",
+    "lgnm": "YOGA NATURALS",
+    "tradeNam": "YOGA NATURALS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "12/03/2020",
+    "ctb": "Proprietorship",
+    "pradr": {
+      "addr": {"bno": "149", "st": "Wellness Path", "loc": "Kochi", "dst": "Ernakulam", "stcd": "Kerala", "pncd": "682004"}
+    }
+  },
+  "07AAAFA1050X1Z0": {
+    "gstin": "07AAAFA1050X1Z0",
+    "lgnm": "ZENITH APPARELS",
+    "tradeNam": "ZENITH APPARELS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "16/04/2017",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "150", "st": "Apparel Lane", "loc": "New Delhi", "dst": "New Delhi", "stcd": "Delhi", "pncd": "110004"}
+    }
+  },
+  "27AAACA1051Y1Z1": {
+    "gstin": "27AAACA1051Y1Z1",
+    "lgnm": "AEON ELECTRONICS",
+    "tradeNam": "AEON ELECTRONICS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "25/05/2015",
+    "ctb": "Private Limited Company",
+    "pradr": {
+      "addr": {"bno": "151", "st": "Electro Zone", "loc": "Mumbai", "dst": "Mumbai", "stcd": "Maharashtra", "pncd": "400053"}
+    }
+  },
+  "08AAAFA1052Z1Z2": {
+    "gstin": "08AAAFA1052Z1Z2",
+    "lgnm": "BARIUM CHEMICALS",
+    "tradeNam": "BARIUM CHEMICALS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "04/06/2019",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "152", "st": "Chem Hub", "loc": "Jaipur", "dst": "Jaipur", "stcd": "Rajasthan", "pncd": "302006"}
+    }
+  },
+  "29AAAPA1053A1Z3": {
+    "gstin": "29AAAPA1053A1Z3",
+    "lgnm": "CHRONO WATCHES",
+    "tradeNam": "CHRONO WATCHES",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "19/07/2022",
+    "ctb": "Proprietorship",
+    "pradr": {
+      "addr": {"bno": "153", "st": "Time Square", "loc": "Bengaluru", "dst": "Bengaluru", "stcd": "Karnataka", "pncd": "560005"}
+    }
+  },
+  "24AAAFA1054B1Z4": {
+    "gstin": "24AAAFA1054B1Z4",
+    "lgnm": "DUNE TEXTILES",
+    "tradeNam": "DUNE TEXTILES",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "28/08/2018",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "154", "st": "Fabric Row", "loc": "Ahmedabad", "dst": "Ahmedabad", "stcd": "Gujarat", "pncd": "380005"}
+    }
+  },
+  "33AAACA1055C1Z5": {
+    "gstin": "33AAACA1055C1Z5",
+    "lgnm": "ENIGMA SOFTWARE",
+    "tradeNam": "ENIGMA SOFTWARE",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "07/09/2016",
+    "ctb": "Private Limited Company",
+    "pradr": {
+      "addr": {"bno": "155", "st": "Code Avenue", "loc": "Chennai", "dst": "Chennai", "stcd": "Tamil Nadu", "pncd": "600005"}
+    }
+  },
+  "09AAAFA1056D1Z6": {
+    "gstin": "09AAAFA1056D1Z6",
+    "lgnm": "FORGE METALS",
+    "tradeNam": "FORGE METALS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "13/10/2020",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "156", "st": "Metal Street", "loc": "Kanpur", "dst": "Kanpur", "stcd": "Uttar Pradesh", "pncd": "208005"}
+    }
+  },
+  "23AAAPA1057E1Z7": {
+    "gstin": "23AAAPA1057E1Z7",
+    "lgnm": "GRAVITY SPORTS",
+    "tradeNam": "GRAVITY SPORTS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "22/11/2021",
+    "ctb": "Proprietorship",
+    "pradr": {
+      "addr": {"bno": "157", "st": "Sport Lane", "loc": "Indore", "dst": "Indore", "stcd": "Madhya Pradesh", "pncd": "452005"}
+    }
+  },
+  "19AAAFA1058F1Z8": {
+    "gstin": "19AAAFA1058F1Z8",
+    "lgnm": "HAVEN REALTY",
+    "tradeNam": "HAVEN REALTY",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "01/12/2017",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "158", "st": "Estate Row", "loc": "Kolkata", "dst": "Kolkata", "stcd": "West Bengal", "pncd": "700005"}
+    }
+  },
+  "37AAACA1059G1Z9": {
+    "gstin": "37AAACA1059G1Z9",
+    "lgnm": "IGNITE ENGINES",
+    "tradeNam": "IGNITE ENGINES",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "11/01/2015",
+    "ctb": "Private Limited Company",
+    "pradr": {
+      "addr": {"bno": "159", "st": "Engine Block", "loc": "Visakhapatnam", "dst": "Visakhapatnam", "stcd": "Andhra Pradesh", "pncd": "530005"}
+    }
+  },
+  "06AAAFA1060H1Z0": {
+    "gstin": "06AAAFA1060H1Z0",
+    "lgnm": "JOULE BATTERIES",
+    "tradeNam": "JOULE BATTERIES",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "19/02/2019",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "160", "st": "Power Grid", "loc": "Gurugram", "dst": "Gurugram", "stcd": "Haryana", "pncd": "122005"}
+    }
+  },
+  "03AAAPA1061I1Z1": {
+    "gstin": "03AAAPA1061I1Z1",
+    "lgnm": "KINETIC MOTORS",
+    "tradeNam": "KINETIC MOTORS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "26/03/2022",
+    "ctb": "Proprietorship",
+    "pradr": {
+      "addr": {"bno": "161", "st": "Motor Hub", "loc": "Ludhiana", "dst": "Ludhiana", "stcd": "Punjab", "pncd": "141005"}
+    }
+  },
+  "32AAAFA1062J1Z2": {
+    "gstin": "32AAAFA1062J1Z2",
+    "lgnm": "LYNX CYCLES",
+    "tradeNam": "LYNX CYCLES",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "05/04/2018",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "162", "st": "Cycle Path", "loc": "Kochi", "dst": "Ernakulam", "stcd": "Kerala", "pncd": "682005"}
+    }
+  },
+  "07AAACA1063K1Z3": {
+    "gstin": "07AAACA1063K1Z3",
+    "lgnm": "MIRAGE STUDIOS",
+    "tradeNam": "MIRAGE STUDIOS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "14/05/2016",
+    "ctb": "Private Limited Company",
+    "pradr": {
+      "addr": {"bno": "163", "st": "Studio Alley", "loc": "New Delhi", "dst": "New Delhi", "stcd": "Delhi", "pncd": "110005"}
+    }
+  },
+  "27AAAFA1064L1Z4": {
+    "gstin": "27AAAFA1064L1Z4",
+    "lgnm": "NEBULA AEROSPACE",
+    "tradeNam": "NEBULA AEROSPACE",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "22/06/2020",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "164", "st": "Aero Park", "loc": "Mumbai", "dst": "Mumbai", "stcd": "Maharashtra", "pncd": "400054"}
+    }
+  },
+  "08AAAPA1065M1Z5": {
+    "gstin": "08AAAPA1065M1Z5",
+    "lgnm": "OPAL JEWELERS",
+    "tradeNam": "OPAL JEWELERS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "30/07/2021",
+    "ctb": "Proprietorship",
+    "pradr": {
+      "addr": {"bno": "165", "st": "Jewel Bazar", "loc": "Jaipur", "dst": "Jaipur", "stcd": "Rajasthan", "pncd": "302007"}
+    }
+  },
+  "29AAAFA1066N1Z6": {
+    "gstin": "29AAAFA1066N1Z6",
+    "lgnm": "PRISM OPTICALS",
+    "tradeNam": "PRISM OPTICALS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "09/08/2017",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "166", "st": "Lens Center", "loc": "Bengaluru", "dst": "Bengaluru", "stcd": "Karnataka", "pncd": "560006"}
+    }
+  },
+  "24AAACA1067O1Z7": {
+    "gstin": "24AAACA1067O1Z7",
+    "lgnm": "QUANTUM COMPUTING",
+    "tradeNam": "QUANTUM COMPUTING",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "18/09/2014",
+    "ctb": "Private Limited Company",
+    "pradr": {
+      "addr": {"bno": "167", "st": "Quantum Hub", "loc": "Ahmedabad", "dst": "Ahmedabad", "stcd": "Gujarat", "pncd": "380006"}
+    }
+  },
+  "33AAAFA1068P1Z8": {
+    "gstin": "33AAAFA1068P1Z8",
+    "lgnm": "RADIAN SOLAR",
+    "tradeNam": "RADIAN SOLAR",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "27/10/2019",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "168", "st": "Solar Grid", "loc": "Chennai", "dst": "Chennai", "stcd": "Tamil Nadu", "pncd": "600006"}
+    }
+  },
+  "09AAAPA1069Q1Z9": {
+    "gstin": "09AAAPA1069Q1Z9",
+    "lgnm": "STELLAR AVIATION",
+    "tradeNam": "STELLAR AVIATION",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "06/11/2022",
+    "ctb": "Proprietorship",
+    "pradr": {
+      "addr": {"bno": "169", "st": "Aero Link", "loc": "Kanpur", "dst": "Kanpur", "stcd": "Uttar Pradesh", "pncd": "208006"}
+    }
+  },
+  "23AAAFA1070R1Z0": {
+    "gstin": "23AAAFA1070R1Z0",
+    "lgnm": "TITAN CONSTRUCTION",
+    "tradeNam": "TITAN CONSTRUCTION",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "15/12/2018",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "170", "st": "Build Plaza", "loc": "Indore", "dst": "Indore", "stcd": "Madhya Pradesh", "pncd": "452006"}
+    }
+  },
+  "19AAACA1071S1Z1": {
+    "gstin": "19AAACA1071S1Z1",
+    "lgnm": "ULTRA FOODS",
+    "tradeNam": "ULTRA FOODS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "23/01/2015",
+    "ctb": "Private Limited Company",
+    "pradr": {
+      "addr": {"bno": "171", "st": "Food Court", "loc": "Kolkata", "dst": "Kolkata", "stcd": "West Bengal", "pncd": "700006"}
+    }
+  },
+  "37AAAFA1072T1Z2": {
+    "gstin": "37AAAFA1072T1Z2",
+    "lgnm": "VERTEX POLYMERS",
+    "tradeNam": "VERTEX POLYMERS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "04/02/2020",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "172", "st": "Polymer Hub", "loc": "Visakhapatnam", "dst": "Visakhapatnam", "stcd": "Andhra Pradesh", "pncd": "530006"}
+    }
+  },
+  "06AAAPA1073U1Z3": {
+    "gstin": "06AAAPA1073U1Z3",
+    "lgnm": "WIZARD TOYS",
+    "tradeNam": "WIZARD TOYS",
+    "sts": "Active",
+    "dty": "Composition",
+    "rgdt": "13/03/2021",
+    "ctb": "Proprietorship",
+    "pradr": {
+      "addr": {"bno": "173", "st": "Toy Street", "loc": "Gurugram", "dst": "Gurugram", "stcd": "Haryana", "pncd": "122006"}
+    }
+  },
+  "03AAAFA1074V1Z4": {
+    "gstin": "03AAAFA1074V1Z4",
+    "lgnm": "XENON LIGHTING",
+    "tradeNam": "XENON LIGHTING",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "22/04/2017",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "174", "st": "Light Lane", "loc": "Ludhiana", "dst": "Ludhiana", "stcd": "Punjab", "pncd": "141006"}
+    }
+  },
+  "32AAACA1075W1Z5": {
+    "gstin": "32AAACA1075W1Z5",
+    "lgnm": "YARD MARINE",
+    "tradeNam": "YARD MARINE",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "01/05/2016",
+    "ctb": "Private Limited Company",
+    "pradr": {
+      "addr": {"bno": "175", "st": "Marine Drive", "loc": "Kochi", "dst": "Ernakulam", "stcd": "Kerala", "pncd": "682006"}
+    }
+  },
+  "07AAAFA1076X1Z6": {
+    "gstin": "07AAAFA1076X1Z6",
+    "lgnm": "ZEPHYR AIRWAYS",
+    "tradeNam": "ZEPHYR AIRWAYS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "10/06/2019",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "176", "st": "Aero Street", "loc": "New Delhi", "dst": "New Delhi", "stcd": "Delhi", "pncd": "110006"}
+    }
+  },
+  "27AAAPA1077Y1Z7": {
+    "gstin": "27AAAPA1077Y1Z7",
+    "lgnm": "APEX CERAMICS",
+    "tradeNam": "APEX CERAMICS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "19/07/2022",
+    "ctb": "Proprietorship",
+    "pradr": {
+      "addr": {"bno": "177", "st": "Ceramic Way", "loc": "Mumbai", "dst": "Mumbai", "stcd": "Maharashtra", "pncd": "400055"}
+    }
+  },
+  "08AAAFA1078Z1Z8": {
+    "gstin": "08AAAFA1078Z1Z8",
+    "lgnm": "BOLD FITNESS",
+    "tradeNam": "BOLD FITNESS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "28/08/2018",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "178", "st": "Fit Path", "loc": "Jaipur", "dst": "Jaipur", "stcd": "Rajasthan", "pncd": "302008"}
+    }
+  },
+  "29AAACA1079A1Z9": {
+    "gstin": "29AAACA1079A1Z9",
+    "lgnm": "CORE INSTRUMENTS",
+    "tradeNam": "CORE INSTRUMENTS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "07/09/2015",
+    "ctb": "Private Limited Company",
+    "pradr": {
+      "addr": {"bno": "179", "st": "Instru Park", "loc": "Bengaluru", "dst": "Bengaluru", "stcd": "Karnataka", "pncd": "560007"}
+    }
+  },
+  "24AAAFA1080B1Z0": {
+    "gstin": "24AAAFA1080B1Z0",
+    "lgnm": "DIVE AQUATICS",
+    "tradeNam": "DIVE AQUATICS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "15/10/2020",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "180", "st": "Aqua Lane", "loc": "Ahmedabad", "dst": "Ahmedabad", "stcd": "Gujarat", "pncd": "380007"}
+    }
+  },
+  "33AAAPA1081C1Z1": {
+    "gstin": "33AAAPA1081C1Z1",
+    "lgnm": "EDGE CUTLERY",
+    "tradeNam": "EDGE CUTLERY",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "24/11/2021",
+    "ctb": "Proprietorship",
+    "pradr": {
+      "addr": {"bno": "181", "st": "Cutler Street", "loc": "Chennai", "dst": "Chennai", "stcd": "Tamil Nadu", "pncd": "600007"}
+    }
+  },
+  "09AAAFA1082D1Z2": {
+    "gstin": "09AAAFA1082D1Z2",
+    "lgnm": "FLINT MATCHES",
+    "tradeNam": "FLINT MATCHES",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "03/12/2017",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "182", "st": "Match Link", "loc": "Kanpur", "dst": "Kanpur", "stcd": "Uttar Pradesh", "pncd": "208007"}
+    }
+  },
+  "23AAACA1083E1Z3": {
+    "gstin": "23AAACA1083E1Z3",
+    "lgnm": "GLOW COSMETICS",
+    "tradeNam": "GLOW COSMETICS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "11/01/2016",
+    "ctb": "Private Limited Company",
+    "pradr": {
+      "addr": {"bno": "183", "st": "Cosmetic Hub", "loc": "Indore", "dst": "Indore", "stcd": "Madhya Pradesh", "pncd": "452007"}
+    }
+  },
+  "19AAAFA1084F1Z4": {
+    "gstin": "19AAAFA1084F1Z4",
+    "lgnm": "HIVE HONEY",
+    "tradeNam": "HIVE HONEY",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "20/02/2019",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "184", "st": "Honey Comb", "loc": "Kolkata", "dst": "Kolkata", "stcd": "West Bengal", "pncd": "700007"}
+    }
+  },
+  "37AAAPA1085G1Z5": {
+    "gstin": "37AAAPA1085G1Z5",
+    "lgnm": "IRON FOUNDRY",
+    "tradeNam": "IRON FOUNDRY",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "29/03/2022",
+    "ctb": "Proprietorship",
+    "pradr": {
+      "addr": {"bno": "185", "st": "Foundry Path", "loc": "Visakhapatnam", "dst": "Visakhapatnam", "stcd": "Andhra Pradesh", "pncd": "530007"}
+    }
+  },
+  "06AAAFA1086H1Z6": {
+    "gstin": "06AAAFA1086H1Z6",
+    "lgnm": "JUMP APPAREL",
+    "tradeNam": "JUMP APPAREL",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "08/04/2018",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "186", "st": "Apparel Way", "loc": "Gurugram", "dst": "Gurugram", "stcd": "Haryana", "pncd": "122007"}
+    }
+  },
+  "03AAACA1087I1Z7": {
+    "gstin": "03AAACA1087I1Z7",
+    "lgnm": "KILN BRICKS",
+    "tradeNam": "KILN BRICKS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "16/05/2015",
+    "ctb": "Private Limited Company",
+    "pradr": {
+      "addr": {"bno": "187", "st": "Brick Avenue", "loc": "Ludhiana", "dst": "Ludhiana", "stcd": "Punjab", "pncd": "141007"}
+    }
+  },
+  "32AAAFA1088J1Z8": {
+    "gstin": "32AAAFA1088J1Z8",
+    "lgnm": "LOOP RECORDINGS",
+    "tradeNam": "LOOP RECORDINGS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "25/06/2020",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "188", "st": "Studio Loop", "loc": "Kochi", "dst": "Ernakulam", "stcd": "Kerala", "pncd": "682007"}
+    }
+  },
+  "07AAAPA1089K1Z9": {
+    "gstin": "07AAAPA1089K1Z9",
+    "lgnm": "MINT FINANCE",
+    "tradeNam": "MINT FINANCE",
+    "sts": "Active",
+    "dty": "Composition",
+    "rgdt": "03/08/2021",
+    "ctb": "Proprietorship",
+    "pradr": {
+      "addr": {"bno": "189", "st": "Fin Street", "loc": "New Delhi", "dst": "New Delhi", "stcd": "Delhi", "pncd": "110007"}
+    }
+  },
+  "27AAAFA1090L1Z0": {
+    "gstin": "27AAAFA1090L1Z0",
+    "lgnm": "NEXUS ROBOTICS",
+    "tradeNam": "NEXUS ROBOTICS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "12/09/2017",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "190", "st": "Robot Hub", "loc": "Mumbai", "dst": "Mumbai", "stcd": "Maharashtra", "pncd": "400056"}
+    }
+  },
+  "08AAACA1091M1Z1": {
+    "gstin": "08AAACA1091M1Z1",
+    "lgnm": "ORION TELESCOPES",
+    "tradeNam": "ORION TELESCOPES",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "20/10/2016",
+    "ctb": "Private Limited Company",
+    "pradr": {
+      "addr": {"bno": "191", "st": "Star Way", "loc": "Jaipur", "dst": "Jaipur", "stcd": "Rajasthan", "pncd": "302009"}
+    }
+  },
+  "29AAAFA1092N1Z2": {
+    "gstin": "29AAAFA1092N1Z2",
+    "lgnm": "PINE TIMBER",
+    "tradeNam": "PINE TIMBER",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "29/11/2019",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "192", "st": "Timber Mill", "loc": "Bengaluru", "dst": "Bengaluru", "stcd": "Karnataka", "pncd": "560008"}
+    }
+  },
+  "24AAAPA1093O1Z3": {
+    "gstin": "24AAAPA1093O1Z3",
+    "lgnm": "QUEST ADVENTURES",
+    "tradeNam": "QUEST ADVENTURES",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "07/01/2022",
+    "ctb": "Proprietorship",
+    "pradr": {
+      "addr": {"bno": "193", "st": "Adventure Path", "loc": "Ahmedabad", "dst": "Ahmedabad", "stcd": "Gujarat", "pncd": "380008"}
+    }
+  },
+  "33AAAFA1094P1Z4": {
+    "gstin": "33AAAFA1094P1Z4",
+    "lgnm": "ROOF TILES CO",
+    "tradeNam": "ROOF TILES CO",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "16/02/2018",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "194", "st": "Tile Street", "loc": "Chennai", "dst": "Chennai", "stcd": "Tamil Nadu", "pncd": "600008"}
+    }
+  },
+  "09AAACA1095Q1Z5": {
+    "gstin": "09AAACA1095Q1Z5",
+    "lgnm": "SILK WEAVERS",
+    "tradeNam": "SILK WEAVERS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "24/03/2015",
+    "ctb": "Private Limited Company",
+    "pradr": {
+      "addr": {"bno": "195", "st": "Silk Route", "loc": "Kanpur", "dst": "Kanpur", "stcd": "Uttar Pradesh", "pncd": "208008"}
+    }
+  },
+  "23AAAFA1096R1Z6": {
+    "gstin": "23AAAFA1096R1Z6",
+    "lgnm": "TRACTOR PARTS INC",
+    "tradeNam": "TRACTOR PARTS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "03/05/2020",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "196", "st": "Auto Hub", "loc": "Indore", "dst": "Indore", "stcd": "Madhya Pradesh", "pncd": "452008"}
+    }
+  },
+  "19AAAPA1097S1Z7": {
+    "gstin": "19AAAPA1097S1Z7",
+    "lgnm": "UNITY LOGISTICS",
+    "tradeNam": "UNITY LOGISTICS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "12/06/2021",
+    "ctb": "Proprietorship",
+    "pradr": {
+      "addr": {"bno": "197", "st": "Unity Path", "loc": "Kolkata", "dst": "Kolkata", "stcd": "West Bengal", "pncd": "700008"}
+    }
+  },
+  "37AAAFA1098T1Z8": {
+    "gstin": "37AAAFA1098T1Z8",
+    "lgnm": "VAULT SAFES",
+    "tradeNam": "VAULT SAFES",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "20/07/2017",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "198", "st": "Safe Lock", "loc": "Visakhapatnam", "dst": "Visakhapatnam", "stcd": "Andhra Pradesh", "pncd": "530008"}
+    }
+  },
+  "06AAACA1099U1Z9": {
+    "gstin": "06AAACA1099U1Z9",
+    "lgnm": "WIRE CABLES",
+    "tradeNam": "WIRE CABLES",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "28/08/2016",
+    "ctb": "Private Limited Company",
+    "pradr": {
+      "addr": {"bno": "199", "st": "Wire Zone", "loc": "Gurugram", "dst": "Gurugram", "stcd": "Haryana", "pncd": "122008"}
+    }
+  },
+  "03AAAFA1100V1Z0": {
+    "gstin": "03AAAFA1100V1Z0",
+    "lgnm": "XRAY IMAGING",
+    "tradeNam": "XRAY IMAGING",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "06/10/2019",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "200", "st": "Med Image", "loc": "Ludhiana", "dst": "Ludhiana", "stcd": "Punjab", "pncd": "141008"}
+    }
+  },
+  "32AAAPA1101W1Z1": {
+    "gstin": "32AAAPA1101W1Z1",
+    "lgnm": "YACHT BUILDERS",
+    "tradeNam": "YACHT BUILDERS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "15/11/2022",
+    "ctb": "Proprietorship",
+    "pradr": {
+      "addr": {"bno": "201", "st": "Coast Line", "loc": "Kochi", "dst": "Ernakulam", "stcd": "Kerala", "pncd": "682008"}
+    }
+  },
+  "07AAAFA1102X1Z2": {
+    "gstin": "07AAAFA1102X1Z2",
+    "lgnm": "ZINC REFINERIES",
+    "tradeNam": "ZINC REFINERIES",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "24/12/2018",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "202", "st": "Refinery Zone", "loc": "New Delhi", "dst": "New Delhi", "stcd": "Delhi", "pncd": "110008"}
+    }
+  },
+  "27AAACA1103Y1Z3": {
+    "gstin": "27AAACA1103Y1Z3",
+    "lgnm": "ARROW LOGISTICS",
+    "tradeNam": "ARROW LOGISTICS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "02/02/2015",
+    "ctb": "Private Limited Company",
+    "pradr": {
+      "addr": {"bno": "203", "st": "Arrow Path", "loc": "Mumbai", "dst": "Mumbai", "stcd": "Maharashtra", "pncd": "400057"}
+    }
+  },
+  "08AAAFA1104Z1Z4": {
+    "gstin": "08AAAFA1104Z1Z4",
+    "lgnm": "BEACON PUBLISHING",
+    "tradeNam": "BEACON PUBLISHING",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "13/03/2020",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "204", "st": "Print Hub", "loc": "Jaipur", "dst": "Jaipur", "stcd": "Rajasthan", "pncd": "302010"}
+    }
+  },
+  "29AAAPA1105A1Z5": {
+    "gstin": "29AAAPA1105A1Z5",
+    "lgnm": "CROWN JEWELS",
+    "tradeNam": "CROWN JEWELS",
+    "sts": "Active",
+    "dty": "Composition",
+    "rgdt": "21/04/2021",
+    "ctb": "Proprietorship",
+    "pradr": {
+      "addr": {"bno": "205", "st": "Jewel Mart", "loc": "Bengaluru", "dst": "Bengaluru", "stcd": "Karnataka", "pncd": "560009"}
+    }
+  },
+  "24AAAFA1106B1Z6": {
+    "gstin": "24AAAFA1106B1Z6",
+    "lgnm": "DAWN CHEMICALS",
+    "tradeNam": "DAWN CHEMICALS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "30/05/2017",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "206", "st": "Chem Row", "loc": "Ahmedabad", "dst": "Ahmedabad", "stcd": "Gujarat", "pncd": "380009"}
+    }
+  },
+  "33AAACA1107C1Z7": {
+    "gstin": "33AAACA1107C1Z7",
+    "lgnm": "ELITE FURNISHINGS",
+    "tradeNam": "ELITE FURNISHINGS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "08/07/2016",
+    "ctb": "Private Limited Company",
+    "pradr": {
+      "addr": {"bno": "207", "st": "Elite Plaza", "loc": "Chennai", "dst": "Chennai", "stcd": "Tamil Nadu", "pncd": "600009"}
+    }
+  },
+  "09AAAFA1108D1Z8": {
+    "gstin": "09AAAFA1108D1Z8",
+    "lgnm": "FALCON DRONES",
+    "tradeNam": "FALCON DRONES",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "17/08/2019",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "208", "st": "Sky Lane", "loc": "Kanpur", "dst": "Kanpur", "stcd": "Uttar Pradesh", "pncd": "208009"}
+    }
+  },
+  "23AAAPA1109E1Z9": {
+    "gstin": "23AAAPA1109E1Z9",
+    "lgnm": "GEMINI SOFTWARE",
+    "tradeNam": "GEMINI SOFTWARE",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "26/09/2022",
+    "ctb": "Proprietorship",
+    "pradr": {
+      "addr": {"bno": "209", "st": "Tech Square", "loc": "Indore", "dst": "Indore", "stcd": "Madhya Pradesh", "pncd": "452009"}
+    }
+  },
+  "19AAAFA1110F1Z0": {
+    "gstin": "19AAAFA1110F1Z0",
+    "lgnm": "HERITAGE ARTS",
+    "tradeNam": "HERITAGE ARTS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "03/11/2018",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "210", "st": "Art Bazar", "loc": "Kolkata", "dst": "Kolkata", "stcd": "West Bengal", "pncd": "700009"}
+    }
+  },
+  "37AAACA1111G1Z1": {
+    "gstin": "37AAACA1111G1Z1",
+    "lgnm": "INFINITY NETWORKS",
+    "tradeNam": "INFINITY NETWORKS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "12/12/2015",
+    "ctb": "Private Limited Company",
+    "pradr": {
+      "addr": {"bno": "211", "st": "Network Hub", "loc": "Visakhapatnam", "dst": "Visakhapatnam", "stcd": "Andhra Pradesh", "pncd": "530009"}
+    }
+  },
+  "06AAAFA1112H1Z2": {
+    "gstin": "06AAAFA1112H1Z2",
+    "lgnm": "JAZZ MUSIC ACADEMY",
+    "tradeNam": "JAZZ MUSIC",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "21/01/2020",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "212", "st": "Sound Path", "loc": "Gurugram", "dst": "Gurugram", "stcd": "Haryana", "pncd": "122009"}
+    }
+  },
+  "03AAAPA1113I1Z3": {
+    "gstin": "03AAAPA1113I1Z3",
+    "lgnm": "KNIGHT SECURITY",
+    "tradeNam": "KNIGHT SECURITY",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "01/03/2021",
+    "ctb": "Proprietorship",
+    "pradr": {
+      "addr": {"bno": "213", "st": "Secure Way", "loc": "Ludhiana", "dst": "Ludhiana", "stcd": "Punjab", "pncd": "141009"}
+    }
+  },
+  "32AAAFA1114J1Z4": {
+    "gstin": "32AAAFA1114J1Z4",
+    "lgnm": "LIONHEART FITNESS",
+    "tradeNam": "LIONHEART FITNESS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "09/04/2017",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "214", "st": "Gym Lane", "loc": "Kochi", "dst": "Ernakulam", "stcd": "Kerala", "pncd": "682009"}
+    }
+  },
+  "07AAACA1115K1Z5": {
+    "gstin": "07AAACA1115K1Z5",
+    "lgnm": "MYSTIC TOURS",
+    "tradeNam": "MYSTIC TOURS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "18/05/2016",
+    "ctb": "Private Limited Company",
+    "pradr": {
+      "addr": {"bno": "215", "st": "Travel Street", "loc": "New Delhi", "dst": "New Delhi", "stcd": "Delhi", "pncd": "110009"}
+    }
+  },
+  "27AAAFA1116L1Z6": {
+    "gstin": "27AAAFA1116L1Z6",
+    "lgnm": "NANO CHIPS",
+    "tradeNam": "NANO CHIPS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "26/06/2019",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "216", "st": "Chip Hub", "loc": "Mumbai", "dst": "Mumbai", "stcd": "Maharashtra", "pncd": "400058"}
+    }
+  },
+  "08AAAPA1117M1Z7": {
+    "gstin": "08AAAPA1117M1Z7",
+    "lgnm": "OAK FURNITURE",
+    "tradeNam": "OAK FURNITURE",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "05/08/2022",
+    "ctb": "Proprietorship",
+    "pradr": {
+      "addr": {"bno": "217", "st": "Oak Path", "loc": "Jaipur", "dst": "Jaipur", "stcd": "Rajasthan", "pncd": "302011"}
+    }
+  },
+  "29AAAFA1118N1Z8": {
+    "gstin": "29AAAFA1118N1Z8",
+    "lgnm": "PIONEER BUILDERS",
+    "tradeNam": "PIONEER BUILDERS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "14/09/2018",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "218", "st": "Build Plaza", "loc": "Bengaluru", "dst": "Bengaluru", "stcd": "Karnataka", "pncd": "560010"}
+    }
+  },
+  "24AAACA1119O1Z9": {
+    "gstin": "24AAACA1119O1Z9",
+    "lgnm": "QUANTUM LOGISTICS",
+    "tradeNam": "QUANTUM LOGISTICS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "23/10/2015",
+    "ctb": "Private Limited Company",
+    "pradr": {
+      "addr": {"bno": "219", "st": "Quantum Route", "loc": "Ahmedabad", "dst": "Ahmedabad", "stcd": "Gujarat", "pncd": "380010"}
+    }
+  },
+  "33AAAFA1120P1Z0": {
+    "gstin": "33AAAFA1120P1Z0",
+    "lgnm": "RUBY GEMS",
+    "tradeNam": "RUBY GEMS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "01/12/2020",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "220", "st": "Gem Lane", "loc": "Chennai", "dst": "Chennai", "stcd": "Tamil Nadu", "pncd": "600010"}
+    }
+  },
+  "09AAAPA1121Q1Z1": {
+    "gstin": "09AAAPA1121Q1Z1",
+    "lgnm": "SOLARIS ENERGY",
+    "tradeNam": "SOLARIS ENERGY",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "10/01/2021",
+    "ctb": "Proprietorship",
+    "pradr": {
+      "addr": {"bno": "221", "st": "Solar Link", "loc": "Kanpur", "dst": "Kanpur", "stcd": "Uttar Pradesh", "pncd": "208010"}
+    }
+  },
+  "23AAAFA1122R1Z2": {
+    "gstin": "23AAAFA1122R1Z2",
+    "lgnm": "TRIUMPH MOTORS",
+    "tradeNam": "TRIUMPH MOTORS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "19/02/2017",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "222", "st": "Motor Hub", "loc": "Indore", "dst": "Indore", "stcd": "Madhya Pradesh", "pncd": "452010"}
+    }
+  },
+  "19AAACA1123S1Z3": {
+    "gstin": "19AAACA1123S1Z3",
+    "lgnm": "UMBRA DESIGNS",
+    "tradeNam": "UMBRA DESIGNS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "28/03/2016",
+    "ctb": "Private Limited Company",
+    "pradr": {
+      "addr": {"bno": "223", "st": "Design Ave", "loc": "Kolkata", "dst": "Kolkata", "stcd": "West Bengal", "pncd": "700010"}
+    }
+  },
+  "37AAAFA1124T1Z4": {
+    "gstin": "37AAAFA1124T1Z4",
+    "lgnm": "VELOCITY COURIERS",
+    "tradeNam": "VELOCITY COURIERS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "07/05/2019",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "224", "st": "Courier Track", "loc": "Visakhapatnam", "dst": "Visakhapatnam", "stcd": "Andhra Pradesh", "pncd": "530010"}
+    }
+  },
+  "06AAAPA1125U1Z5": {
+    "gstin": "06AAAPA1125U1Z5",
+    "lgnm": "WILLOW CRAFTS",
+    "tradeNam": "WILLOW CRAFTS",
+    "sts": "Active",
+    "dty": "Composition",
+    "rgdt": "16/06/2022",
+    "ctb": "Proprietorship",
+    "pradr": {
+      "addr": {"bno": "225", "st": "Craft Alley", "loc": "Gurugram", "dst": "Gurugram", "stcd": "Haryana", "pncd": "122010"}
+    }
+  },
+  "03AAAFA1126V1Z6": {
+    "gstin": "03AAAFA1126V1Z6",
+    "lgnm": "XYLO WOODWORKS",
+    "tradeNam": "XYLO WOODWORKS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "24/07/2018",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "226", "st": "Wood Path", "loc": "Ludhiana", "dst": "Ludhiana", "stcd": "Punjab", "pncd": "141010"}
+    }
+  },
+  "32AAACA1127W1Z7": {
+    "gstin": "32AAACA1127W1Z7",
+    "lgnm": "YEN TRADERS",
+    "tradeNam": "YEN TRADERS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "02/09/2015",
+    "ctb": "Private Limited Company",
+    "pradr": {
+      "addr": {"bno": "227", "st": "Trade Plaza", "loc": "Kochi", "dst": "Ernakulam", "stcd": "Kerala", "pncd": "682010"}
+    }
+  },
+  "07AAAFA1128X1Z8": {
+    "gstin": "07AAAFA1128X1Z8",
+    "lgnm": "ZENITH SOFTWARE",
+    "tradeNam": "ZENITH SOFTWARE",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "11/10/2020",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "228", "st": "Cyber Link", "loc": "New Delhi", "dst": "New Delhi", "stcd": "Delhi", "pncd": "110010"}
+    }
+  },
+  "27AAAPA1129Y1Z9": {
+    "gstin": "27AAAPA1129Y1Z9",
+    "lgnm": "ABSOLUTE FITNESS",
+    "tradeNam": "ABSOLUTE FITNESS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "20/11/2021",
+    "ctb": "Proprietorship",
+    "pradr": {
+      "addr": {"bno": "229", "st": "Fit Street", "loc": "Mumbai", "dst": "Mumbai", "stcd": "Maharashtra", "pncd": "400059"}
+    }
+  },
+  "08AAAFA1130Z1Z0": {
+    "gstin": "08AAAFA1130Z1Z0",
+    "lgnm": "BANYAN TREE HOSPITALITY",
+    "tradeNam": "BANYAN TREE",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "29/12/2017",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "230", "st": "Hospitality Path", "loc": "Jaipur", "dst": "Jaipur", "stcd": "Rajasthan", "pncd": "302012"}
+    }
+  },
+  "29AAACA1131A1Z1": {
+    "gstin": "29AAACA1131A1Z1",
+    "lgnm": "COSMIC TECHNOLOGIES",
+    "tradeNam": "COSMIC TECH",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "07/02/2016",
+    "ctb": "Private Limited Company",
+    "pradr": {
+      "addr": {"bno": "231", "st": "Cosmic Hub", "loc": "Bengaluru", "dst": "Bengaluru", "stcd": "Karnataka", "pncd": "560011"}
+    }
+  },
+  "24AAAFA1132B1Z2": {
+    "gstin": "24AAAFA1132B1Z2",
+    "lgnm": "DYNAMIC ENGINEERING",
+    "tradeNam": "DYNAMIC ENGG",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "17/03/2019",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "232", "st": "Engine Way", "loc": "Ahmedabad", "dst": "Ahmedabad", "stcd": "Gujarat", "pncd": "380011"}
+    }
+  },
+  "33AAAPA1133C1Z3": {
+    "gstin": "33AAAPA1133C1Z3",
+    "lgnm": "ELEMENTAL DESIGNS",
+    "tradeNam": "ELEMENTAL DESIGNS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "26/04/2022",
+    "ctb": "Proprietorship",
+    "pradr": {
+      "addr": {"bno": "233", "st": "Design Ave", "loc": "Chennai", "dst": "Chennai", "stcd": "Tamil Nadu", "pncd": "600011"}
+    }
+  },
+  "09AAAFA1134D1Z4": {
+    "gstin": "09AAAFA1134D1Z4",
+    "lgnm": "FUSION PLASTICS",
+    "tradeNam": "FUSION PLASTICS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "04/06/2018",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "234", "st": "Plastic Route", "loc": "Kanpur", "dst": "Kanpur", "stcd": "Uttar Pradesh", "pncd": "208011"}
+    }
+  },
+  "23AAACA1135E1Z5": {
+    "gstin": "23AAACA1135E1Z5",
+    "lgnm": "GENESIS HEALTHCARE",
+    "tradeNam": "GENESIS HEALTHCARE",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "13/07/2015",
+    "ctb": "Private Limited Company",
+    "pradr": {
+      "addr": {"bno": "235", "st": "Health Link", "loc": "Indore", "dst": "Indore", "stcd": "Madhya Pradesh", "pncd": "452011"}
+    }
+  },
+  "19AAAFA1136F1Z6": {
+    "gstin": "19AAAFA1136F1Z6",
+    "lgnm": "HORIZON EXPORTS",
+    "tradeNam": "HORIZON EXPORTS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "21/08/2020",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "236", "st": "Export Path", "loc": "Kolkata", "dst": "Kolkata", "stcd": "West Bengal", "pncd": "700011"}
+    }
+  },
+  "37AAAPA1137G1Z7": {
+    "gstin": "37AAAPA1137G1Z7",
+    "lgnm": "ILLUSION MEDIA",
+    "tradeNam": "ILLUSION MEDIA",
+    "sts": "Active",
+    "dty": "Composition",
+    "rgdt": "30/09/2021",
+    "ctb": "Proprietorship",
+    "pradr": {
+      "addr": {"bno": "237", "st": "Media Lane", "loc": "Visakhapatnam", "dst": "Visakhapatnam", "stcd": "Andhra Pradesh", "pncd": "530011"}
+    }
+  },
+  "06AAAFA1138H1Z8": {
+    "gstin": "06AAAFA1138H1Z8",
+    "lgnm": "JUPITER STEEL",
+    "tradeNam": "JUPITER STEEL",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "17/11/2017",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "238", "st": "Steel Way", "loc": "Gurugram", "dst": "Gurugram", "stcd": "Haryana", "pncd": "122011"}
+    }
+  },
+  "03AAACA1139I1Z9": {
+    "gstin": "03AAACA1139I1Z9",
+    "lgnm": "KRYPTON CHEMICALS",
+    "tradeNam": "KRYPTON CHEMICALS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "26/12/2016",
+    "ctb": "Private Limited Company",
+    "pradr": {
+      "addr": {"bno": "239", "st": "Chem Plaza", "loc": "Ludhiana", "dst": "Ludhiana", "stcd": "Punjab", "pncd": "141011"}
+    }
+  },
+  "32AAAFA1140J1Z0": {
+    "gstin": "32AAAFA1140J1Z0",
+    "lgnm": "LUNAR LOGISTICS",
+    "tradeNam": "LUNAR LOGISTICS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "05/02/2019",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "240", "st": "Logistic Street", "loc": "Kochi", "dst": "Ernakulam", "stcd": "Kerala", "pncd": "682011"}
+    }
+  },
+  "07AAAPA1141K1Z1": {
+    "gstin": "07AAAPA1141K1Z1",
+    "lgnm": "MATRIX SOLUTIONS",
+    "tradeNam": "MATRIX SOLUTIONS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "14/03/2022",
+    "ctb": "Proprietorship",
+    "pradr": {
+      "addr": {"bno": "241", "st": "Matrix Path", "loc": "New Delhi", "dst": "New Delhi", "stcd": "Delhi", "pncd": "110011"}
+    }
+  },
+  "27AAAFA1142L1Z2": {
+    "gstin": "27AAAFA1142L1Z2",
+    "lgnm": "NOVA ENTERPRISES",
+    "tradeNam": "NOVA ENTERPRISES",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "23/04/2018",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "242", "st": "Nova Hub", "loc": "Mumbai", "dst": "Mumbai", "stcd": "Maharashtra", "pncd": "400060"}
+    }
+  },
+  "08AAACA1143M1Z3": {
+    "gstin": "08AAACA1143M1Z3",
+    "lgnm": "ORACLE FINANCIALS",
+    "tradeNam": "ORACLE FINANCIALS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "02/06/2015",
+    "ctb": "Private Limited Company",
+    "pradr": {
+      "addr": {"bno": "243", "st": "Finance Center", "loc": "Jaipur", "dst": "Jaipur", "stcd": "Rajasthan", "pncd": "302013"}
+    }
+  },
+  "29AAAFA1144N1Z4": {
+    "gstin": "29AAAFA1144N1Z4",
+    "lgnm": "PULSAR ELECTRONICS",
+    "tradeNam": "PULSAR ELECTRONICS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "11/07/2020",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "244", "st": "Electron Row", "loc": "Bengaluru", "dst": "Bengaluru", "stcd": "Karnataka", "pncd": "560012"}
+    }
+  },
+  "24AAAPA1145O1Z5": {
+    "gstin": "24AAAPA1145O1Z5",
+    "lgnm": "QASAR CONSULTING",
+    "tradeNam": "QASAR CONSULTING",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "20/08/2021",
+    "ctb": "Proprietorship",
+    "pradr": {
+      "addr": {"bno": "245", "st": "Consult Way", "loc": "Ahmedabad", "dst": "Ahmedabad", "stcd": "Gujarat", "pncd": "380012"}
+    }
+  },
+  "33AAAFA1146P1Z6": {
+    "gstin": "33AAAFA1146P1Z6",
+    "lgnm": "RADIUS NETWORKS",
+    "tradeNam": "RADIUS NETWORKS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "29/09/2017",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "246", "st": "Radius Lane", "loc": "Chennai", "dst": "Chennai", "stcd": "Tamil Nadu", "pncd": "600012"}
+    }
+  },
+  "09AAACA1147Q1Z7": {
+    "gstin": "09AAACA1147Q1Z7",
+    "lgnm": "SPECTRA PAINTS",
+    "tradeNam": "SPECTRA PAINTS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "08/11/2016",
+    "ctb": "Private Limited Company",
+    "pradr": {
+      "addr": {"bno": "247", "st": "Color Street", "loc": "Kanpur", "dst": "Kanpur", "stcd": "Uttar Pradesh", "pncd": "208012"}
+    }
+  },
+  "23AAAFA1148R1Z8": {
+    "gstin": "23AAAFA1148R1Z8",
+    "lgnm": "TITANIUM METALS",
+    "tradeNam": "TITANIUM METALS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "17/12/2019",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "248", "st": "Titan Path", "loc": "Indore", "dst": "Indore", "stcd": "Madhya Pradesh", "pncd": "452012"}
+    }
+  },
+  "19AAAPA1149S1Z9": {
+    "gstin": "19AAAPA1149S1Z9",
+    "lgnm": "URBAN ARCHITECTS",
+    "tradeNam": "URBAN ARCHITECTS",
+    "sts": "Active",
+    "dty": "Composition",
+    "rgdt": "25/01/2022",
+    "ctb": "Proprietorship",
+    "pradr": {
+      "addr": {"bno": "249", "st": "Architect Hub", "loc": "Kolkata", "dst": "Kolkata", "stcd": "West Bengal", "pncd": "700012"}
+    }
+  },
+  "37AAAFA1150T1Z0": {
+    "gstin": "37AAAFA1150T1Z0",
+    "lgnm": "VERTEX HARDWARE",
+    "tradeNam": "VERTEX HARDWARE",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "05/03/2018",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "250", "st": "Hardware Line", "loc": "Visakhapatnam", "dst": "Visakhapatnam", "stcd": "Andhra Pradesh", "pncd": "530012"}
+    }
+  },
+  "06AAACA1151U1Z1": {
+    "gstin": "06AAACA1151U1Z1",
+    "lgnm": "WINDMILL ENERGIES",
+    "tradeNam": "WINDMILL ENERGIES",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "14/04/2015",
+    "ctb": "Private Limited Company",
+    "pradr": {
+      "addr": {"bno": "251", "st": "Wind Way", "loc": "Gurugram", "dst": "Gurugram", "stcd": "Haryana", "pncd": "122012"}
+    }
+  },
+  "03AAAFA1152V1Z2": {
+    "gstin": "03AAAFA1152V1Z2",
+    "lgnm": "XYLON FURNITURE",
+    "tradeNam": "XYLON FURNITURE",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "23/05/2020",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "252", "st": "Wood Lane", "loc": "Ludhiana", "dst": "Ludhiana", "stcd": "Punjab", "pncd": "141012"}
+    }
+  },
+  "32AAAPA1153W1Z3": {
+    "gstin": "32AAAPA1153W1Z3",
+    "lgnm": "YELLOW CAB CO",
+    "tradeNam": "YELLOW CAB CO",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "02/07/2021",
+    "ctb": "Proprietorship",
+    "pradr": {
+      "addr": {"bno": "253", "st": "Cab Link", "loc": "Kochi", "dst": "Ernakulam", "stcd": "Kerala", "pncd": "682012"}
+    }
+  },
+  "07AAAFA1154X1Z4": {
+    "gstin": "07AAAFA1154X1Z4",
+    "lgnm": "ZETA PHARMACEUTICALS",
+    "tradeNam": "ZETA PHARMA",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "01/08/2017",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "254", "st": "Pharma Square", "loc": "New Delhi", "dst": "New Delhi", "stcd": "Delhi", "pncd": "110012"}
+    }
+  },
+  "27AAACA1155Y1Z5": {
+    "gstin": "27AAACA1155Y1Z5",
+    "lgnm": "AERO DYNAMICS",
+    "tradeNam": "AERO DYNAMICS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "10/09/2016",
+    "ctb": "Private Limited Company",
+    "pradr": {
+      "addr": {"bno": "255", "st": "Dynamic Path", "loc": "Mumbai", "dst": "Mumbai", "stcd": "Maharashtra", "pncd": "400061"}
+    }
+  },
+  "08AAAFA1156Z1Z6": {
+    "gstin": "08AAAFA1156Z1Z6",
+    "lgnm": "BLISS SPAS",
+    "tradeNam": "BLISS SPAS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "19/10/2019",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "256", "st": "Spa Alley", "loc": "Jaipur", "dst": "Jaipur", "stcd": "Rajasthan", "pncd": "302014"}
+    }
+  },
+  "29AAAPA1157A1Z7": {
+    "gstin": "29AAAPA1157A1Z7",
+    "lgnm": "COBALT MINING",
+    "tradeNam": "COBALT MINING",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "28/11/2022",
+    "ctb": "Proprietorship",
+    "pradr": {
+      "addr": {"bno": "257", "st": "Mine Hub", "loc": "Bengaluru", "dst": "Bengaluru", "stcd": "Karnataka", "pncd": "560013"}
+    }
+  },
+  "24AAAFA1158B1Z8": {
+    "gstin": "24AAAFA1158B1Z8",
+    "lgnm": "DEX LOGISTICS",
+    "tradeNam": "DEX LOGISTICS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "06/01/2018",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "258", "st": "Dex Route", "loc": "Ahmedabad", "dst": "Ahmedabad", "stcd": "Gujarat", "pncd": "380013"}
+    }
+  },
+  "33AAACA1159C1Z9": {
+    "gstin": "33AAACA1159C1Z9",
+    "lgnm": "EAGLE EYE SECURITY",
+    "tradeNam": "EAGLE EYE",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "15/02/2015",
+    "ctb": "Private Limited Company",
+    "pradr": {
+      "addr": {"bno": "259", "st": "Eagle Plaza", "loc": "Chennai", "dst": "Chennai", "stcd": "Tamil Nadu", "pncd": "600013"}
+    }
+  },
+  "09AAAFA1160D1Z0": {
+    "gstin": "09AAAFA1160D1Z0",
+    "lgnm": "FROST REFRIGERATION",
+    "tradeNam": "FROST REFRIGERATION",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "24/03/2020",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "260", "st": "Cooling Zone", "loc": "Kanpur", "dst": "Kanpur", "stcd": "Uttar Pradesh", "pncd": "208013"}
+    }
+  },
+  "23AAAPA1161E1Z1": {
+    "gstin": "23AAAPA1161E1Z1",
+    "lgnm": "GALAXY TOURS",
+    "tradeNam": "GALAXY TOURS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "03/05/2021",
+    "ctb": "Proprietorship",
+    "pradr": {
+      "addr": {"bno": "261", "st": "Tour Path", "loc": "Indore", "dst": "Indore", "stcd": "Madhya Pradesh", "pncd": "452013"}
+    }
+  },
+  "19AAAFA1162F1Z2": {
+    "gstin": "19AAAFA1162F1Z2",
+    "lgnm": "HARMONY MUSIC",
+    "tradeNam": "HARMONY MUSIC",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "22/06/2017",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "262", "st": "Harmony Line", "loc": "Kolkata", "dst": "Kolkata", "stcd": "West Bengal", "pncd": "700013"}
+    }
+  },
+  "37AAACA1163G1Z3": {
+    "gstin": "37AAACA1163G1Z3",
+    "lgnm": "INDIGO TEXTILES",
+    "tradeNam": "INDIGO TEXTILES",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "31/07/2016",
+    "ctb": "Private Limited Company",
+    "pradr": {
+      "addr": {"bno": "263", "st": "Textile Hub", "loc": "Visakhapatnam", "dst": "Visakhapatnam", "stcd": "Andhra Pradesh", "pncd": "530013"}
+    }
+  },
+  "06AAAFA1164H1Z4": {
+    "gstin": "06AAAFA1164H1Z4",
+    "lgnm": "JADE LOGISTICS",
+    "tradeNam": "JADE LOGISTICS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "09/09/2019",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "264", "st": "Logistic Path", "loc": "Gurugram", "dst": "Gurugram", "stcd": "Haryana", "pncd": "122013"}
+    }
+  },
+  "03AAAPA1165I1Z5": {
+    "gstin": "03AAAPA1165I1Z5",
+    "lgnm": "KINETIC ENERGY",
+    "tradeNam": "KINETIC ENERGY",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "18/10/2022",
+    "ctb": "Proprietorship",
+    "pradr": {
+      "addr": {"bno": "265", "st": "Energy Link", "loc": "Ludhiana", "dst": "Ludhiana", "stcd": "Punjab", "pncd": "141013"}
+    }
+  },
+  "32AAAFA1166J1Z6": {
+    "gstin": "32AAAFA1166J1Z6",
+    "lgnm": "LUMINOUS LIGHTING",
+    "tradeNam": "LUMINOUS LIGHTING",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "27/11/2018",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "266", "st": "Light Street", "loc": "Kochi", "dst": "Ernakulam", "stcd": "Kerala", "pncd": "682013"}
+    }
+  },
+  "07AAACA1167K1Z7": {
+    "gstin": "07AAACA1167K1Z7",
+    "lgnm": "MAGMA METALS",
+    "tradeNam": "MAGMA METALS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "05/01/2016",
+    "ctb": "Private Limited Company",
+    "pradr": {
+      "addr": {"bno": "267", "st": "Metal Plaza", "loc": "New Delhi", "dst": "New Delhi", "stcd": "Delhi", "pncd": "110013"}
+    }
+  },
+  "27AAAFA1168L1Z8": {
+    "gstin": "27AAAFA1168L1Z8",
+    "lgnm": "NECTAR FOODS",
+    "tradeNam": "NECTAR FOODS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "14/02/2020",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "268", "st": "Food Alley", "loc": "Mumbai", "dst": "Mumbai", "stcd": "Maharashtra", "pncd": "400062"}
+    }
+  },
+  "08AAAPA1169M1Z9": {
+    "gstin": "08AAAPA1169M1Z9",
+    "lgnm": "OBSIDIAN GLASS",
+    "tradeNam": "OBSIDIAN GLASS",
+    "sts": "Active",
+    "dty": "Composition",
+    "rgdt": "25/03/2021",
+    "ctb": "Proprietorship",
+    "pradr": {
+      "addr": {"bno": "269", "st": "Glass Row", "loc": "Jaipur", "dst": "Jaipur", "stcd": "Rajasthan", "pncd": "302015"}
+    }
+  },
+  "29AAAFA1170N1Z0": {
+    "gstin": "29AAAFA1170N1Z0",
+    "lgnm": "PEGASUS TRAVELS",
+    "tradeNam": "PEGASUS TRAVELS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "04/05/2017",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "270", "st": "Travel Way", "loc": "Bengaluru", "dst": "Bengaluru", "stcd": "Karnataka", "pncd": "560014"}
+    }
+  },
+  "24AAACA1171O1Z1": {
+    "gstin": "24AAACA1171O1Z1",
+    "lgnm": "QUARTZ WATCHES",
+    "tradeNam": "QUARTZ WATCHES",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "03/06/2016",
+    "ctb": "Private Limited Company",
+    "pradr": {
+      "addr": {"bno": "271", "st": "Quartz Path", "loc": "Ahmedabad", "dst": "Ahmedabad", "stcd": "Gujarat", "pncd": "380014"}
+    }
+  },
+  "33AAAFA1172P1Z2": {
+    "gstin": "33AAAFA1172P1Z2",
+    "lgnm": "RADAR SYSTEMS",
+    "tradeNam": "RADAR SYSTEMS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "22/07/2019",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "272", "st": "System Lane", "loc": "Chennai", "dst": "Chennai", "stcd": "Tamil Nadu", "pncd": "600014"}
+    }
+  },
+  "09AAAPA1173Q1Z3": {
+    "gstin": "09AAAPA1173Q1Z3",
+    "lgnm": "SYNAPSE BIOTECH",
+    "tradeNam": "SYNAPSE BIOTECH",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "21/08/2022",
+    "ctb": "Proprietorship",
+    "pradr": {
+      "addr": {"bno": "273", "st": "Bio Square", "loc": "Kanpur", "dst": "Kanpur", "stcd": "Uttar Pradesh", "pncd": "208014"}
+    }
+  },
+  "23AAAFA1174R1Z4": {
+    "gstin": "23AAAFA1174R1Z4",
+    "lgnm": "TORNADO FANS",
+    "tradeNam": "TORNADO FANS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "30/09/2018",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "274", "st": "Fan Market", "loc": "Indore", "dst": "Indore", "stcd": "Madhya Pradesh", "pncd": "452014"}
+    }
+  },
+  "19AAACA1175S1Z5": {
+    "gstin": "19AAACA1175S1Z5",
+    "lgnm": "ULTIMATE LOGISTICS",
+    "tradeNam": "ULTIMATE LOG",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "18/11/2015",
+    "ctb": "Private Limited Company",
+    "pradr": {
+      "addr": {"bno": "275", "st": "Log Hub", "loc": "Kolkata", "dst": "Kolkata", "stcd": "West Bengal", "pncd": "700014"}
+    }
+  },
+  "37AAAFA1176T1Z6": {
+    "gstin": "37AAAFA1176T1Z6",
+    "lgnm": "VORTEX PUMPS",
+    "tradeNam": "VORTEX PUMPS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "17/12/2020",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "276", "st": "Pump Street", "loc": "Visakhapatnam", "dst": "Visakhapatnam", "stcd": "Andhra Pradesh", "pncd": "530014"}
+    }
+  },
+  "06AAAPA1177U1Z7": {
+    "gstin": "06AAAPA1177U1Z7",
+    "lgnm": "WOLF PACKAGING",
+    "tradeNam": "WOLF PACKAGING",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "26/01/2021",
+    "ctb": "Proprietorship",
+    "pradr": {
+      "addr": {"bno": "277", "st": "Wolf Pack", "loc": "Gurugram", "dst": "Gurugram", "stcd": "Haryana", "pncd": "122014"}
+    }
+  },
+  "03AAAFA1178V1Z8": {
+    "gstin": "03AAAFA1178V1Z8",
+    "lgnm": "XENITH HOSPITALITY",
+    "tradeNam": "XENITH HOSPITALITY",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "07/03/2017",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "278", "st": "Hospitality Way", "loc": "Ludhiana", "dst": "Ludhiana", "stcd": "Punjab", "pncd": "141014"}
+    }
+  },
+  "32AAACA1179W1Z9": {
+    "gstin": "32AAACA1179W1Z9",
+    "lgnm": "YACHT CLUB",
+    "tradeNam": "YACHT CLUB",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "16/04/2016",
+    "ctb": "Private Limited Company",
+    "pradr": {
+      "addr": {"bno": "279", "st": "Club Road", "loc": "Kochi", "dst": "Ernakulam", "stcd": "Kerala", "pncd": "682014"}
+    }
+  },
+  "07AAAFA1180X1Z0": {
+    "gstin": "07AAAFA1180X1Z0",
+    "lgnm": "ZENITH EDUCATION",
+    "tradeNam": "ZENITH EDUCATION",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "25/05/2019",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "280", "st": "Edu Hub", "loc": "New Delhi", "dst": "New Delhi", "stcd": "Delhi", "pncd": "110014"}
+    }
+  },
+  "27AAAPA1181Y1Z1": {
+    "gstin": "27AAAPA1181Y1Z1",
+    "lgnm": "AEON TEXTILES",
+    "tradeNam": "AEON TEXTILES",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "03/07/2022",
+    "ctb": "Proprietorship",
+    "pradr": {
+      "addr": {"bno": "281", "st": "Textile Square", "loc": "Mumbai", "dst": "Mumbai", "stcd": "Maharashtra", "pncd": "400063"}
+    }
+  },
+  "08AAAFA1182Z1Z2": {
+    "gstin": "08AAAFA1182Z1Z2",
+    "lgnm": "BARIUM SOFTWARE",
+    "tradeNam": "BARIUM SOFTWARE",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "12/08/2018",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "282", "st": "Software Hub", "loc": "Jaipur", "dst": "Jaipur", "stcd": "Rajasthan", "pncd": "302016"}
+    }
+  },
+  "29AAACA1183A1Z3": {
+    "gstin": "29AAACA1183A1Z3",
+    "lgnm": "CHRONO LOGISTICS",
+    "tradeNam": "CHRONO LOGISTICS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "21/09/2015",
+    "ctb": "Private Limited Company",
+    "pradr": {
+      "addr": {"bno": "283", "st": "Log Center", "loc": "Bengaluru", "dst": "Bengaluru", "stcd": "Karnataka", "pncd": "560015"}
+    }
+  },
+  "24AAAFA1184B1Z4": {
+    "gstin": "24AAAFA1184B1Z4",
+    "lgnm": "DUNE AUTOMOTIVE",
+    "tradeNam": "DUNE AUTOMOTIVE",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "30/10/2020",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "284", "st": "Auto Lane", "loc": "Ahmedabad", "dst": "Ahmedabad", "stcd": "Gujarat", "pncd": "380015"}
+    }
+  },
+  "33AAAPA1185C1Z5": {
+    "gstin": "33AAAPA1185C1Z5",
+    "lgnm": "ENIGMA ENTERPRISES",
+    "tradeNam": "ENIGMA ENTERPRISES",
+    "sts": "Active",
+    "dty": "Composition",
+    "rgdt": "08/12/2021",
+    "ctb": "Proprietorship",
+    "pradr": {
+      "addr": {"bno": "285", "st": "Enter Path", "loc": "Chennai", "dst": "Chennai", "stcd": "Tamil Nadu", "pncd": "600015"}
+    }
+  },
+  "09AAAFA1186D1Z6": {
+    "gstin": "09AAAFA1186D1Z6",
+    "lgnm": "FORGE SOLUTIONS",
+    "tradeNam": "FORGE SOLUTIONS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "17/01/2018",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "286", "st": "Solution Way", "loc": "Kanpur", "dst": "Kanpur", "stcd": "Uttar Pradesh", "pncd": "208015"}
+    }
+  },
+  "23AAACA1187E1Z7": {
+    "gstin": "23AAACA1187E1Z7",
+    "lgnm": "GRAVITY MINING",
+    "tradeNam": "GRAVITY MINING",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "26/02/2016",
+    "ctb": "Private Limited Company",
+    "pradr": {
+      "addr": {"bno": "287", "st": "Mine Strip", "loc": "Indore", "dst": "Indore", "stcd": "Madhya Pradesh", "pncd": "452015"}
+    }
+  },
+  "19AAAFA1188F1Z8": {
+    "gstin": "19AAAFA1188F1Z8",
+    "lgnm": "HAVEN MEDIA",
+    "tradeNam": "HAVEN MEDIA",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "07/04/2019",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "288", "st": "Media Plaza", "loc": "Kolkata", "dst": "Kolkata", "stcd": "West Bengal", "pncd": "700015"}
+    }
+  },
+  "37AAAPA1189G1Z9": {
+    "gstin": "37AAAPA1189G1Z9",
+    "lgnm": "IGNITE TRADING",
+    "tradeNam": "IGNITE TRADING",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "16/05/2022",
+    "ctb": "Proprietorship",
+    "pradr": {
+      "addr": {"bno": "289", "st": "Trading Hub", "loc": "Visakhapatnam", "dst": "Visakhapatnam", "stcd": "Andhra Pradesh", "pncd": "530015"}
+    }
+  },
+  "06AAAFA1190H1Z0": {
+    "gstin": "06AAAFA1190H1Z0",
+    "lgnm": "JOULE CONSULTING",
+    "tradeNam": "JOULE CONSULTING",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "25/06/2018",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "290", "st": "Consult Lane", "loc": "Gurugram", "dst": "Gurugram", "stcd": "Haryana", "pncd": "122015"}
+    }
+  },
+  "03AAACA1191I1Z1": {
+    "gstin": "03AAACA1191I1Z1",
+    "lgnm": "KINETIC TECHNOLOGIES",
+    "tradeNam": "KINETIC TECH",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "03/08/2015",
+    "ctb": "Private Limited Company",
+    "pradr": {
+      "addr": {"bno": "291", "st": "Tech Square", "loc": "Ludhiana", "dst": "Ludhiana", "stcd": "Punjab", "pncd": "141015"}
+    }
+  },
+  "32AAAFA1192J1Z2": {
+    "gstin": "32AAAFA1192J1Z2",
+    "lgnm": "LYNX PRODUCTIONS",
+    "tradeNam": "LYNX PRODUCTIONS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "12/09/2020",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "292", "st": "Prod Hub", "loc": "Kochi", "dst": "Ernakulam", "stcd": "Kerala", "pncd": "682015"}
+    }
+  },
+  "07AAAPA1193K1Z3": {
+    "gstin": "07AAAPA1193K1Z3",
+    "lgnm": "MIRAGE EVENTS",
+    "tradeNam": "MIRAGE EVENTS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "21/10/2021",
+    "ctb": "Proprietorship",
+    "pradr": {
+      "addr": {"bno": "293", "st": "Event Street", "loc": "New Delhi", "dst": "New Delhi", "stcd": "Delhi", "pncd": "110015"}
+    }
+  },
+  "27AAAFA1194L1Z4": {
+    "gstin": "27AAAFA1194L1Z4",
+    "lgnm": "NEBULA COURIERS",
+    "tradeNam": "NEBULA COURIERS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "30/11/2017",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "294", "st": "Courier Hub", "loc": "Mumbai", "dst": "Mumbai", "stcd": "Maharashtra", "pncd": "400064"}
+    }
+  },
+  "08AAACA1195M1Z5": {
+    "gstin": "08AAACA1195M1Z5",
+    "lgnm": "OPAL HEALTHCARE",
+    "tradeNam": "OPAL HEALTHCARE",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "08/01/2016",
+    "ctb": "Private Limited Company",
+    "pradr": {
+      "addr": {"bno": "295", "st": "Health Center", "loc": "Jaipur", "dst": "Jaipur", "stcd": "Rajasthan", "pncd": "302017"}
+    }
+  },
+  "29AAAFA1196N1Z6": {
+    "gstin": "29AAAFA1196N1Z6",
+    "lgnm": "PRISM PACKAGING",
+    "tradeNam": "PRISM PACKAGING",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "17/02/2019",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "296", "st": "Pack Square", "loc": "Bengaluru", "dst": "Bengaluru", "stcd": "Karnataka", "pncd": "560016"}
+    }
+  },
+  "24AAAPA1197O1Z7": {
+    "gstin": "24AAAPA1197O1Z7",
+    "lgnm": "QUANTUM FITNESS",
+    "tradeNam": "QUANTUM FITNESS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "28/03/2022",
+    "ctb": "Proprietorship",
+    "pradr": {
+      "addr": {"bno": "297", "st": "Fit Path", "loc": "Ahmedabad", "dst": "Ahmedabad", "stcd": "Gujarat", "pncd": "380016"}
+    }
+  },
+  "33AAAFA1198P1Z8": {
+    "gstin": "33AAAFA1198P1Z8",
+    "lgnm": "RADIAN TOURS",
+    "tradeNam": "RADIAN TOURS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "06/05/2018",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "298", "st": "Tour Path", "loc": "Chennai", "dst": "Chennai", "stcd": "Tamil Nadu", "pncd": "600016"}
+    }
+  },
+  "09AAACA1199Q1Z9": {
+    "gstin": "09AAACA1199Q1Z9",
+    "lgnm": "STELLAR SPORTS",
+    "tradeNam": "STELLAR SPORTS",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "15/06/2015",
+    "ctb": "Private Limited Company",
+    "pradr": {
+      "addr": {"bno": "299", "st": "Sports Center", "loc": "Kanpur", "dst": "Kanpur", "stcd": "Uttar Pradesh", "pncd": "208016"}
+    }
+  },
+  "23AAAFA1200R1Z0": {
+    "gstin": "23AAAFA1200R1Z0",
+    "lgnm": "TITAN TRADING",
+    "tradeNam": "TITAN TRADING",
+    "sts": "Active",
+    "dty": "Regular",
+    "rgdt": "24/07/2020",
+    "ctb": "Partnership",
+    "pradr": {
+      "addr": {"bno": "300", "st": "Trade Line", "loc": "Indore", "dst": "Indore", "stcd": "Madhya Pradesh", "pncd": "452016"}
+    }
   }
 }
