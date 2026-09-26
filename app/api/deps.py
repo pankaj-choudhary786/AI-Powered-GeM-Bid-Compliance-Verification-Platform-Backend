@@ -29,10 +29,14 @@ def get_current_user(credentials: HTTPAuthorizationCredentials = Depends(securit
 
 def require_role(allowed_roles: list[UserRole]):
     def role_checker(current_user: User = Depends(get_current_user)):
-        if current_user.role not in allowed_roles:
+        # Convert both to string values to avoid Enum vs String mismatch
+        user_role_str = current_user.role.value if hasattr(current_user.role, 'value') else str(current_user.role)
+        allowed_roles_str = [r.value if hasattr(r, 'value') else str(r) for r in allowed_roles]
+        
+        if user_role_str not in allowed_roles_str:
             raise HTTPException(
                 status_code=status.HTTP_403_FORBIDDEN,
-                detail=f"Access denied. Requires one of: {[r.value for r in allowed_roles]}"
+                detail=f"Access denied. Requires one of: {allowed_roles_str}"
             )
         return current_user
     return role_checker

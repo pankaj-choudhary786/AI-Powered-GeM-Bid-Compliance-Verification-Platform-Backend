@@ -11,7 +11,7 @@ from paddleocr import PaddleOCR
 
 logging.getLogger('ppocr').setLevel(logging.ERROR)
 
-ocr_engine = PaddleOCR(use_angle_cls=True, lang='en', use_mkldnn=False)
+ocr_engine = PaddleOCR(use_angle_cls=True, lang='en', use_mkldnn=False, enable_mkldnn=False)
 
 def extract_text_with_boxes(image_path: str) -> list[dict]:
     result = ocr_engine.ocr(image_path)

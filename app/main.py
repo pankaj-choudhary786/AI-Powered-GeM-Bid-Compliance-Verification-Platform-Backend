@@ -3,7 +3,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from app.core.config import settings
 from app.db.database import engine, Base
-from app.api.routes import auth, tenders, submissions, documents, verifications,officer
+from app.api.routes import auth, tenders, submissions, documents, verifications, officer
 
 # Import models so SQLAlchemy knows they exist and can build the tables
 from app.db import models
@@ -49,4 +49,4 @@ app.include_router(tenders.router, prefix="/api/tenders", tags=["Tenders"])
 app.include_router(submissions.router, prefix="/api/submissions", tags=["Submissions"])
 app.include_router(documents.router, prefix="/api/documents", tags=["Documents"])
 app.include_router(verifications.router, prefix="/api/verifications", tags=["Verifications"])
-app.include_router(officer.router, prefix="/api/officer")
+app.include_router(officer.router, prefix="/api/officer", tags=["Officer Operations"])
